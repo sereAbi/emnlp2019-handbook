@@ -1,5 +1,5 @@
-Step 1: modify input/conferences.txt
-Step 2: bash scripts/download-proceedings.sh
+- Step 1: modify input/conferences.txt
+- Step 2: bash scripts/download-proceedings.sh
 
 
 
