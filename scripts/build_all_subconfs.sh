@@ -1,8 +1,8 @@
-basedir=~/emnlp17/emnlp17-handbook
-
+basedir=/Users/kwchang/workspace/emnlphandbook/emnlp2018-handbook
 for subconf_data in $basedir/data/* ; 
 do
   subconf=`basename $subconf_data`
+  echo $subconf
   if [ $subconf != papers ] 
   then 
     echo $subconf
