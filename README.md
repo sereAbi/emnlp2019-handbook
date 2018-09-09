@@ -1,3 +1,10 @@
+- Step 1: modify input/conferences.txt
+- Step 2: bash scripts/download-proceedings.sh
+
+
+
+
+--------
 If you're reading this, it's likely because you've been asked to
 assemble an *ACL handbook. Congratulations!  
 
