@@ -35,6 +35,7 @@ handbook.dep:
 EXTENSIONS  = .ilg .ps .dvi .dep .idx .idx.fixed .ind .aux .idx.ilg .bbl .blg .bcf .toc .fls .log -blx.bib .run.xml .out
 
 clean: 
+#	echo 'clean'
 	rm -f $(addprefix handbook, ${EXTENSIONS})
 
 -include handbook.dep

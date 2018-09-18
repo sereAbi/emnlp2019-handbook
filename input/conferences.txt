@@ -9,6 +9,7 @@ scai18
 UDW18
 SIGMORPHON
 conll
-papes
+papers
+WASSA-2018
 w-nut
 SMM4H
