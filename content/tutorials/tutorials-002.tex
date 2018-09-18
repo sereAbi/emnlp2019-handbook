@@ -1,21 +1,38 @@
 \begin{bio}
-\textbf{Prof. Pushpak Bhattacharyya} is the current President of ACL (2016-17). He is the Director of IIT Patna and Vijay and Sita Vashee Chair Professor in IIT Bombay, Computer Science and Engineering Department. He was educated in IIT Kharagpur (B.Tech), IIT Kanpur (M.Tech) and IIT Bombay (PhD). He has been visiting scholar and faculty in MIT, Stanford, UT Houston and University Joseph Fouriere (France). Prof. Bhattacharyya’s research areas are Natural Language Processing, Machine Learning and AI. He has guided more than 250 students (PhD, masters and Bachelors), has published more than 250 research papers and led government and industry projects of international and national importance. A significant contribution of his is Multilingual Lexical Knowledge Bases and Projection. Author of the text book ‘Machine Translation’ Prof. Bhattacharyya is loved by his students for his inspiring teaching and mentorship. He is a Fellow of National Academy of Engineering and recipient of Patwardhan Award of IIT Bombay and VNMM award of IIT Roorkey- both for technology development, and faculty grants of IBM, Microsoft, Yahoo and United Nations.
 
-\textbf{Aditya Joshi} is a PhD student at IITB-Monash Research Academy, a joint PhD programme between Indian Institute of Technology Bombay, India and Monash University, Australia, since January 2013. His PhD advisors are Pushpak Bhattacharyya (IITB) and Mark Carman (Monash). His primary research focus is computational sarcasm where he has explored different ways in which incongruity can be captured in order to detect and generate sarcasm. In addition, he has worked on innovative applications of NLP such as sentiment analysis for Indian languages, drunk-texting prediction, news headline translation, political issue extraction, etc.
+\textbf{Adam Lopez} develops computational models of natural language learning, understanding and generation
+in people and machines, and his research focuses on basic scientific, mathematical, and
+engineering problems related to these models. He is especially interested in models that handle
+the diversity of morphological, syntactic, and semantic phenomena across the world�s languages.
+He teaches undergraduate and master�s-level courses in natural language processing at the School
+of Informatics at the University of Edinburgh, and previously in the Department of Computer
+Science at the Johns Hopkins University. These courses have ranged in size from 10 to 200 students
+from a variety of backgrounds, including computer science, mathematics, and linguistics. He
+previously taught a popular course in machine translation at ESSLLI in 2010 and NASSLLI in
+2012. He has given many tutorial lectures at outreach events for high school students, and once at
+a poetry event for a local arts festival.
+
+\textbf{Sorcha Gilroy} is currently a third year PhD student in the Edinburgh NLP group. Her research is
+focused on probabilistic models of graphs. She has worked closely with Hyperedge Replacement
+Grammars, Monadic Second-Order Logic and Directed Acyclic Graph Automata, which will all
+be at least touched on in this course. She has given several talks on this topic in the past at the
+Universities of Edinburgh, Amsterdam, Melbourne, the Information Sciences Institute, and the IT
+University of Copenhagen. She has been a teaching assistant in courses on formal language theory,
+machine translation, and machine learning at the University of Edinburgh; her responsibilities
+included leading tutorial sessions for students. She once gave a public talk on machine translation
+(using magnets) in front of the Scottish National Gallery as part of the UK�s Soapbox Science
+festival.
+
 \end{bio}
 
 \begin{tutorial}
-  {Computational Sarcasm}
+  {Graph Formalisms for Meaning Representations}
   {tutorial-final-002}
-  {\daydateyear, \tutorialmorningtime}
-  {\TutLocB}
+  {\daydateyear1, \tutorialmorningtime}
+  {\TutLocNoIdea}
 
-Sarcasm is a form of verbal irony that is intended to express contempt or ridicule. Motivated by challenges posed by sarcastic text to sentiment analysis, computational approaches to sarcasm have witnessed a growing interest at NLP forums in the past decade. Computational sarcasm refers to automatic approaches pertaining to sarcasm. The tutorial will provide a bird’s-eye view of the research in computational sarcasm for text, while focusing on significant milestones.
+In this tutorial we will focus on Hyperedge Replacement Languages (HRL; Drewes et al. 1997), a context-free graph rewriting system. HRL are one of the most popular graph formalisms to be studied in NLP (Chiang et al., 2013; Peng et al., 2015; Bauer and Rambow, 2016). We will discuss HRL by formally defining them, studying several examples, discussing their properties, and providing exercises for the tutorial. While HRL have been used in NLP in the past, there is some speculation that they are more expressive than is necessary for graphs representing natural language (Drewes, 2017). Part of our own research has been exploring what restrictions of HRL could yield languages that are more useful for NLP and also those that have desirable properties for NLP models, such as being closed under intersection.
 
-The tutorial begins with linguistic theories of sarcasm, with a focus on incongruity: a useful notion that underlies sarcasm and other forms of figurative language. Since the most significant work in computational sarcasm is sarcasm detection: predicting whether a given piece of text is sarcastic or not, sarcasm detection forms the focus hereafter. We begin our discussion on sarcasm detection with datasets, touching on strategies, challenges and nature of datasets. Then, we describe algorithms for sarcasm detection: rule-based (where a specific evidence of sarcasm is utilised as a rule), statistical classifier-based (where features are designed for a statistical classifier), a topic model-based technique, and deep learning-based algorithms for sarcasm detection. In case of each of these algorithms, we refer to our work on sarcasm detection and share our learnings. Since information beyond the text to be classified, contextual information is useful for sarcasm detection, we then describe approaches that use such information through conversational context or author-specific context.
-
-We then follow it by novel areas in computational sarcasm such as sarcasm generation, sarcasm v/s irony classification, etc. We then summarise the tutorial and describe future directions based on errors reported in past work. The tutorial will end with a demonstration of our work on sarcasm detection.
-
-This tutorial will be of interest to researchers investigating computational sarcasm and related areas such as computational humour, figurative language understanding, emotion and sentiment sentiment analysis, etc. The tutorial is motivated by our continually evolving survey paper of sarcasm detection, that is available on arXiv at: Joshi, Aditya, Pushpak Bhattacharyya, and Mark James Carman. “Automatic Sarcasm Detection: A Survey.” arXiv preprint arXiv:1602.03426 (2016).
+With that in mind, we also plan to discuss Regular Graph Languages (RGL; Courcelle 1991), a subfamily of HRL which are closed under intersection. The definition of RGL is relatively simple after being introduced to HRL. We do not plan on discussing any proofs of why RGL are also a subfamily of MSOL, as described in Gilroy et al. (2017b). We will briefly mention the other formalisms shown in Figure 1 such as MSOL and DAGAL but this will focus on their properties rather than any formal definitions.
 
 \end{tutorial}
