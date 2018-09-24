@@ -50,31 +50,30 @@
 
 % for each part of the conference, add the .bib file produced with
 % meta2bibtex.py here:
-
 % MAIN CONFERENCE
+
 \bibliography{auto/tacl/papers.bib}
 \bibliography{auto/papers/papers.bib}
-\bibliography{auto/demos/papers.bib}
+%\bibliography{auto/demos/papers.bib}
 
 % WORKSHOPS
 % main workshop info (titles/organizers/...)
-\bibliography{content/workshops/papers2.bib}
+\bibliography{content/workshops/papers.bib}
 % individual WS contributions
-\bibliography{auto/argmining2017/papers.bib}
-\bibliography{auto/bea2017/papers.bib}
-\bibliography{auto/DiscoMT2017/papers.bib}
-\bibliography{auto/GenNLP/papers.bib}
-\bibliography{auto/NewSum/papers.bib}
-\bibliography{auto/nlp-journ/papers.bib}
-\bibliography{auto/repeval/papers.bib}
-\bibliography{auto/sclem/papers.bib}
-\bibliography{auto/scnlp/papers.bib}
-\bibliography{auto/SPNLP/papers.bib}
-\bibliography{auto/StyVa/papers.bib}
-\bibliography{auto/wassa2017/papers.bib}
-\bibliography{auto/wmt/papers.bib}
+\bibliography{auto/ALW2/papers.bib}
+\bibliography{auto/BioASQ/papers.bib}
+\bibliography{auto/BlackboxNLP/papers.bib}
+\bibliography{auto/FEVER/papers.bib}
+\bibliography{auto/SIGMORPHON/papers.bib}
+\bibliography{auto/SMM4H/papers.bib}
+\bibliography{auto/UDW18/papers.bib}
+%\bibliography{auto/WMT/papers.bib}
+%\bibliography{auto/argmining2018/papers.bib}
+\bibliography{auto/conll/papers.bib}
+\bibliography{auto/louhi2018/papers.bib}
+\bibliography{auto/scai18/papers.bib}
 \bibliography{auto/w-nut/papers.bib}
-
+%\bibliography{auto/WASSA-2018/papers.bib}
 % TUTORIALS
 \bibliography{auto/tutorial-final/papers.bib}
 
@@ -94,10 +93,10 @@
 \thispagestyle{empty}
 \vspace*{6in}
 \begin{linez}
-\emph{Cover design by Aurelia Bunescu}\index{Bunescu, Aurelia}
+\emph{Cover design by }\index{Bunescu, Aurelia}
 \emph{Cover photo by Matthew James}\index{James, Matthew}
-\emph{Deep gratitude to Matt Post for invaluable advice with creating this handbook}\index{Post, Matt}
-\emph{Handbook assembled by Joachim Bingel}\index{Bingel, Joachim}
+\emph{Deep gratitude to Joachim Bingel for invaluable advice with creating this handbook}\index{Bingel, Joachim}
+    \emph{Handbook assembled by Kai-Wei Chang and proofread by He He}\index{Chang, Kai-Wei}\index{He, He}
 \emph{Printing by Frederiksbergs Bogtrykkeri A/S}
 \end{linez}
 
@@ -139,26 +138,30 @@
 %\todo{full overview for all days}
 
 %% TUTORIALS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setdaydateyear{Thursday}{September 7}{2017}
+\setdaydateyear{Wednesday}{October 31}{2018}
 \input{content/tutorials/tutorials1-overview}
 
-\setdaydateyear{Friday}{September 8}{2017}
+\setdaydateyear{Thursday}{November 1}{2018}
 \input{content/tutorials/tutorials2-overview}
 
 %% WORKSHOPS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setdaydateyear{Thursday--Friday}{September 7--8}{2017}
-\input{content/workshops/workshops}
+%\setdaydateyear{Wednesday--Thursday}{October 31--November 1}{2018}
+%\input{content/workshops/workshops}
 
 
 %% MAIN CONFERENCE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setdaydateyear{Saturday}{September 9}{2017}
-\input{content/day1/day1}
+%\setdaydateyear{Saturday}{September 9}{2017}
+%\input{content/day1/day1}
 
-\setdaydateyear{Sunday}{September 10}{2017}
-\input{content/day2/day2}
+%\setdaydateyear{Sunday}{September 10}{2017}
+%\input{content/day2/day2}
 
-\setdaydateyear{Monday}{September 11}{2017}
-\input{content/day3/day3}
+%\setdaydateyear{Monday}{September 11}{2017}
+%\input{content/day3/day3}
+
+%\input{auto/papers/Saturday-Session-5D.tex}
+
+%\input{auto/papers/Sunday-Session-4F.tex}
 
 %% MISC %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Anti-harassment policy
@@ -172,18 +175,17 @@
 
 %% LOCAL GUIDE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\setheaders{Local Guide}{Local Guide}
-\input{content/local-guide/local-guide.tex}
-\clearpage
+%\setheaders{Local Guide}{Local Guide}
 
+%\input{content/local-guide/local-guide.tex}
+%\clearpage
+
+\includepdf[pages=-]{content/local-guide/local-guide.pdf}
 
 %% ADS AND SPONSORS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\clearpage
 \setheaders{}{}
 \input{content/ads/ads}
-
 \cleartobackcover
 \input{content/sponsors/sponsors}
 
 \end{document}
-
