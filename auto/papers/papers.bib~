@@ -1,0 +1,2192 @@
+@INPROCEEDINGS{papers-1069,
+   AUTHOR = {Fadaee, Marzieh and Monz, Christof},
+   SORTNAME = {Fadaee, Marzieh and Monz, Christof},
+   TITLE = {Back-Translation Sampling by Targeting Difficult Words in Neural Machine Translation}}
+@INPROCEEDINGS{papers-909,
+   AUTHOR = {Popat, Kashyap and Mukherjee, Subhabrata and Yates, Andrew and Weikum, Gerhard},
+   SORTNAME = {Popat, Kashyap and Mukherjee, Subhabrata and Yates, Andrew and Weikum, Gerhard},
+   TITLE = {DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning}}
+@INPROCEEDINGS{papers-1600,
+   AUTHOR = {Wuebker, Joern and Simianer, Patrick and DeNero, John},
+   SORTNAME = {Wuebker, Joern and Simianer, Patrick and DeNero, John},
+   TITLE = {Compact Personalized Models for Neural Machine Translation}}
+@INPROCEEDINGS{papers-1056,
+   AUTHOR = {Gu, Jiatao and Wang, Yong and Chen, Yun and Li, Victor O. K. and Cho, Kyunghyun},
+   SORTNAME = {Gu, Jiatao and Wang, Yong and Chen, Yun and Li, Victor O. K. and Cho, Kyunghyun},
+   TITLE = {Meta-Learning for Low-Resource Neural Machine Translation}}
+@INPROCEEDINGS{papers-2071,
+   AUTHOR = {Luo, Zhiyi and Huang, Shanshan and Xu, Frank F. and Lin, Bill Yuchen and Shi, Hanyuan and Zhu, Kenny},
+   SORTNAME = {Luo, Zhiyi and Huang, Shanshan and Xu, Frank F. and Lin, Bill Yuchen and Shi, Hanyuan and Zhu, Kenny},
+   TITLE = {ExtRA: Extracting Prominent Review Aspects from Customer Feedback}}
+@INPROCEEDINGS{papers-300,
+   AUTHOR = {Yi, Xiaoyuan and Sun, Maosong and Li, Ruoyu and Li, Wenhao},
+   SORTNAME = {Yi, Xiaoyuan and Sun, Maosong and Li, Ruoyu and Li, Wenhao},
+   TITLE = {Automatic Poetry Generation with Mutual Reinforcement Learning}}
+@INPROCEEDINGS{papers-2076,
+   AUTHOR = {Chollampatt, Shamil and Ng, Hwee Tou},
+   SORTNAME = {Chollampatt, Shamil and Ng, Hwee Tou},
+   TITLE = {Neural Quality Estimation of Grammatical Error Correction}}
+@INPROCEEDINGS{papers-2244,
+   AUTHOR = {Luo, Kangqi and Lin, Fengli and Luo, Xusheng and Zhu, Kenny},
+   SORTNAME = {Luo, Kangqi and Lin, Fengli and Luo, Xusheng and Zhu, Kenny},
+   TITLE = {Knowledge Base Question Answering via Encoding of Complex Query Graphs}}
+@INPROCEEDINGS{papers-1297,
+   AUTHOR = {Hartmann, Mareike and Kementchedjhieva, Yova and Søgaard, Anders},
+   SORTNAME = {Hartmann, Mareike and Kementchedjhieva, Yova and Søgaard, Anders},
+   TITLE = {Why is unsupervised alignment of English embeddings from different algorithms so hard?}}
+@INPROCEEDINGS{papers-066,
+   AUTHOR = {Karlekar, Sweta and Bansal, Mohit},
+   SORTNAME = {Karlekar, Sweta and Bansal, Mohit},
+   TITLE = {SafeCity: Understanding Diverse Forms of Sexual Harassment Personal Stories}}
+@INPROCEEDINGS{papers-1435,
+   AUTHOR = {Huang, Xiaolei and Liu, Lixing and Carey, Kate and Woolley, Joshua and Scherer, Stefan and Borsari, Brian},
+   SORTNAME = {Huang, Xiaolei and Liu, Lixing and Carey, Kate and Woolley, Joshua and Scherer, Stefan and Borsari, Brian},
+   TITLE = {Modeling Temporality of Human Intentions by Domain Adaptation}}
+@INPROCEEDINGS{papers-336,
+   AUTHOR = {He, Junxian and Neubig, Graham and Berg-Kirkpatrick, Taylor},
+   SORTNAME = {He, Junxian and Neubig, Graham and Berg-Kirkpatrick, Taylor},
+   TITLE = {Unsupervised Learning of Syntactic Structure with Invertible Neural Projections}}
+@INPROCEEDINGS{papers-1093,
+   AUTHOR = {Doval, Yerai and Camacho-Collados, Jose and Espinosa Anke, Luis and Schockaert, Steven},
+   SORTNAME = {Doval, Yerai and Camacho-Collados, Jose and Espinosa Anke, Luis and Schockaert, Steven},
+   TITLE = {Improving Cross-Lingual Word Embeddings by Meeting in the Middle}}
+@INPROCEEDINGS{papers-907,
+   AUTHOR = {Xu, Jingjing and Ren, Xuancheng and Zhang, Yi and Zeng, Qi and Cai, Xiaoyan and SUN, Xu},
+   SORTNAME = {Xu, Jingjing and Ren, Xuancheng and Zhang, Yi and Zeng, Qi and Cai, Xiaoyan and SUN, Xu},
+   TITLE = {A Skeleton-Based Model for Promoting Coherence Among Sentences in Narrative Story Generation}}
+@INPROCEEDINGS{papers-1631,
+   AUTHOR = {Shang, Jingbo and Liu, Liyuan and Gu, Xiaotao and Ren, Xiang and Ren, Teng and Han, Jiawei},
+   SORTNAME = {Shang, Jingbo and Liu, Liyuan and Gu, Xiaotao and Ren, Xiang and Ren, Teng and Han, Jiawei},
+   TITLE = {Learning Named Entity Tagger using Domain-Specific Dictionary}}
+@INPROCEEDINGS{papers-103,
+   AUTHOR = {Lalor, John and Wu, Hao and Munkhdalai, Tsendsuren and Yu, Hong},
+   SORTNAME = {Lalor, John and Wu, Hao and Munkhdalai, Tsendsuren and Yu, Hong},
+   TITLE = {Understanding Deep Learning Performance through an Examination of Test Set Difficulty: A Psychometric Case Study}}
+@INPROCEEDINGS{papers-558,
+   AUTHOR = {Hoang, Luong and Wiseman, Sam and Rush, Alexander},
+   SORTNAME = {Hoang, Luong and Wiseman, Sam and Rush, Alexander},
+   TITLE = {Entity Tracking Improves Cloze-style Reading Comprehension}}
+@INPROCEEDINGS{papers-1094,
+   AUTHOR = {Patel, Pinal and Davey, Disha and Panchal, Vishal and Pathak, Parth},
+   SORTNAME = {Patel, Pinal and Davey, Disha and Panchal, Vishal and Pathak, Parth},
+   TITLE = {Annotation of Large Clinical Entity Corpus}}
+@INPROCEEDINGS{papers-2221,
+   AUTHOR = {Stanovsky, Gabriel and Hopkins, Mark},
+   SORTNAME = {Stanovsky, Gabriel and Hopkins, Mark},
+   TITLE = {Spot the Odd Man Out: Exploring the Associative Power of Lexical Resources}}
+@INPROCEEDINGS{papers-391,
+   AUTHOR = {Shen, Dinghan and Min, Martin Renqiang and Li, Yitong and Carin, Lawrence},
+   SORTNAME = {Shen, Dinghan and Min, Martin Renqiang and Li, Yitong and Carin, Lawrence},
+   TITLE = {Learning Context-Aware Convolutional Filters for Text Processing}}
+@INPROCEEDINGS{papers-1837,
+   AUTHOR = {Romanov, Alexey and Shivade, Chaitanya},
+   SORTNAME = {Romanov, Alexey and Shivade, Chaitanya},
+   TITLE = {Lessons from Natural Language Inference in the Clinical Domain}}
+@INPROCEEDINGS{papers-701,
+   AUTHOR = {Diao, Yufeng and Lin, Hongfei and Wu, Di and Yang, Liang and Xu, Kan and Yang, Zhihao and Wang, Jian and Zhang, Shaowu and Xu, Bo and Zhang, Dongyu},
+   SORTNAME = {Diao, Yufeng and Lin, Hongfei and Wu, Di and Yang, Liang and Xu, Kan and Yang, Zhihao and Wang, Jian and Zhang, Shaowu and Xu, Bo and Zhang, Dongyu},
+   TITLE = {WECA: A WordNet-Encoded Collocation-Attention Network for Homographic Pun Recognition}}
+@INPROCEEDINGS{papers-739,
+   AUTHOR = {Colin, Emilie and Gardent, Claire},
+   SORTNAME = {Colin, Emilie and Gardent, Claire},
+   TITLE = {Generating Syntactic Paraphrases}}
+@INPROCEEDINGS{papers-2226,
+   AUTHOR = {Ren, Liliang and Xie, Kaige and Chen, Lu and Yu, Kai},
+   SORTNAME = {Ren, Liliang and Xie, Kaige and Chen, Lu and Yu, Kai},
+   TITLE = {Towards Universal Dialogue State Tracking}}
+@INPROCEEDINGS{papers-1691,
+   AUTHOR = {Tay, Yi and Luu, Anh Tuan and Hui, Siu Cheung},
+   SORTNAME = {Tay, Yi and Luu, Anh Tuan and Hui, Siu Cheung},
+   TITLE = {Co-Stack Residual Affinity Networks with Multi-level Attention Refinement for Matching Text Sequences}}
+@INPROCEEDINGS{papers-953,
+   AUTHOR = {Lee, Jason and Mansimov, Elman and Cho, Kyunghyun},
+   SORTNAME = {Lee, Jason and Mansimov, Elman and Cho, Kyunghyun},
+   TITLE = {Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement}}
+@INPROCEEDINGS{papers-534,
+   AUTHOR = {Saeidi, Marzieh and Bartolo, Max and Lewis, Patrick and Singh, Sameer and Rocktäschel, Tim and Sheldon, Mike and Bouchard, Guillaume and Riedel, Sebastian},
+   SORTNAME = {Saeidi, Marzieh and Bartolo, Max and Lewis, Patrick and Singh, Sameer and Rocktaschel, Tim and Sheldon, Mike and Bouchard, Guillaume and Riedel, Sebastian},
+   TITLE = {Interpretation of Natural Language Rules in Conversational Machine Reading}}
+@INPROCEEDINGS{papers-159,
+   AUTHOR = {Xin, Ji and Zhu, Hao and Han, Xu and Liu, Zhiyuan and Sun, Maosong},
+   SORTNAME = {Xin, Ji and Zhu, Hao and Han, Xu and Liu, Zhiyuan and Sun, Maosong},
+   TITLE = {Put It Back: Entity Typing with Language Model Enhancement}}
+@INPROCEEDINGS{papers-1237,
+   AUTHOR = {Vania, Clara and Grivas, Andreas and Lopez, Adam},
+   SORTNAME = {Vania, Clara and Grivas, Andreas and Lopez, Adam},
+   TITLE = {What do character-level models learn about morphology? The case of dependency parsing}}
+@INPROCEEDINGS{papers-1002,
+   AUTHOR = {Bisazza, Arianna and Tump, Clara},
+   SORTNAME = {Bisazza, Arianna and Tump, Clara},
+   TITLE = {The Lazy Encoder: A Fine-Grained Analysis of the Role of Morphology in Neural Machine Translation}}
+@INPROCEEDINGS{papers-2025,
+   AUTHOR = {Wiseman, Sam and Shieber, Stuart and Rush, Alexander},
+   SORTNAME = {Wiseman, Sam and Shieber, Stuart and Rush, Alexander},
+   TITLE = {Learning Neural Templates for Text Generation}}
+@INPROCEEDINGS{papers-2217,
+   AUTHOR = {Wang, Dingquan and Eisner, Jason},
+   SORTNAME = {Wang, Dingquan and Eisner, Jason},
+   TITLE = {Synthetic Data Made to Order: The Case of Parsing}}
+@INPROCEEDINGS{papers-566,
+   AUTHOR = {Gū, Jetic and Shavarani, Hassan S. and Sarkar, Anoop},
+   SORTNAME = {Gu, Jetic and Shavarani, Hassan S. and Sarkar, Anoop},
+   TITLE = {Top-down Tree Structured Decoding with Syntactic Connections for Neural Machine Translation and Parsing}}
+@INPROCEEDINGS{papers-330,
+   AUTHOR = {Zeng, Jichuan and Li, Jing and Song, Yan and Gao, Cuiyun and Lyu, Michael R. and King, Irwin},
+   SORTNAME = {Zeng, Jichuan and Li, Jing and Song, Yan and Gao, Cuiyun and Lyu, Michael R. and King, Irwin},
+   TITLE = {Topic Memory Networks for Short Text Classification}}
+@INPROCEEDINGS{papers-102,
+   AUTHOR = {Malca, Rivka and Reichart, Roi},
+   SORTNAME = {Malca, Rivka and Reichart, Roi},
+   TITLE = {Neural Transition Based Parsing of Web Queries: An Entity Based Approach}}
+@INPROCEEDINGS{papers-592,
+   AUTHOR = {Petrochuk, Michael and Zettlemoyer, Luke},
+   SORTNAME = {Petrochuk, Michael and Zettlemoyer, Luke},
+   TITLE = {SimpleQuestions Nearly Solved: A New Upperbound and Baseline Approach}}
+@INPROCEEDINGS{papers-901,
+   AUTHOR = {Aralikatte, Rahul and Gantayat, Neelamadhav and Panwar, Naveen and Sankaran, Anush and Mani, Senthil},
+   SORTNAME = {Aralikatte, Rahul and Gantayat, Neelamadhav and Panwar, Naveen and Sankaran, Anush and Mani, Senthil},
+   TITLE = {Sanskrit Sandhi Splitting using seq2(seq)2}}
+@INPROCEEDINGS{papers-1095,
+   AUTHOR = {Sinha, Koustuv and Dong, Yue and Cheung, Jackie Chi Kit and Ruths, Derek},
+   SORTNAME = {Sinha, Koustuv and Dong, Yue and Cheung, Jackie Chi Kit and Ruths, Derek},
+   TITLE = {A Hierarchical Neural Attention-based Text Classifier}}
+@INPROCEEDINGS{papers-1059,
+   AUTHOR = {Utsumi, Akira},
+   SORTNAME = {Utsumi, Akira},
+   TITLE = {Refining Pretrained Word Embeddings Using Layer-wise Relevance Propagation}}
+@INPROCEEDINGS{papers-1891,
+   AUTHOR = {Wu, Lingfei and Yen, Ian En-Hsu and Xu, Kun and Xu, Fangli and Balakrishnan, Avinash and Chen, Pin-Yu and Ravikumar, Pradeep and Witbrock, Michael J.},
+   SORTNAME = {Wu, Lingfei and Yen, Ian En-Hsu and Xu, Kun and Xu, Fangli and Balakrishnan, Avinash and Chen, Pin-Yu and Ravikumar, Pradeep and Witbrock, Michael J.},
+   TITLE = {Word Mover's Embedding: From Word2Vec to Document Embedding}}
+@INPROCEEDINGS{papers-1630,
+   AUTHOR = {Back, Seohyun and Yu, Seunghak and Indurthi, Sathish Reddy and Kim, Jihie and Choo, Jaegul},
+   SORTNAME = {Back, Seohyun and Yu, Seunghak and Indurthi, Sathish Reddy and Kim, Jihie and Choo, Jaegul},
+   TITLE = {Deep and Wide Reader: Effective Memory Augmenting Method for Large-Scale Reading Comprehension}}
+@INPROCEEDINGS{papers-791,
+   AUTHOR = {Fernández-González, Daniel and Gómez-Rodríguez, Carlos},
+   SORTNAME = {Fernandez-Gonzalez, Daniel and Gomez-Rodriguez, Carlos},
+   TITLE = {Dynamic Oracles for Top-Down and In-Order Shift-Reduce Constituent Parsing}}
+@INPROCEEDINGS{papers-058,
+   AUTHOR = {Liu, Tianyi and Zhang, Xinsong and Zhou, Wanhao and Jia, Weijia},
+   SORTNAME = {Liu, Tianyi and Zhang, Xinsong and Zhou, Wanhao and Jia, Weijia},
+   TITLE = {Neural Relation Extraction via Inner-Sentence Noise Reduction and Transfer Learning}}
+@INPROCEEDINGS{papers-1262,
+   AUTHOR = {Yu, Tao and Zhang, Rui and Yang, Kai and Yasunaga, Michihiro and Wang, Dongxu and Li, Zifan and Ma, James and Li, Irene and Yao, Qingning and Roman, Shanelle and Zhang, Zilin and Radev, Dragomir},
+   SORTNAME = {Yu, Tao and Zhang, Rui and Yang, Kai and Yasunaga, Michihiro and Wang, Dongxu and Li, Zifan and Ma, James and Li, Irene and Yao, Qingning and Roman, Shanelle and Zhang, Zilin and Radev, Dragomir},
+   TITLE = {Spider: A Large-Scale Complex Human-Labeled SQL Corpus for Semantic Parsing and Text-to-SQL Generation}}
+@INPROCEEDINGS{papers-1050,
+   AUTHOR = {Katti, Anoop R and Reisswig, Christian and Guder, Cordula and Brarda, Sebastian and Bickel, Steffen and Höhne, Johannes and Faddoul, Jean Baptiste},
+   SORTNAME = {Katti, Anoop R and Reisswig, Christian and Guder, Cordula and Brarda, Sebastian and Bickel, Steffen and Hohne, Johannes and Faddoul, Jean Baptiste},
+   TITLE = {Chargrid: Towards Understanding 2D Documents}}
+@INPROCEEDINGS{papers-1434,
+   AUTHOR = {Mukherjee, Tanmoy and Yamada, Makoto and Hospedales, Timothy},
+   SORTNAME = {Mukherjee, Tanmoy and Yamada, Makoto and Hospedales, Timothy},
+   TITLE = {Learning Unsupervised Word Translations Without Adversaries}}
+@INPROCEEDINGS{papers-1898,
+   AUTHOR = {DASGUPTA, SHIB SANKAR and Ray, Swayambhu Nath and Talukdar, Partha},
+   SORTNAME = {DASGUPTA, SHIB SANKAR and Ray, Swayambhu Nath and Talukdar, Partha},
+   TITLE = {HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding}}
+@INPROCEEDINGS{papers-1854,
+   AUTHOR = {Gupta, Sonal and Shah, Rushin and Mohit, Mrinal and Kumar, Anuj and Lewis, Mike},
+   SORTNAME = {Gupta, Sonal and Shah, Rushin and Mohit, Mrinal and Kumar, Anuj and Lewis, Mike},
+   TITLE = {Semantic Parsing for Task Oriented Dialog using Hierarchical Representations}}
+@INPROCEEDINGS{papers-1068,
+   AUTHOR = {Fan, Feifan and Feng, Yansong and Zhao, Dongyan},
+   SORTNAME = {Fan, Feifan and Feng, Yansong and Zhao, Dongyan},
+   TITLE = {Multi-grained Attention Network for Aspect-Level Sentiment Classification}}
+@INPROCEEDINGS{papers-094,
+   AUTHOR = {Hu, Minghao and Peng, Yuxing and Wei, Furu and Huang, Zhen and Li, Dongsheng and Yang, Nan and Zhou, Ming},
+   SORTNAME = {Hu, Minghao and Peng, Yuxing and Wei, Furu and Huang, Zhen and Li, Dongsheng and Yang, Nan and Zhou, Ming},
+   TITLE = {Attention-Guided Answer Distillation for Machine Reading Comprehension}}
+@INPROCEEDINGS{papers-2242,
+   AUTHOR = {Zhang, Fangfang and Yao, Jin-ge and Yan, Rui},
+   SORTNAME = {Zhang, Fangfang and Yao, Jin-ge and Yan, Rui},
+   TITLE = {On the Abstractiveness of Neural Document Summarization}}
+@INPROCEEDINGS{papers-709,
+   AUTHOR = {Takase, Sho and Suzuki, Jun and Nagata, Masaaki},
+   SORTNAME = {Takase, Sho and Suzuki, Jun and Nagata, Masaaki},
+   TITLE = {Direct Output Connection for a High-Rank Language Model}}
+@INPROCEEDINGS{papers-1231,
+   AUTHOR = {Hayati, Shirley Anugrah and Olivier, Raphael and Avvaru, Pravalika and Yin, Pengcheng and Tomasic, Anthony and Neubig, Graham},
+   SORTNAME = {Hayati, Shirley Anugrah and Olivier, Raphael and Avvaru, Pravalika and Yin, Pengcheng and Tomasic, Anthony and Neubig, Graham},
+   TITLE = {Retrieval-Based Neural Code Generation}}
+@INPROCEEDINGS{papers-1236,
+   AUTHOR = {Xiong, Wayne and Wu, Lingfeng and Zhang, Jun and Stolcke, Andreas},
+   SORTNAME = {Xiong, Wayne and Wu, Lingfeng and Zhang, Jun and Stolcke, Andreas},
+   TITLE = {Session-level Language Modeling for Conversational Speech}}
+@INPROCEEDINGS{papers-990,
+   AUTHOR = {Wang, Wenhui and Chang, Baobao and Mansur, Mairgup},
+   SORTNAME = {Wang, Wenhui and Chang, Baobao and Mansur, Mairgup},
+   TITLE = {Improved Dependency Parsing using Implicit Word Connections Learned from Unlabeled Data}}
+@INPROCEEDINGS{papers-1652,
+   AUTHOR = {Haponchyk, Iryna and Uva, Antonio and Yu, Seunghak and Uryupina, Olga and Moschitti, Alessandro},
+   SORTNAME = {Haponchyk, Iryna and Uva, Antonio and Yu, Seunghak and Uryupina, Olga and Moschitti, Alessandro},
+   TITLE = {Supervised Clustering of Questions into Intents for Dialog System Applications}}
+@INPROCEEDINGS{papers-1494,
+   AUTHOR = {Poliak, Adam and Haldar, Aparajita and Rudinger, Rachel and Hu, J. Edward and Pavlick, Ellie and White, Aaron Steven and Van Durme, Benjamin},
+   SORTNAME = {Poliak, Adam and Haldar, Aparajita and Rudinger, Rachel and Hu, J. Edward and Pavlick, Ellie and White, Aaron Steven and Van Durme, Benjamin},
+   TITLE = {Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation}}
+@INPROCEEDINGS{papers-731,
+   AUTHOR = {Li, Wei and Xiao, Xinyan and Lyu, Yajuan and Wang, Yuanzhuo},
+   SORTNAME = {Li, Wei and Xiao, Xinyan and Lyu, Yajuan and Wang, Yuanzhuo},
+   TITLE = {Improving Neural Abstractive Document Summarization with Explicit Information Selection Modeling}}
+@INPROCEEDINGS{papers-1699,
+   AUTHOR = {Labutov, Igor and Yang, Bishan and Mitchell, Tom},
+   SORTNAME = {Labutov, Igor and Yang, Bishan and Mitchell, Tom},
+   TITLE = {Learning Semantic Parsers from Natural Language Supervision}}
+@INPROCEEDINGS{papers-1664,
+   AUTHOR = {Ma, Dehong and Li, Sujian and WANG, Houfeng},
+   SORTNAME = {Ma, Dehong and Li, Sujian and WANG, Houfeng},
+   TITLE = {Joint Learning for Targeted Sentiment Analysis}}
+@INPROCEEDINGS{papers-2015,
+   AUTHOR = {Yang, Zhilin and Qi, Peng and Zhang, Saizheng and Bengio, Yoshua and Cohen, William and Salakhutdinov, Ruslan and Manning, Christopher D.},
+   SORTNAME = {Yang, Zhilin and Qi, Peng and Zhang, Saizheng and Bengio, Yoshua and Cohen, William and Salakhutdinov, Ruslan and Manning, Christopher D.},
+   TITLE = {HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering}}
+@INPROCEEDINGS{papers-707,
+   AUTHOR = {Miranda, Sebastião and Znotins, Arturs and Cohen, Shay B. and Barzdins, Guntis},
+   SORTNAME = {Miranda, Sebastiao and Znotins, Arturs and Cohen, Shay B. and Barzdins, Guntis},
+   TITLE = {Multilingual Clustering of Streaming News}}
+@INPROCEEDINGS{papers-1375,
+   AUTHOR = {Mehta, Sanket Vaibhav and Lee, Jay Yoon and Carbonell, Jaime},
+   SORTNAME = {Mehta, Sanket Vaibhav and Lee, Jay Yoon and Carbonell, Jaime},
+   TITLE = {Towards Semi-Supervised Learning for Deep Semantic Role Labeling}}
+@INPROCEEDINGS{papers-1147,
+   AUTHOR = {Gómez-Rodríguez, Carlos and Vilares, David},
+   SORTNAME = {Gomez-Rodriguez, Carlos and Vilares, David},
+   TITLE = {Constituent Parsing as Sequence Labeling}}
+@INPROCEEDINGS{papers-229,
+   AUTHOR = {Patro, Badri Narayana and Kumar, Sandeep and Kurmi, Vinod Kumar and Namboodiri, Vinay},
+   SORTNAME = {Patro, Badri Narayana and Kumar, Sandeep and Kurmi, Vinod Kumar and Namboodiri, Vinay},
+   TITLE = {Multimodal Differential Network for Visual Question Generation}}
+@INPROCEEDINGS{papers-2160,
+   AUTHOR = {Holgate, Eric and Cachola, Isabel and Preoţiuc-Pietro, Daniel and Li, Junyi Jessy},
+   SORTNAME = {Holgate, Eric and Cachola, Isabel and Preotiuc-Pietro, Daniel and Li, Junyi Jessy},
+   TITLE = {Why Swear? Analyzing and Inferring the Intentions of Vulgar Expressions}}
+@INPROCEEDINGS{papers-447,
+   AUTHOR = {Nie, Feng and Wang, Jinpeng and Yao, Jin-Ge and Pan, Rong and Lin, Chin-Yew},
+   SORTNAME = {Nie, Feng and Wang, Jinpeng and Yao, Jin-Ge and Pan, Rong and Lin, Chin-Yew},
+   TITLE = {Operation Guided Neural Networks for High Fidelity Data-To-Text Generation}}
+@INPROCEEDINGS{papers-227,
+   AUTHOR = {Whitehead, Spencer and Ji, Heng and Bansal, Mohit and Chang, Shih-Fu and Voss, Clare},
+   SORTNAME = {Whitehead, Spencer and Ji, Heng and Bansal, Mohit and Chang, Shih-Fu and Voss, Clare},
+   TITLE = {Incorporating Background Knowledge into Video Description Generation}}
+@INPROCEEDINGS{papers-829,
+   AUTHOR = {Herzig, Jonathan and Berant, Jonathan},
+   SORTNAME = {Herzig, Jonathan and Berant, Jonathan},
+   TITLE = {Decoupling Structure and Lexicon for Zero-Shot Semantic Parsing}}
+@INPROCEEDINGS{papers-643,
+   AUTHOR = {Chen, Wenhu and Chen, Jianshu and Su, Yu and Wang, Xin and Yu, Dong and Yan, Xifeng and Wang, William Yang},
+   SORTNAME = {Chen, Wenhu and Chen, Jianshu and Su, Yu and Wang, Xin and Yu, Dong and Yan, Xifeng and Wang, William Yang},
+   TITLE = {XL-NBT: A Cross-lingual Neural Belief Tracking Framework}}
+@INPROCEEDINGS{papers-1975,
+   AUTHOR = {Wang, Yaushian and Lee, Hung-yi},
+   SORTNAME = {Wang, Yaushian and Lee, Hung-yi},
+   TITLE = {Learning to Encode Text as Human-Readable Summaries using Generative Adversarial Networks}}
+@INPROCEEDINGS{papers-1720,
+   AUTHOR = {Xu, Jiacheng and Durrett, Greg},
+   SORTNAME = {Xu, Jiacheng and Durrett, Greg},
+   TITLE = {Spherical Latent Spaces for Stable Variational Autoencoders}}
+@INPROCEEDINGS{papers-1512,
+   AUTHOR = {Xiao, Liqiang and Zhang, Honglun and Chen, Wenqing and Wang, Yongkun and Jin, Yaohui},
+   SORTNAME = {Xiao, Liqiang and Zhang, Honglun and Chen, Wenqing and Wang, Yongkun and Jin, Yaohui},
+   TITLE = {MCapsNet: Capsule Network for Text with Multi-Task Learning}}
+@INPROCEEDINGS{papers-1176,
+   AUTHOR = {Shao, Chenze and Chen, Xilin and Feng, Yang},
+   SORTNAME = {Shao, Chenze and Chen, Xilin and Feng, Yang},
+   TITLE = {Greedy Search with Probabilistic N-gram Matching for Neural Machine Translation}}
+@INPROCEEDINGS{papers-1344,
+   AUTHOR = {Berger, Matthew and Nagesh, Ajay and Levine, Joshua and Surdeanu, Mihai and Zhang, Helen},
+   SORTNAME = {Berger, Matthew and Nagesh, Ajay and Levine, Joshua and Surdeanu, Mihai and Zhang, Helen},
+   TITLE = {Visual Supervision in Bootstrapped Information Extraction}}
+@INPROCEEDINGS{papers-644,
+   AUTHOR = {Yu, Jianfei and Marujo, Luis and Jiang, Jing and Karuturi, Pradeep and Brendel, William},
+   SORTNAME = {Yu, Jianfei and Marujo, Luis and Jiang, Jing and Karuturi, Pradeep and Brendel, William},
+   TITLE = {Improving Multi-label Emotion Classification via Sentiment Classification with Dual Attention Transfer Network}}
+@INPROCEEDINGS{papers-1773,
+   AUTHOR = {Knowles, Rebecca and Koehn, Philipp},
+   SORTNAME = {Knowles, Rebecca and Koehn, Philipp},
+   TITLE = {Context and Copying in Neural Machine Translation}}
+@INPROCEEDINGS{papers-1541,
+   AUTHOR = {Kovaleva, Olga and Rumshisky, Anna and Romanov, Alexey},
+   SORTNAME = {Kovaleva, Olga and Rumshisky, Anna and Romanov, Alexey},
+   TITLE = {Similarity-Based Reconstruction Loss for Meaning Representation}}
+@INPROCEEDINGS{papers-628,
+   AUTHOR = {Xie, Qizhe and Lai, Guokun and Dai, Zihang and Hovy, Eduard},
+   SORTNAME = {Xie, Qizhe and Lai, Guokun and Dai, Zihang and Hovy, Eduard},
+   TITLE = {Large-scale Cloze Test Dataset Created by Teachers}}
+@INPROCEEDINGS{papers-1774,
+   AUTHOR = {Wang, Yucheng and Wei, Zhongyu and Zhou, Yaqian and Huang, Xuanjing},
+   SORTNAME = {Wang, Yucheng and Wei, Zhongyu and Zhou, Yaqian and Huang, Xuanjing},
+   TITLE = {A Reinforcement Learning Framework for Automatic Essay Scoring Incorporating Rating Schema}}
+@INPROCEEDINGS{papers-425,
+   AUTHOR = {Du, Jinhua and Han, Jingguang and Way, Andy and Wan, Dadong},
+   SORTNAME = {Du, Jinhua and Han, Jingguang and Way, Andy and Wan, Dadong},
+   TITLE = {Multi-Level Structured Self-Attentions for Distantly Supervised Relation Extraction}}
+@INPROCEEDINGS{papers-2133,
+   AUTHOR = {Mihaylov, Todor and Clark, Peter and Khot, Tushar and Sabharwal, Ashish},
+   SORTNAME = {Mihaylov, Todor and Clark, Peter and Khot, Tushar and Sabharwal, Ashish},
+   TITLE = {Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering}}
+@INPROCEEDINGS{papers-1928,
+   AUTHOR = {Chu, Eric and Vijayaraghavan, Prashanth and Roy, Deb},
+   SORTNAME = {Chu, Eric and Vijayaraghavan, Prashanth and Roy, Deb},
+   TITLE = {Learning Personas from Dialogue with Attentive Memory Networks}}
+@INPROCEEDINGS{papers-413,
+   AUTHOR = {Li, Zichao and Jiang, Xin and Shang, Lifeng and Li, Hang},
+   SORTNAME = {Li, Zichao and Jiang, Xin and Shang, Lifeng and Li, Hang},
+   TITLE = {Paraphrase Generation with Deep Reinforcement Learning}}
+@INPROCEEDINGS{papers-245,
+   AUTHOR = {Xia, Congying and Zhang, Chenwei and Yan, Xiaohui and Chang, Yi and Yu, Philip},
+   SORTNAME = {Xia, Congying and Zhang, Chenwei and Yan, Xiaohui and Chang, Yi and Yu, Philip},
+   TITLE = {Zero-shot User Intent Detection via Capsule Neural Networks}}
+@INPROCEEDINGS{papers-887,
+   AUTHOR = {Sulem, Elior and Abend, Omri and Rappoport, Ari},
+   SORTNAME = {Sulem, Elior and Abend, Omri and Rappoport, Ari},
+   TITLE = {BLEU is Not Suitable for the Evaluation of Text Simplification}}
+@INPROCEEDINGS{papers-1745,
+   AUTHOR = {Cognetta, Marco and Han, Yo-Sub and Kwon, Soon Chan},
+   SORTNAME = {Cognetta, Marco and Han, Yo-Sub and Kwon, Soon Chan},
+   TITLE = {Incremental Computation of Infix Probabilities for Probabilistic Finite Automata}}
+@INPROCEEDINGS{papers-2134,
+   AUTHOR = {Kundu, Souvik and Ng, Hwee Tou},
+   SORTNAME = {Kundu, Souvik and Ng, Hwee Tou},
+   TITLE = {A Nil-Aware Answer Extraction Framework for Question Answering}}
+@INPROCEEDINGS{papers-1583,
+   AUTHOR = {Wang, Bailin and Lu, Wei and Wang, Yu and Jin, Hongxia},
+   SORTNAME = {Wang, Bailin and Lu, Wei and Wang, Yu and Jin, Hongxia},
+   TITLE = {Neural Transition-based Model for Nested Mention Recognition}}
+@INPROCEEDINGS{papers-626,
+   AUTHOR = {Bak, JinYeong and Oh, Alice},
+   SORTNAME = {Bak, JinYeong and Oh, Alice},
+   TITLE = {Conversational Decision Making Model for Predicting King's Decision in the Annals of the Joseon Dynasty}}
+@INPROCEEDINGS{papers-645,
+   AUTHOR = {Orr, Walker and Tadepalli, Prasad and Fern, Xiaoli},
+   SORTNAME = {Orr, Walker and Tadepalli, Prasad and Fern, Xiaoli},
+   TITLE = {Event Detection with Neural Networks: A Rigorous Empirical Evaluation}}
+@INPROCEEDINGS{papers-2168,
+   AUTHOR = {Tymoshenko, Kateryna and Moschitti, Alessandro},
+   SORTNAME = {Tymoshenko, Kateryna and Moschitti, Alessandro},
+   TITLE = {Cross-Pair Text Representations for Answer Sentence Selection}}
+@INPROCEEDINGS{papers-1719,
+   AUTHOR = {Pasupat, Panupong and Jiang, Tian-Shun and Liu, Evan and Guu, Kelvin and Liang, Percy},
+   SORTNAME = {Pasupat, Panupong and Jiang, Tian-Shun and Liu, Evan and Guu, Kelvin and Liang, Percy},
+   TITLE = {Mapping natural language commands to web elements}}
+@INPROCEEDINGS{papers-1973,
+   AUTHOR = {Zhou, Ben and Khashabi, Daniel and Tsai, Chen-Tse and Roth, Dan},
+   SORTNAME = {Zhou, Ben and Khashabi, Daniel and Tsai, Chen-Tse and Roth, Dan},
+   TITLE = {Zero-Shot Open Entity Typing as Type-Compatible Grounding}}
+@INPROCEEDINGS{papers-1726,
+   AUTHOR = {Mysore Gopinath, Abhijith Athreya and Wilson, Shomir and Sadeh, Norman},
+   SORTNAME = {Mysore Gopinath, Abhijith Athreya and Wilson, Shomir and Sadeh, Norman},
+   TITLE = {Supervised and Unsupervised Methods for Robust Separation of Section Titles and Prose Text in Web Documents}}
+@INPROCEEDINGS{papers-470,
+   AUTHOR = {Troiano, Enrica and Strapparava, Carlo and Özbal, Gözde and Tekiroglu, Serra Sinem},
+   SORTNAME = {Troiano, Enrica and Strapparava, Carlo and Ozbal, Gozde and Tekiroglu, Serra Sinem},
+   TITLE = {A Computational Exploration of Exaggeration}}
+@INPROCEEDINGS{papers-1721,
+   AUTHOR = {Gupta, Nitish and Lewis, Mike},
+   SORTNAME = {Gupta, Nitish and Lewis, Mike},
+   TITLE = {Neural Compositional Denotational Semantics for Question Answering}}
+@INPROCEEDINGS{papers-1177,
+   AUTHOR = {Liu, Xiao and Luo, Zhunchen and Huang, Heyan},
+   SORTNAME = {Liu, Xiao and Luo, Zhunchen and Huang, Heyan},
+   TITLE = {Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation}}
+@INPROCEEDINGS{papers-689,
+   AUTHOR = {Fu, Tsu-Jui and Ma, Wei-Yun},
+   SORTNAME = {Fu, Tsu-Jui and Ma, Wei-Yun},
+   TITLE = {Speed Reading: Learning to Read ForBackward via Shuttle}}
+@INPROCEEDINGS{papers-1728,
+   AUTHOR = {Cocos, Anne and Wharton, Veronica and Pavlick, Ellie and Apidianaki, Marianna and Callison-Burch, Chris},
+   SORTNAME = {Cocos, Anne and Wharton, Veronica and Pavlick, Ellie and Apidianaki, Marianna and Callison-Burch, Chris},
+   TITLE = {Learning Scalar Adjective Intensity from Paraphrases}}
+@INPROCEEDINGS{papers-446,
+   AUTHOR = {Dou, Zi-Yi and Zhou, Zhi-Hao and Huang, Shujian},
+   SORTNAME = {Dou, Zi-Yi and Zhou, Zhi-Hao and Huang, Shujian},
+   TITLE = {Unsupervised Bilingual Lexicon Induction via Latent Variable Models}}
+@INPROCEEDINGS{papers-1373,
+   AUTHOR = {de Lhoneux, Miryam and Bjerva, Johannes and Augenstein, Isabelle and Søgaard, Anders},
+   SORTNAME = {de Lhoneux, Miryam and Bjerva, Johannes and Augenstein, Isabelle and Søgaard, Anders},
+   TITLE = {Parameter sharing between dependency parsers for related languages}}
+@INPROCEEDINGS{papers-821,
+   AUTHOR = {Chen, Hong-You and Lee, Cheng-Syuan and Liao, Keng-Te and Lin, Shou-de},
+   SORTNAME = {Chen, Hong-You and Lee, Cheng-Syuan and Liao, Keng-Te and Lin, Shou-de},
+   TITLE = {Word Relation Autoencoder for Unseen Hypernym Extraction Using Word Embeddings}}
+@INPROCEEDINGS{papers-479,
+   AUTHOR = {Kleinberg, Bennett and Mozes, Maximilian and van der Vegt, Isabelle},
+   SORTNAME = {Kleinberg, Bennett and Mozes, Maximilian and van der Vegt, Isabelle},
+   TITLE = {Identifying the narrative styles of YouTube's vloggers}}
+@INPROCEEDINGS{papers-1989,
+   AUTHOR = {Bauer, Lisa and Wang, Yicheng and Bansal, Mohit},
+   SORTNAME = {Bauer, Lisa and Wang, Yicheng and Bansal, Mohit},
+   TITLE = {Commonsense for Generative Multi-Hop Question Answering Tasks}}
+@INPROCEEDINGS{papers-217,
+   AUTHOR = {Shi, Tianze and Lee, Lillian},
+   SORTNAME = {Shi, Tianze and Lee, Lillian},
+   TITLE = {Valency-Augmented Dependency Parsing}}
+@INPROCEEDINGS{papers-819,
+   AUTHOR = {Sun, Jingyuan and Wang, Shaonan and Zong, Chengqing},
+   SORTNAME = {Sun, Jingyuan and Wang, Shaonan and Zong, Chengqing},
+   TITLE = {Memory, Show the Way: Memory Based Few Shot Word Representation Learning}}
+@INPROCEEDINGS{papers-228,
+   AUTHOR = {Huang, Binxuan and Carley, Kathleen},
+   SORTNAME = {Huang, Binxuan and Carley, Kathleen},
+   TITLE = {Parameterized Convolutional Neural Networks for Aspect Level Sentiment Classification}}
+@INPROCEEDINGS{papers-1522,
+   AUTHOR = {Giorgi, Salvatore and Preoţiuc-Pietro, Daniel and Buffone, Anneke and Rieman, Daniel and Ungar, Lyle and Schwartz, H. Andrew},
+   SORTNAME = {Giorgi, Salvatore and Preotiuc-Pietro, Daniel and Buffone, Anneke and Rieman, Daniel and Ungar, Lyle and Schwartz, H. Andrew},
+   TITLE = {The Remarkable Benefit of User-Level Aggregation for Lexical-based Population-Level Predictions}}
+@INPROCEEDINGS{papers-1576,
+   AUTHOR = {Abdou, Mostafa and Kulmizev, Artur and Ravishankar, Vinit and Abzianidze, Lasha and Bos, Johan},
+   SORTNAME = {Abdou, Mostafa and Kulmizev, Artur and Ravishankar, Vinit and Abzianidze, Lasha and Bos, Johan},
+   TITLE = {What can we learn from Semantic Tagging?}}
+@INPROCEEDINGS{papers-1744,
+   AUTHOR = {Silberer, Carina and Pinkal, Manfred},
+   SORTNAME = {Silberer, Carina and Pinkal, Manfred},
+   TITLE = {Grounding Semantic Roles in Images}}
+@INPROCEEDINGS{papers-627,
+   AUTHOR = {Cao, Pengfei and Chen, Yubo and Liu, Kang and Zhao, Jun and Liu, Shengping},
+   SORTNAME = {Cao, Pengfei and Chen, Yubo and Liu, Kang and Zhao, Jun and Liu, Shengping},
+   TITLE = {Adversarial Transfer Learning for Chinese Named Entity Recognition with Self-Attention Mechanism}}
+@INPROCEEDINGS{papers-415,
+   AUTHOR = {Lv, Xin and Hou, Lei and Li, Juanzi and Liu, Zhiyuan},
+   SORTNAME = {Lv, Xin and Hou, Lei and Li, Juanzi and Liu, Zhiyuan},
+   TITLE = {Differentiating Concepts and Instances for Knowledge Graph Embedding}}
+@INPROCEEDINGS{papers-1911,
+   AUTHOR = {Zhong, Haoxi and Zhipeng, Guo and Tu, Cunchao and Xiao, Chaojun and Liu, Zhiyuan and Sun, Maosong},
+   SORTNAME = {Zhong, Haoxi and Zhipeng, Guo and Tu, Cunchao and Xiao, Chaojun and Liu, Zhiyuan and Sun, Maosong},
+   TITLE = {Legal Judgment Prediction via Topological Learning}}
+@INPROCEEDINGS{papers-1549,
+   AUTHOR = {Bhatia, Shraey and Lau, Jey Han and Baldwin, Timothy},
+   SORTNAME = {Bhatia, Shraey and Lau, Jey Han and Baldwin, Timothy},
+   TITLE = {Topic Intrusion for Automatic Topic Model Evaluation}}
+@INPROCEEDINGS{papers-1571,
+   AUTHOR = {Bapna, Ankur and Chen, Mia and Firat, Orhan and Cao, Yuan and Wu, Yonghui},
+   SORTNAME = {Bapna, Ankur and Chen, Mia and Firat, Orhan and Cao, Yuan and Wu, Yonghui},
+   TITLE = {Training Deeper Neural Machine Translation Models with Transparent Attention}}
+@INPROCEEDINGS{papers-875,
+   AUTHOR = {Kasewa, Sudhanshu and Stenetorp, Pontus and Riedel, Sebastian},
+   SORTNAME = {Kasewa, Sudhanshu and Stenetorp, Pontus and Riedel, Sebastian},
+   TITLE = {Wronging a Right: Generating Better Errors to Improve Grammatical Error Detection}}
+@INPROCEEDINGS{papers-2300,
+   AUTHOR = {He, He and Chen, Derek and Balakrishnan, Anusha and Liang, Percy},
+   SORTNAME = {He, He and Chen, Derek and Balakrishnan, Anusha and Liang, Percy},
+   TITLE = {Decoupling Strategy and Generation in Negotiation Dialogues}}
+@INPROCEEDINGS{papers-244,
+   AUTHOR = {Luo, Fuli and Liu, Tianyu and He, Zexue and Xia, Qiaolin and Sui, Zhifang and Chang, Baobao},
+   SORTNAME = {Luo, Fuli and Liu, Tianyu and He, Zexue and Xia, Qiaolin and Sui, Zhifang and Chang, Baobao},
+   TITLE = {Leveraging Gloss Knowledge in Neural Word Sense Disambiguation by Hierarchical Co-Attention}}
+@INPROCEEDINGS{papers-1781,
+   AUTHOR = {Guo, Jiang and Shah, Darsh and Barzilay, Regina},
+   SORTNAME = {Guo, Jiang and Shah, Darsh and Barzilay, Regina},
+   TITLE = {Multi-Source Domain Adaptation with Mixture of Experts}}
+@INPROCEEDINGS{papers-888,
+   AUTHOR = {Elazar, Yanai and Goldberg, Yoav},
+   SORTNAME = {Elazar, Yanai and Goldberg, Yoav},
+   TITLE = {Adversarial Removal of Demographic Attributes from Text Data}}
+@INPROCEEDINGS{papers-2103,
+   AUTHOR = {Weber, Noah and Shekhar, Leena and Balasubramanian, Niranjan and Chambers, Nate},
+   SORTNAME = {Weber, Noah and Shekhar, Leena and Balasubramanian, Niranjan and Chambers, Nate},
+   TITLE = {Hierarchical Quantized Representations for Script Generation}}
+@INPROCEEDINGS{papers-1124,
+   AUTHOR = {Joulin, Armand and Bojanowski, Piotr and Mikolov, Tomas and Jégou, Hervé and Grave, Edouard},
+   SORTNAME = {Joulin, Armand and Bojanowski, Piotr and Mikolov, Tomas and Jegou, Herve and Grave, Edouard},
+   TITLE = {Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion}}
+@INPROCEEDINGS{papers-281,
+   AUTHOR = {Alzantot, Moustafa and Sharma, Yash and Elgohary, Ahmed and Ho, Bo-Jhang and Srivastava, Mani and Chang, Kai-Wei},
+   SORTNAME = {Alzantot, Moustafa and Sharma, Yash and Elgohary, Ahmed and Ho, Bo-Jhang and Srivastava, Mani and Chang, Kai-Wei},
+   TITLE = {Generating Natural Language Adversarial Examples}}
+@INPROCEEDINGS{papers-866,
+   AUTHOR = {Yang, Cheng and Sun, Maosong and Yi, Xiaoyuan and Li, Wenhao},
+   SORTNAME = {Yang, Cheng and Sun, Maosong and Yi, Xiaoyuan and Li, Wenhao},
+   TITLE = {Stylistic Chinese Poetry Generation via Unsupervised Style Disentanglement}}
+@INPROCEEDINGS{papers-1596,
+   AUTHOR = {Zhang, Yuchen and Xue, Nianwen},
+   SORTNAME = {Zhang, Yuchen and Xue, Nianwen},
+   TITLE = {Neural Ranking Models for Temporal Dependency Structure Parsing}}
+@INPROCEEDINGS{papers-1562,
+   AUTHOR = {Lei, Tao and Zhang, Yu and Wang, Sida I. and Dai, Hui and Artzi, Yoav},
+   SORTNAME = {Lei, Tao and Zhang, Yu and Wang, Sida I. and Dai, Hui and Artzi, Yoav},
+   TITLE = {Training RNNs as Fast as CNNs}}
+@INPROCEEDINGS{papers-895,
+   AUTHOR = {Ryu, Seonghan and Koo, Sangjun and Yu, Hwanjo and Lee, Gary Geunbae},
+   SORTNAME = {Ryu, Seonghan and Koo, Sangjun and Yu, Hwanjo and Lee, Gary Geunbae},
+   TITLE = {Out-of-domain Detection based on Generative Adversarial Network}}
+@INPROCEEDINGS{papers-1598,
+   AUTHOR = {Li, Canjia and Sun, Yingfei and He, Ben and Wang, Le and Hui, Kai and Yates, Andrew and Sun, Le and Xu, Jungang},
+   SORTNAME = {Li, Canjia and Sun, Yingfei and He, Ben and Wang, Le and Hui, Kai and Yates, Andrew and Sun, Le and Xu, Jungang},
+   TITLE = {NPRF: A Neural Pseudo Relevance Feedback Framework for Ad-hoc Information Retrieval}}
+@INPROCEEDINGS{papers-602,
+   AUTHOR = {Yaghoobzadeh, Yadollah and Schütze, Hinrich},
+   SORTNAME = {Yaghoobzadeh, Yadollah and Schutze, Hinrich},
+   TITLE = {Multi-View Learning: Multilingual and Multi-Representation Entity Typing}}
+@INPROCEEDINGS{papers-430,
+   AUTHOR = {Singh, Gaurav and Thomas, James and Marshall, Iain and Shawe-Taylor, John and Wallace, Byron C.},
+   SORTNAME = {Singh, Gaurav and Thomas, James and Marshall, Iain and Shawe-Taylor, John and Wallace, Byron C.},
+   TITLE = {Structured Multi-Label Biomedical Text Tagging via Attentive Neural Tree Decoding}}
+@INPROCEEDINGS{papers-1553,
+   AUTHOR = {Yaneva, Victoria and Ha, Le An and Evans, Richard and Mitkov, Ruslan},
+   SORTNAME = {Yaneva, Victoria and Ha, Le An and Evans, Richard and Mitkov, Ruslan},
+   TITLE = {Classifying Referential and Non-referential It Using Gaze}}
+@INPROCEEDINGS{papers-1305,
+   AUTHOR = {Saravia, Elvis and Liu, Hsien-Chi Toby and Huang, Yen-Hao and Wu, Junlin and Chen, Yi-Shin},
+   SORTNAME = {Saravia, Elvis and Liu, Hsien-Chi Toby and Huang, Yen-Hao and Wu, Junlin and Chen, Yi-Shin},
+   TITLE = {CARER: Contextualized Affect Representations for Emotion Recognition}}
+@INPROCEEDINGS{papers-1759,
+   AUTHOR = {Shi, Ge and Feng, Chong and Huang, Lifu and Zhang, Boliang and Ji, Heng and Liao, Lejian and Huang, Heyan},
+   SORTNAME = {Shi, Ge and Feng, Chong and Huang, Lifu and Zhang, Boliang and Ji, Heng and Liao, Lejian and Huang, Heyan},
+   TITLE = {Genre Separation Network with Adversarial Training for Cross-genre Relation Extraction}}
+@INPROCEEDINGS{papers-2117,
+   AUTHOR = {Liu, Liyuan and Ren, Xiang and Shang, Jingbo and Gu, Xiaotao and Peng, Jian and Han, Jiawei},
+   SORTNAME = {Liu, Liyuan and Ren, Xiang and Shang, Jingbo and Gu, Xiaotao and Peng, Jian and Han, Jiawei},
+   TITLE = {Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling}}
+@INPROCEEDINGS{papers-1792,
+   AUTHOR = {Liang, Paul Pu and Liu, Ziyin and Bagher Zadeh, AmirAli and Morency, Louis-Philippe},
+   SORTNAME = {Liang, Paul Pu and Liu, Ziyin and Bagher Zadeh, AmirAli and Morency, Louis-Philippe},
+   TITLE = {Multimodal Language Analysis with Recurrent Multistage Fusion}}
+@INPROCEEDINGS{papers-1766,
+   AUTHOR = {Dunietz, Jesse and Carbonell, Jaime and Levin, Lori},
+   SORTNAME = {Dunietz, Jesse and Carbonell, Jaime and Levin, Lori},
+   TITLE = {DeepCx: A transition-based approach for shallow semantic parsing with complex constructional triggers}}
+@INPROCEEDINGS{papers-1554,
+   AUTHOR = {Son, Youngseo and Bayas, Nipun and Schwartz, H. Andrew},
+   SORTNAME = {Son, Youngseo and Bayas, Nipun and Schwartz, H. Andrew},
+   TITLE = {Causal Explanation Analysis on Social Media}}
+@INPROCEEDINGS{papers-2143,
+   AUTHOR = {Mueller, David and Durrett, Greg},
+   SORTNAME = {Mueller, David and Durrett, Greg},
+   TITLE = {Effective Use of Context in Noisy Entity Linking}}
+@INPROCEEDINGS{papers-1190,
+   AUTHOR = {Rabinovich, Ella and Sznajder, Benjamin and Spector, Artem and Shnayderman, Ilya and Aharonov, Ranit and Konopnicki, David and Slonim, Noam},
+   SORTNAME = {Rabinovich, Ella and Sznajder, Benjamin and Spector, Artem and Shnayderman, Ilya and Aharonov, Ranit and Konopnicki, David and Slonim, Noam},
+   TITLE = {Learning Concept Abstractness Using Weak Supervision}}
+@INPROCEEDINGS{papers-1369,
+   AUTHOR = {White, Aaron Steven and Rudinger, Rachel and Rawlins, Kyle and Van Durme, Benjamin},
+   SORTNAME = {White, Aaron Steven and Rudinger, Rachel and Rawlins, Kyle and Van Durme, Benjamin},
+   TITLE = {Lexicosyntactic inference in neural models}}
+@INPROCEEDINGS{papers-1735,
+   AUTHOR = {Kang, Dongyeop and Khot, Tushar and Sabharwal, Ashish and Clark, Peter},
+   SORTNAME = {Kang, Dongyeop and Khot, Tushar and Sabharwal, Ashish and Clark, Peter},
+   TITLE = {Bridging Knowledge Gaps in Neural Entailment via Symbolic Models}}
+@INPROCEEDINGS{papers-1507,
+   AUTHOR = {Zhang, Biao and Xiong, Deyi and su, jinsong and Lin, Qian and Zhang, Huiji},
+   SORTNAME = {Zhang, Biao and Xiong, Deyi and su, jinsong and Lin, Qian and Zhang, Huiji},
+   TITLE = {Simplifying Neural Machine Translation with Addition-Subtraction Twin-Gated Recurrent Networks}}
+@INPROCEEDINGS{papers-1351,
+   AUTHOR = {Bogoychev, Nikolay and Heafield, Kenneth and Aji, Alham Fikri and Junczys-Dowmunt, Marcin},
+   SORTNAME = {Bogoychev, Nikolay and Heafield, Kenneth and Aji, Alham Fikri and Junczys-Dowmunt, Marcin},
+   TITLE = {Accelerating Asynchronous Stochastic Gradient Descent for Neural Machine Translation}}
+@INPROCEEDINGS{papers-1538,
+   AUTHOR = {Melas-Kyriazi, Luke and Rush, Alexander and Han, George},
+   SORTNAME = {Melas-Kyriazi, Luke and Rush, Alexander and Han, George},
+   TITLE = {Training for Diversity in Image Paragraph Captioning}}
+@INPROCEEDINGS{papers-232,
+   AUTHOR = {Lu, Di and Whitehead, Spencer and Huang, Lifu and Ji, Heng and Chang, Shih-Fu},
+   SORTNAME = {Lu, Di and Whitehead, Spencer and Huang, Lifu and Ji, Heng and Chang, Shih-Fu},
+   TITLE = {Entity-aware Image Caption Generation}}
+@INPROCEEDINGS{papers-464,
+   AUTHOR = {Zhang, Zhisong and Wang, Rui and Utiyama, Masao and Sumita, Eiichiro and Zhao, Hai},
+   SORTNAME = {Zhang, Zhisong and Wang, Rui and Utiyama, Masao and Sumita, Eiichiro and Zhao, Hai},
+   TITLE = {Exploring Recombination for Efficient Decoding of Neural Machine Translation}}
+@INPROCEEDINGS{papers-499,
+   AUTHOR = {Wu, Lijun and Tan, Xu and He, Di and Tian, Fei and QIN, Tao and Lai, Jianhuang and Liu, Tie-Yan},
+   SORTNAME = {Wu, Lijun and Tan, Xu and He, Di and Tian, Fei and QIN, Tao and Lai, Jianhuang and Liu, Tie-Yan},
+   TITLE = {Beyond Error Propagation in Neural Machine Translation: Characteristics of Language Also Matter}}
+@INPROCEEDINGS{papers-1367,
+   AUTHOR = {Vanmassenhove, Eva and Hardmeier, Christian and Way, Andy},
+   SORTNAME = {Vanmassenhove, Eva and Hardmeier, Christian and Way, Andy},
+   TITLE = {Getting Gender Right in Neural MT}}
+@INPROCEEDINGS{papers-835,
+   AUTHOR = {Dubossarsky, Haim and Grossman, Eitan and Weinshall, Daphna},
+   SORTNAME = {Dubossarsky, Haim and Grossman, Eitan and Weinshall, Daphna},
+   TITLE = {Coming to Your Senses: on Controls and Evaluation Sets in Polysemy Research}}
+@INPROCEEDINGS{papers-1393,
+   AUTHOR = {Gulordava, Kristina and Aina, Laura and Boleda, Gemma},
+   SORTNAME = {Gulordava, Kristina and Aina, Laura and Boleda, Gemma},
+   TITLE = {How to represent a word and predict it, too: improving tied architectures for language modelling}}
+@INPROCEEDINGS{papers-1358,
+   AUTHOR = {Ma, Zhuang and Collins, Michael},
+   SORTNAME = {Ma, Zhuang and Collins, Michael},
+   TITLE = {Noise Contrastive Estimation for Conditional Models: Consistency and Statistical Efficiency}}
+@INPROCEEDINGS{papers-204,
+   AUTHOR = {Tran, Ke and Bisazza, Arianna and Monz, Christof},
+   SORTNAME = {Tran, Ke and Bisazza, Arianna and Monz, Christof},
+   TITLE = {The importance of Being Recurrent for Modeling Hierarchical Structure}}
+@INPROCEEDINGS{papers-1536,
+   AUTHOR = {Wang, Chunqi and Zhang, Ji and Chen, Haiqing},
+   SORTNAME = {Wang, Chunqi and Zhang, Ji and Chen, Haiqing},
+   TITLE = {Semi-Autoregressive Neural Machine Translation}}
+@INPROCEEDINGS{papers-2181,
+   AUTHOR = {Lund, Jeffrey and Cowley, Stephen and Fearn, Wilson and Hales, Emily and Seppi, Kevin},
+   SORTNAME = {Lund, Jeffrey and Cowley, Stephen and Fearn, Wilson and Hales, Emily and Seppi, Kevin},
+   TITLE = {Labeled Anchors and a Scalable, Transparent, and Interactive Classifier}}
+@INPROCEEDINGS{papers-203,
+   AUTHOR = {Washio, Koki and Kato, Tsuneaki},
+   SORTNAME = {Washio, Koki and Kato, Tsuneaki},
+   TITLE = {Neural Latent Relational Analysis to Capture Lexical Semantic Relation}}
+@INPROCEEDINGS{papers-455,
+   AUTHOR = {Artetxe, Mikel and Labaka, Gorka and Agirre, Eneko},
+   SORTNAME = {Artetxe, Mikel and Labaka, Gorka and Agirre, Eneko},
+   TITLE = {Unsupervised Statistical Machine Translation}}
+@INPROCEEDINGS{papers-1951,
+   AUTHOR = {Ross, Candace and Barbu, Andrei and Berzak, Yevgeni and Myanganbayar, Battushig and Katz, Boris},
+   SORTNAME = {Ross, Candace and Barbu, Andrei and Berzak, Yevgeni and Myanganbayar, Battushig and Katz, Boris},
+   TITLE = {Grounding language acquisition by training semantic parsers using captioned videos}}
+@INPROCEEDINGS{papers-604,
+   AUTHOR = {Park, Ji Ho and Shin, Jamin and Fung, Pascale},
+   SORTNAME = {Park, Ji Ho and Shin, Jamin and Fung, Pascale},
+   TITLE = {Reducing Gender Bias in Abusive Language Detection}}
+@INPROCEEDINGS{papers-1793,
+   AUTHOR = {Shi, Haoyue and Zhou, Hao and Chen, Jiaze and Li, Lei},
+   SORTNAME = {Shi, Haoyue and Zhou, Hao and Chen, Jiaze and Li, Lei},
+   TITLE = {On Tree-Based Neural Sentence Modeling}}
+@INPROCEEDINGS{papers-1903,
+   AUTHOR = {Chang, Serina and Zhong, Ruiqi and Adams, Ethan and Lee, Fei-Tzin and Varia, Siddharth and Patton, Desmond and Frey, William and Kedzie, Chris and McKeown, Kathy},
+   SORTNAME = {Chang, Serina and Zhong, Ruiqi and Adams, Ethan and Lee, Fei-Tzin and Varia, Siddharth and Patton, Desmond and Frey, William and Kedzie, Chris and McKeown, Kathy},
+   TITLE = {Detecting Gang-Involved Escalation on Social Media Using Context}}
+@INPROCEEDINGS{papers-2127,
+   AUTHOR = {Gella, Spandana and Lewis, Mike and Rohrbach, Marcus},
+   SORTNAME = {Gella, Spandana and Lewis, Mike and Rohrbach, Marcus},
+   TITLE = {A Dataset for Telling the Stories of Social Media Videos}}
+@INPROCEEDINGS{papers-1100,
+   AUTHOR = {Iyer, Srinivasan and Konstas, Ioannis and Cheung, Alvin and Zettlemoyer, Luke},
+   SORTNAME = {Iyer, Srinivasan and Konstas, Ioannis and Cheung, Alvin and Zettlemoyer, Luke},
+   TITLE = {Mapping Language to Code in Programmatic Context}}
+@INPROCEEDINGS{papers-894,
+   AUTHOR = {Rouhizadeh, Masoud and Jaidka, Kokil and Smith, Laura and Schwartz, H. Andrew and Buffone, Anneke and Ungar, Lyle},
+   SORTNAME = {Rouhizadeh, Masoud and Jaidka, Kokil and Smith, Laura and Schwartz, H. Andrew and Buffone, Anneke and Ungar, Lyle},
+   TITLE = {Identifying Control in Social Media from Crowd Annotations}}
+@INPROCEEDINGS{papers-1138,
+   AUTHOR = {Mesgar, Mohsen and Strube, Michael},
+   SORTNAME = {Mesgar, Mohsen and Strube, Michael},
+   TITLE = {A New Local Coherence Model for Text Quality Assessment}}
+@INPROCEEDINGS{papers-1904,
+   AUTHOR = {Kaushik, Divyansh and Lipton, Zachary C.},
+   SORTNAME = {Kaushik, Divyansh and Lipton, Zachary C.},
+   TITLE = {How Much Reading Does Reading Comprehension Require? A Critical Investigation of Popular Benchmarks}}
+@INPROCEEDINGS{papers-256,
+   AUTHOR = {Eger, Steffen and Youssef, Paul and Gurevych, Iryna},
+   SORTNAME = {Eger, Steffen and Youssef, Paul and Gurevych, Iryna},
+   TITLE = {Is it Time to Swish? Comparing Deep Learning Activation Functions Across NLP tasks}}
+@INPROCEEDINGS{papers-1751,
+   AUTHOR = {Chinnappa, Dhivya and Blanco, Eduardo},
+   SORTNAME = {Chinnappa, Dhivya and Blanco, Eduardo},
+   TITLE = {Possessors Change Over Time: A Case Study with Artworks}}
+@INPROCEEDINGS{papers-1107,
+   AUTHOR = {Zeng, Jiali and Su, Jinsong and Wen, Huating and Liu, Yang and Xie, Jun and Yin, Yongjing and Zhao, Jianqiang},
+   SORTNAME = {Zeng, Jiali and Su, Jinsong and Wen, Huating and Liu, Yang and Xie, Jun and Yin, Yongjing and Zhao, Jianqiang},
+   TITLE = {Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination}}
+@INPROCEEDINGS{papers-2312,
+   AUTHOR = {Nematzadeh, Aida and Burns, Kaylee and Grant, Erin and Gopnik, Alison and Griffiths, Tom},
+   SORTNAME = {Nematzadeh, Aida and Burns, Kaylee and Grant, Erin and Gopnik, Alison and Griffiths, Tom},
+   TITLE = {Evaluating Theory of Mind in Question Answering}}
+@INPROCEEDINGS{papers-867,
+   AUTHOR = {Liu, Yahui and Bi, Wei and Gao, Jun and Liu, Xiaojiang and Yao, Jian and Shi, Shuming},
+   SORTNAME = {Liu, Yahui and Bi, Wei and Gao, Jun and Liu, Xiaojiang and Yao, Jian and Shi, Shuming},
+   TITLE = {Toward Less Generic Responses in Neural Conversation Models: A Statistical Re-weighting Method}}
+@INPROCEEDINGS{papers-1537,
+   AUTHOR = {Strubell, Emma and Verga, Patrick and Andor, Daniel and Weiss, David and McCallum, Andrew},
+   SORTNAME = {Strubell, Emma and Verga, Patrick and Andor, Daniel and Weiss, David and McCallum, Andrew},
+   TITLE = {Linguistically-Informed Self-Attention for Semantic Role Labeling}}
+@INPROCEEDINGS{papers-833,
+   AUTHOR = {Liu, Jiahua and Wei, Wan and Sun, Maosong and Chen, Hao and Du, Yantao and Lin, Dekang},
+   SORTNAME = {Liu, Jiahua and Wei, Wan and Sun, Maosong and Chen, Hao and Du, Yantao and Lin, Dekang},
+   TITLE = {A Multi-answer Multi-task Framework for Real-world Machine Reading Comprehension}}
+@INPROCEEDINGS{papers-692,
+   AUTHOR = {Zhang, Zhe and Singh, Munindar},
+   SORTNAME = {Zhang, Zhe and Singh, Munindar},
+   TITLE = {Limbic: Author-Based Sentiment Aspect Modeling Regularized with Word Embeddings and Discourse Relations}}
+@INPROCEEDINGS{papers-1198,
+   AUTHOR = {Niculae, Vlad and Martins, André F. T. and Cardie, Claire},
+   SORTNAME = {Niculae, Vlad and Martins, Andre F. T. and Cardie, Claire},
+   TITLE = {Towards Dynamic Computation Graphs via Sparse Latent Structure}}
+@INPROCEEDINGS{papers-1392,
+   AUTHOR = {Bahar, Parnia and Brix, Christopher and Ney, Hermann},
+   SORTNAME = {Bahar, Parnia and Brix, Christopher and Ney, Hermann},
+   TITLE = {Towards Two-Dimensional Sequence to Sequence Model in Neural Machine Translation}}
+@INPROCEEDINGS{papers-2187,
+   AUTHOR = {Zhou, Mingyang and Cheng, Runxiang and Lee, Yong Jae and Yu, Zhou},
+   SORTNAME = {Zhou, Mingyang and Cheng, Runxiang and Lee, Yong Jae and Yu, Zhou},
+   TITLE = {A Visual Attention Grounding Neural Model for Multimodal Machine Translation}}
+@INPROCEEDINGS{papers-1702,
+   AUTHOR = {Rashid, Farzana and Blanco, Eduardo},
+   SORTNAME = {Rashid, Farzana and Blanco, Eduardo},
+   TITLE = {Characterizing Interactions and Relationships between People}}
+@INPROCEEDINGS{papers-205,
+   AUTHOR = {Ponza, Marco and Del Corro, Luciano and Weikum, Gerhard},
+   SORTNAME = {Ponza, Marco and Del Corro, Luciano and Weikum, Gerhard},
+   TITLE = {Facts That Matter}}
+@INPROCEEDINGS{papers-695,
+   AUTHOR = {Watcharawittayakul, Sedtawut and Xu, Mingbin and Jiang, Hui},
+   SORTNAME = {Watcharawittayakul, Sedtawut and Xu, Mingbin and Jiang, Hui},
+   TITLE = {Dual Fixed-Size Ordinally Forgetting Encoding (FOFE) for Competitive Neural Language Models}}
+@INPROCEEDINGS{papers-657,
+   AUTHOR = {van Schijndel, Marten and Linzen, Tal},
+   SORTNAME = {van Schijndel, Marten and Linzen, Tal},
+   TITLE = {A Neural Model of Adaptation in Reading}}
+@INPROCEEDINGS{papers-465,
+   AUTHOR = {Wang, Yining and Zhang, Jiajun and Zhai, Feifei and Xu, Jingfang and Zong, Chengqing},
+   SORTNAME = {Wang, Yining and Zhang, Jiajun and Zhai, Feifei and Xu, Jingfang and Zong, Chengqing},
+   TITLE = {Three Strategies to Improve One-to-Many Multilingual Translation}}
+@INPROCEEDINGS{papers-1539,
+   AUTHOR = {Kobayashi, Hayato},
+   SORTNAME = {Kobayashi, Hayato},
+   TITLE = {Frustratingly Easy Model Ensemble for Abstractive Summarization}}
+@INPROCEEDINGS{papers-1733,
+   AUTHOR = {Schluter, Natalie},
+   SORTNAME = {Schluter, Natalie},
+   TITLE = {The glass ceiling in NLP}}
+@INPROCEEDINGS{papers-2142,
+   AUTHOR = {Pei, Jiaxin and Li, Chenliang},
+   SORTNAME = {Pei, Jiaxin and Li, Chenliang},
+   TITLE = {S2SPMN:A Simple and Effective Framework for Response Generation with Relevant Information}}
+@INPROCEEDINGS{papers-462,
+   AUTHOR = {Li, Juntao and Song, Yan and Zhang, Haisong and Chen, Dongmin and Shi, Shuming and Zhao, Dongyan and Yan, Rui},
+   SORTNAME = {Li, Juntao and Song, Yan and Zhang, Haisong and Chen, Dongmin and Shi, Shuming and Zhao, Dongyan and Yan, Rui},
+   TITLE = {Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training}}
+@INPROCEEDINGS{papers-722,
+   AUTHOR = {Noraset, Thanapon and Downey, Doug and Bing, Lidong},
+   SORTNAME = {Noraset, Thanapon and Downey, Doug and Bing, Lidong},
+   TITLE = {Estimating Marginal Probabilities of n-grams for Recurrent Neural Language Models}}
+@INPROCEEDINGS{papers-977,
+   AUTHOR = {Chen, Ying and Hou, Wenjun and Cheng, Xiyao and Li, Shoushan},
+   SORTNAME = {Chen, Ying and Hou, Wenjun and Cheng, Xiyao and Li, Shoushan},
+   TITLE = {Joint Learning for Emotion Classification and Emotion Cause Detection}}
+@INPROCEEDINGS{papers-2030,
+   AUTHOR = {Neubig, Graham and Hu, Junjie},
+   SORTNAME = {Neubig, Graham and Hu, Junjie},
+   TITLE = {Rapid Adaptation of Neural Machine Translation to New Languages}}
+@INPROCEEDINGS{papers-1487,
+   AUTHOR = {Amrami, Asaf and Goldberg, Yoav},
+   SORTNAME = {Amrami, Asaf and Goldberg, Yoav},
+   TITLE = {Word Sense Induction with Neural biLM and Symmetric Patterns}}
+@INPROCEEDINGS{papers-983,
+   AUTHOR = {Grzegorczyk, Karol and Kurdziel, Marcin},
+   SORTNAME = {Grzegorczyk, Karol and Kurdziel, Marcin},
+   TITLE = {Disambiguated skip-gram model}}
+@INPROCEEDINGS{papers-1017,
+   AUTHOR = {Sugawara, Saku and Inui, Kentaro and Sekine, Satoshi and Aizawa, Akiko},
+   SORTNAME = {Sugawara, Saku and Inui, Kentaro and Sekine, Satoshi and Aizawa, Akiko},
+   TITLE = {What Makes Reading Comprehension Questions Easier?}}
+@INPROCEEDINGS{papers-517,
+   AUTHOR = {Chi, Ta Chung and Chen, Yun-Nung},
+   SORTNAME = {Chi, Ta Chung and Chen, Yun-Nung},
+   TITLE = {Crosslingual Sense Embeddings in One Space}}
+@INPROCEEDINGS{papers-1474,
+   AUTHOR = {Botha, Jan A. and Faruqui, Manaal and Alex, John and Baldridge, Jason and Das, Dipanjan},
+   SORTNAME = {Botha, Jan A. and Faruqui, Manaal and Alex, John and Baldridge, Jason and Das, Dipanjan},
+   TITLE = {Learning To Split and Rephrase From Wikipedia Edit History}}
+@INPROCEEDINGS{papers-979,
+   AUTHOR = {Wu, Lijun and Tian, Fei and Qin, Tao and Lai, Jianhuang and Liu, Tie-Yan},
+   SORTNAME = {Wu, Lijun and Tian, Fei and Qin, Tao and Lai, Jianhuang and Liu, Tie-Yan},
+   TITLE = {A Study of Reinforcement Learning for Neural Machine Translation}}
+@INPROCEEDINGS{papers-377,
+   AUTHOR = {Liao, Yi and Bing, Lidong and Li, Piji and Shi, Shuming and Lam, Wai and Zhang, Tong},
+   SORTNAME = {Liao, Yi and Bing, Lidong and Li, Piji and Shi, Shuming and Lam, Wai and Zhang, Tong},
+   TITLE = {Sentence Editing under Quantifiable Guidance}}
+@INPROCEEDINGS{papers-1489,
+   AUTHOR = {Lauscher, Anne and Glavaš, Goran and Ponzetto, Simone Paolo and Eckert, Kai},
+   SORTNAME = {Lauscher, Anne and Glavas, Goran and Ponzetto, Simone Paolo and Eckert, Kai},
+   TITLE = {Investigating the Role of Argumentation in the Rhetorical Analysis of Scientific Publications with Neural Multi-Task Learning Models}}
+@INPROCEEDINGS{papers-1026,
+   AUTHOR = {Yang, Baosong and Tu, Zhaopeng and Wong, Derek F. and Meng, Fandong and Chao, Lidia S. and Zhang, Tong},
+   SORTNAME = {Yang, Baosong and Tu, Zhaopeng and Wong, Derek F. and Meng, Fandong and Chao, Lidia S. and Zhang, Tong},
+   TITLE = {Modeling Localness for Self-Attention Networks}}
+@INPROCEEDINGS{papers-946,
+   AUTHOR = {Garcia-Duran, Alberto and Dumančić, Sebastijan and Niepert, Mathias},
+   SORTNAME = {Garcia-Duran, Alberto and Dumancic, Sebastijan and Niepert, Mathias},
+   TITLE = {Learning Sequence Encoders for Temporal Knowledge Graph Completion}}
+@INPROCEEDINGS{papers-2001,
+   AUTHOR = {Peng, Hao and Schwartz, Roy and Thomson, Sam and Smith, Noah A.},
+   SORTNAME = {Peng, Hao and Schwartz, Roy and Thomson, Sam and Smith, Noah A.},
+   TITLE = {Rational Recurrences}}
+@INPROCEEDINGS{papers-526,
+   AUTHOR = {Xu, Kun and Wu, Lingfei and Wang, Zhiguo and Yu, Mo and Chen, Liwei and Sheinin, Vadim},
+   SORTNAME = {Xu, Kun and Wu, Lingfei and Wang, Zhiguo and Yu, Mo and Chen, Liwei and Sheinin, Vadim},
+   TITLE = {Exploiting Rich Syntactic Information for Semantic Parsing with Graph-to-Sequence Model}}
+@INPROCEEDINGS{papers-2039,
+   AUTHOR = {Nema, Preksha and Khapra, Mitesh M.},
+   SORTNAME = {Nema, Preksha and Khapra, Mitesh M.},
+   TITLE = {Towards a Better Metric for Evaluating Question Generation Systems}}
+@INPROCEEDINGS{papers-1648,
+   AUTHOR = {Yu, Xiaodong and Mayhew, Stephen and Sammons, Mark and Roth, Dan},
+   SORTNAME = {Yu, Xiaodong and Mayhew, Stephen and Sammons, Mark and Roth, Dan},
+   TITLE = {The Internal Structure of Name Tokens: A Multilingual Study}}
+@INPROCEEDINGS{papers-1822,
+   AUTHOR = {Yang, Shaohua and Gao, Qiaozi and sadiya, sari and Chai, Joyce},
+   SORTNAME = {Yang, Shaohua and Gao, Qiaozi and sadiya, sari and Chai, Joyce},
+   TITLE = {Commonsense Action Explanation in Human-Agent Communication}}
+@INPROCEEDINGS{papers-1021,
+   AUTHOR = {Dou, Zi-Yi and Tu, Zhaopeng and Wang, Xing and Shi, Shuming and Zhang, Tong},
+   SORTNAME = {Dou, Zi-Yi and Tu, Zhaopeng and Wang, Xing and Shi, Shuming and Zhang, Tong},
+   TITLE = {Exploiting Deep Representations for Neural Machine Translation}}
+@INPROCEEDINGS{papers-016,
+   AUTHOR = {Faruqui, Manaal and Das, Dipanjan},
+   SORTNAME = {Faruqui, Manaal and Das, Dipanjan},
+   TITLE = {Identifying Well-formed Natural Language Questions}}
+@INPROCEEDINGS{papers-1213,
+   AUTHOR = {Yagcioglu, Semih and Erdem, Aykut and Erdem, Erkut and Ikizler-Cinbis, Nazli},
+   SORTNAME = {Yagcioglu, Semih and Erdem, Aykut and Erdem, Erkut and Ikizler-Cinbis, Nazli},
+   TITLE = {RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes}}
+@INPROCEEDINGS{papers-189,
+   AUTHOR = {Mallinson, Jonathan and Sennrich, Rico and Lapata, Mirella},
+   SORTNAME = {Mallinson, Jonathan and Sennrich, Rico and Lapata, Mirella},
+   TITLE = {Sentence Compression for Arbitrary Languages via Multilingual Pivoting}}
+@INPROCEEDINGS{papers-1677,
+   AUTHOR = {Tay, Yi and Luu, Anh Tuan and Hui, Siu Cheung},
+   SORTNAME = {Tay, Yi and Luu, Anh Tuan and Hui, Siu Cheung},
+   TITLE = {Multi-Granular Sequence Encoding via Dilated Compositional Units for Reading Comprehension}}
+@INPROCEEDINGS{papers-1247,
+   AUTHOR = {Stanovsky, Gabriel and Dagan, Ido},
+   SORTNAME = {Stanovsky, Gabriel and Dagan, Ido},
+   TITLE = {Semantics as a Foreign Language}}
+@INPROCEEDINGS{papers-042,
+   AUTHOR = {Hellwig, Oliver and Nehrdich, Sebastian},
+   SORTNAME = {Hellwig, Oliver and Nehrdich, Sebastian},
+   TITLE = {Sanskrit Word Segmentation Using Character-level Recurrent and Convolutional Neural Networks}}
+@INPROCEEDINGS{papers-1849,
+   AUTHOR = {Pampari, Anusri and Raghavan, Preethi and Liang, Jennifer and Peng, Jian},
+   SORTNAME = {Pampari, Anusri and Raghavan, Preethi and Liang, Jennifer and Peng, Jian},
+   TITLE = {emrQA: A Large Corpus for Question Answering on Electronic Medical Records}}
+@INPROCEEDINGS{papers-1411,
+   AUTHOR = {Qin, Guanghui and Yao, Jin-Ge and Wang, Xuening and Wang, Jinpeng and Lin, Chin-Yew},
+   SORTNAME = {Qin, Guanghui and Yao, Jin-Ge and Wang, Xuening and Wang, Jinpeng and Lin, Chin-Yew},
+   TITLE = {Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data}}
+@INPROCEEDINGS{papers-586,
+   AUTHOR = {Moorthy, Sridhar and Pogacar, Ruth and Khan, Samin and Xu, Yang},
+   SORTNAME = {Moorthy, Sridhar and Pogacar, Ruth and Khan, Samin and Xu, Yang},
+   TITLE = {Is Nike female? Predicting brand name gender across product categories}}
+@INPROCEEDINGS{papers-912,
+   AUTHOR = {Huang, Minghui and Rao, Yanghui and Liu, Yuwei and Xie, Haoran and Wang, Fu Lee},
+   SORTNAME = {Huang, Minghui and Rao, Yanghui and Liu, Yuwei and Xie, Haoran and Wang, Fu Lee},
+   TITLE = {Siamese Network-Based Supervised Topic Modeling}}
+@INPROCEEDINGS{papers-2267,
+   AUTHOR = {Zhao, Jinman and Mudgal, Sidharth and Liang, Yingyu},
+   SORTNAME = {Zhao, Jinman and Mudgal, Sidharth and Liang, Yingyu},
+   TITLE = {Generalizing Word Embeddings using Bag of Subwords}}
+@INPROCEEDINGS{papers-575,
+   AUTHOR = {Hou, Yufang},
+   SORTNAME = {Hou, Yufang},
+   TITLE = {A Deterministic Algorithm for Bridging Anaphora Resolution}}
+@INPROCEEDINGS{papers-747,
+   AUTHOR = {Ravi, Sujith and Kozareva, Zornitsa},
+   SORTNAME = {Ravi, Sujith and Kozareva, Zornitsa},
+   TITLE = {Self-Governing Neural Networks for On-Device Short Text Classification}}
+@INPROCEEDINGS{papers-1276,
+   AUTHOR = {Staliūnaitė, Ieva and Rohde, Hannah and Webber, Bonnie and Louis, Annie},
+   SORTNAME = {Staliunaite, Ieva and Rohde, Hannah and Webber, Bonnie and Louis, Annie},
+   TITLE = {Getting to ``Hearer-old'': Charting Referring Expressions Across Time}}
+@INPROCEEDINGS{papers-1612,
+   AUTHOR = {Tang, Da and Li, Xiujun and Gao, Jianfeng and Wang, Chong and Li, Lihong and Jebara, Tony},
+   SORTNAME = {Tang, Da and Li, Xiujun and Gao, Jianfeng and Wang, Chong and Li, Lihong and Jebara, Tony},
+   TITLE = {Subgoal Discovery for Hierarchical Dialogue Policy Learning}}
+@INPROCEEDINGS{papers-771,
+   AUTHOR = {Hu, Sen and Zou, Lei and Zhang, Xinbo},
+   SORTNAME = {Hu, Sen and Zou, Lei and Zhang, Xinbo},
+   TITLE = {A State-transition Framework to Answer Complex Questions over Knowledge Base}}
+@INPROCEEDINGS{papers-2064,
+   AUTHOR = {Zhang, Wen and Huang, Liang and Feng, Yang and Shen, Lei and Liu, Qun},
+   SORTNAME = {Zhang, Wen and Huang, Liang and Feng, Yang and Shen, Lei and Liu, Qun},
+   TITLE = {Cube Pruning for Neural Machine Translation}}
+@INPROCEEDINGS{papers-2269,
+   AUTHOR = {Kim, Yunsu and Geng, Jiahui and Ney, Hermann},
+   SORTNAME = {Kim, Yunsu and Geng, Jiahui and Ney, Hermann},
+   TITLE = {Improving Unsupervised Word-by-Word Translation with Language Model and Denoising Autoencoder}}
+@INPROCEEDINGS{papers-1649,
+   AUTHOR = {Seo, Minjoon and Kwiatkowski, Tom and Parikh, Ankur and Farhadi, Ali and Hajishirzi, Hannaneh},
+   SORTNAME = {Seo, Minjoon and Kwiatkowski, Tom and Parikh, Ankur and Farhadi, Ali and Hajishirzi, Hannaneh},
+   TITLE = {Phrase-Indexed Question Answering: A New Challenge for Scalable Document Comprehension}}
+@INPROCEEDINGS{papers-1020,
+   AUTHOR = {Wang, Guanying and Zhang, Wen and Wang, Ruoxu and Zhou, Yalin and Chen, Xi and Zhang, Wei and Zhu, Hai and Chen, Huajun},
+   SORTNAME = {Wang, Guanying and Zhang, Wen and Wang, Ruoxu and Zhou, Yalin and Chen, Xi and Zhang, Wei and Zhu, Hai and Chen, Huajun},
+   TITLE = {Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding}}
+@INPROCEEDINGS{papers-940,
+   AUTHOR = {Kratzwald, Bernhard and Feuerriegel, Stefan},
+   SORTNAME = {Kratzwald, Bernhard and Feuerriegel, Stefan},
+   TITLE = {Adaptive Document Retrieval for Deep Question Answering}}
+@INPROCEEDINGS{papers-978,
+   AUTHOR = {Hinami, Ryota and Satoh, Shin'ichi},
+   SORTNAME = {Hinami, Ryota and Satoh, Shin'ichi},
+   TITLE = {Discriminative Learning of Open-Vocabulary Object Retrieval and Localization by Negative Phrase Augmentation}}
+@INPROCEEDINGS{papers-712,
+   AUTHOR = {Song, Linfeng and Zhang, Yue and Wang, Zhiguo and Gildea, Daniel},
+   SORTNAME = {Song, Linfeng and Zhang, Yue and Wang, Zhiguo and Gildea, Daniel},
+   TITLE = {N-ary Relation Extraction using Graph State LSTM}}
+@INPROCEEDINGS{papers-1824,
+   AUTHOR = {Ghosal, Deepanway and Akhtar, Md Shad and Chauhan, Dushyant and Poria, Soujanya and Ekbal, Asif and Bhattacharyya, Pushpak},
+   SORTNAME = {Ghosal, Deepanway and Akhtar, Md Shad and Chauhan, Dushyant and Poria, Soujanya and Ekbal, Asif and Bhattacharyya, Pushpak},
+   TITLE = {Text, Visual and Acoustic are Friends! A Multi-Modal Attention Framework for Utterance-Level Sentiment Prediction}}
+@INPROCEEDINGS{papers-349,
+   AUTHOR = {Zhao, Yang and Zhang, Jiajun and He, Zhongjun and Zong, Chengqing and Wu, Hua},
+   SORTNAME = {Zhao, Yang and Zhang, Jiajun and He, Zhongjun and Zong, Chengqing and Wu, Hua},
+   TITLE = {Addressing Troublesome Words in Neural Machine Translation}}
+@INPROCEEDINGS{papers-2009,
+   AUTHOR = {Yokoi, Sho and Kobayashi, Sosuke and Fukumizu, Kenji and Suzuki, Jun and Inui, Kentaro},
+   SORTNAME = {Yokoi, Sho and Kobayashi, Sosuke and Fukumizu, Kenji and Suzuki, Jun and Inui, Kentaro},
+   TITLE = {Pointwise HSIC: A Linear-Time Kernelized Co-occurrence Norm for Sparse Linguistic Expressions}}
+@INPROCEEDINGS{papers-2036,
+   AUTHOR = {Yin, Wenpeng and Roth, Dan},
+   SORTNAME = {Yin, Wenpeng and Roth, Dan},
+   TITLE = {TwoWingOS: Claim Entailment with Precise Evidence via a Two-Wing Optimization Strategy}}
+@INPROCEEDINGS{papers-529,
+   AUTHOR = {Zhao, Yao and Ni, Xiaochuan and Ding, Yuanyuan and Ke, Qifa},
+   SORTNAME = {Zhao, Yao and Ni, Xiaochuan and Ding, Yuanyuan and Ke, Qifa},
+   TITLE = {Paragraph-level Neural Question Generation with Maxout Pointer and Gated Self-attention Networks}}
+@INPROCEEDINGS{papers-1472,
+   AUTHOR = {Peters, Matthew and Neumann, Mark and Zettlemoyer, Luke and Yih, Wen-tau},
+   SORTNAME = {Peters, Matthew and Neumann, Mark and Zettlemoyer, Luke and Yih, Wen-tau},
+   TITLE = {Dissecting Contextual Word Embeddings: Architecture and Representation}}
+@INPROCEEDINGS{papers-2091,
+   AUTHOR = {Zhuang, Yimeng and Xie, Jinghui and Zheng, Yinhe and Zhu, Xuan},
+   SORTNAME = {Zhuang, Yimeng and Xie, Jinghui and Zheng, Yinhe and Zhu, Xuan},
+   TITLE = {Quantifying Context Overlap for Training Word Embeddings}}
+@INPROCEEDINGS{papers-1270,
+   AUTHOR = {Gonzalez, Ana and Augenstein, Isabelle and Søgaard, Anders},
+   SORTNAME = {Gonzalez, Ana and Augenstein, Isabelle and Søgaard, Anders},
+   TITLE = {A strong baseline for question relevancy ranking}}
+@INPROCEEDINGS{papers-2268,
+   AUTHOR = {Xie, Jiateng and Yang, Zhilin and Neubig, Graham and Smith, Noah A. and Carbonell, Jaime},
+   SORTNAME = {Xie, Jiateng and Yang, Zhilin and Neubig, Graham and Smith, Noah A. and Carbonell, Jaime},
+   TITLE = {Neural Cross-lingual Named Entity Recognition with Minimal Resources}}
+@INPROCEEDINGS{papers-2250,
+   AUTHOR = {Lin, Zi and Duan, Yuguang and Zhao, Yuanyuan and Sun, Weiwei and Wan, Xiaojun},
+   SORTNAME = {Lin, Zi and Duan, Yuguang and Zhao, Yuanyuan and Sun, Weiwei and Wan, Xiaojun},
+   TITLE = {Semantic Role Labeling for Learner Chinese: the Importance of Syntactic Parsing and the L2-L1 Parallel Data}}
+@INPROCEEDINGS{papers-589,
+   AUTHOR = {Ma, Ji and Ganchev, Kuzman and Weiss, David},
+   SORTNAME = {Ma, Ji and Ganchev, Kuzman and Weiss, David},
+   TITLE = {Bi-LSTMs Are State-of-the-art for Chinese Word Segmentation}}
+@INPROCEEDINGS{papers-1879,
+   AUTHOR = {Wang, Zijian and Jurgens, David},
+   SORTNAME = {Wang, Zijian and Jurgens, David},
+   TITLE = {It's going to be okay: Measuring Access to Support in Online Communities}}
+@INPROCEEDINGS{papers-1613,
+   AUTHOR = {Vashishth, Shikhar and Joshi, Rishabh and Prayaga, Sai Suman and Bhattacharyya, Chiranjib and Talukdar, Partha},
+   SORTNAME = {Vashishth, Shikhar and Joshi, Rishabh and Prayaga, Sai Suman and Bhattacharyya, Chiranjib and Talukdar, Partha},
+   TITLE = {RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information}}
+@INPROCEEDINGS{papers-126,
+   AUTHOR = {Ziser, Yftah and Reichart, Roi},
+   SORTNAME = {Ziser, Yftah and Reichart, Roi},
+   TITLE = {Deep Pivot-Based Modeling for Cross-language Cross-domain Transfer with Minimal Guidance}}
+@INPROCEEDINGS{papers-1846,
+   AUTHOR = {Chen, Mingda and Tang, Qingming and Livescu, Karen and Gimpel, Kevin},
+   SORTNAME = {Chen, Mingda and Tang, Qingming and Livescu, Karen and Gimpel, Kevin},
+   TITLE = {Variational Sequential Labelers for Semi-Supervised Sequence Labeling}}
+@INPROCEEDINGS{papers-1248,
+   AUTHOR = {Lin, Junyang and SUN, Xu and Ren, Xuancheng and Li, Muyu and Su, Qi},
+   SORTNAME = {Lin, Junyang and SUN, Xu and Ren, Xuancheng and Li, Muyu and Su, Qi},
+   TITLE = {Learning When to Concentrate or Divert Attention: Automatic Control of Attention Temperature for Neural Machine Translation}}
+@INPROCEEDINGS{papers-1241,
+   AUTHOR = {Xu, Xinnuo and Dušek, Ondřej and Konstas, Ioannis and Rieser, Verena},
+   SORTNAME = {Xu, Xinnuo and Dusek, Ondrej and Konstas, Ioannis and Rieser, Verena},
+   TITLE = {Better Conversations by Modeling, Filtering, and Optimizing for Coherence and Diversity}}
+@INPROCEEDINGS{papers-1870,
+   AUTHOR = {Bosc, Tom and Vincent, Pascal},
+   SORTNAME = {Bosc, Tom and Vincent, Pascal},
+   TITLE = {Auto-Encoding Dictionary Definitions into Consistent Word Embeddings}}
+@INPROCEEDINGS{papers-1848,
+   AUTHOR = {He, Ruidan and Lee, Wee Sun and Ng, Hwee Tou and Dahlmeier, Daniel},
+   SORTNAME = {He, Ruidan and Lee, Wee Sun and Ng, Hwee Tou and Dahlmeier, Daniel},
+   TITLE = {Adaptive Semi-supervised Learning for Cross-domain Sentiment Classification}}
+@INPROCEEDINGS{papers-043,
+   AUTHOR = {Zhang, Ningyu and Deng, Shumin and Sun, Zhanling and Chen, Xi and Zhang, Wei and Chen, Huajun},
+   SORTNAME = {Zhang, Ningyu and Deng, Shumin and Sun, Zhanling and Chen, Xi and Zhang, Wei and Chen, Huajun},
+   TITLE = {Attention-Based Capsule Network with Dynamic Routing for Relation Extraction}}
+@INPROCEEDINGS{papers-1622,
+   AUTHOR = {Li, Xiangju and Song, Kaisong and Feng, Shi and Wang, Daling and Zhang, Yifei},
+   SORTNAME = {Li, Xiangju and Song, Kaisong and Feng, Shi and Wang, Daling and Zhang, Yifei},
+   TITLE = {A Co-attention Neural Network Model for Emotion Cause Analysis with Emotional Context Awareness}}
+@INPROCEEDINGS{papers-1410,
+   AUTHOR = {Schluter, Natalie and Varab, Daniel},
+   SORTNAME = {Schluter, Natalie and Varab, Daniel},
+   TITLE = {When data permutations are pathological: the case of neural natural language inference}}
+@INPROCEEDINGS{papers-1080,
+   AUTHOR = {Krishna, Amrith and Santra, Bishal and Bandaru, Sasi Prasanth and Sahu, Gaurav and Sharma, Vishnu Dutt and Satuluri, Pavankumar and Goyal, Pawan},
+   SORTNAME = {Krishna, Amrith and Santra, Bishal and Bandaru, Sasi Prasanth and Sahu, Gaurav and Sharma, Vishnu Dutt and Satuluri, Pavankumar and Goyal, Pawan},
+   TITLE = {Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit}}
+@INPROCEEDINGS{papers-2098,
+   AUTHOR = {Srivatsan, Akshay and Wojtowicz, Zachary and Berg-Kirkpatrick, Taylor},
+   SORTNAME = {Srivatsan, Akshay and Wojtowicz, Zachary and Berg-Kirkpatrick, Taylor},
+   TITLE = {Modeling Online Discourse with Coupled Distributed Topics}}
+@INPROCEEDINGS{papers-587,
+   AUTHOR = {Joty, Shafiq and Màrquez, Lluís and Nakov, Preslav},
+   SORTNAME = {Joty, Shafiq and Marquez, Lluis and Nakov, Preslav},
+   TITLE = {Joint Multitask Learning for Community Question Answering Using Task-Specific Embeddings}}
+@INPROCEEDINGS{papers-1877,
+   AUTHOR = {Zhu, Qile and Feng, Zheng and Li, Xiaolin},
+   SORTNAME = {Zhu, Qile and Feng, Zheng and Li, Xiaolin},
+   TITLE = {GraphBTM: Graph Enhanced Autoencoded Variational Inference forBiterm Topic Model}}
+@INPROCEEDINGS{papers-741,
+   AUTHOR = {Do Dinh, Erik-Lân and Wieland, Hannah and Gurevych, Iryna},
+   SORTNAME = {Do Dinh, Erik-Lan and Wieland, Hannah and Gurevych, Iryna},
+   TITLE = {Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations}}
+@INPROCEEDINGS{papers-950,
+   AUTHOR = {Chen, Xiuying and Gao, Shen and Tao, Chongyang and Song, Yan and Zhao, Dongyan and Yan, Rui},
+   SORTNAME = {Chen, Xiuying and Gao, Shen and Tao, Chongyang and Song, Yan and Zhao, Dongyan and Yan, Rui},
+   TITLE = {Iterative Document Representation Learning Towards Summarization with Polishing}}
+@INPROCEEDINGS{papers-1666,
+   AUTHOR = {Yavuz, Semih and Chiu, Chung-Cheng and Nguyen, Patrick and Wu, Yonghui},
+   SORTNAME = {Yavuz, Semih and Chiu, Chung-Cheng and Nguyen, Patrick and Wu, Yonghui},
+   TITLE = {CaLcs: Continuously Approximating Longest Common Subsequence for Sequence Level Optimization}}
+@INPROCEEDINGS{papers-1659,
+   AUTHOR = {Ray, Swayambhu Nath and DASGUPTA, SHIB SANKAR and Talukdar, Partha},
+   SORTNAME = {Ray, Swayambhu Nath and DASGUPTA, SHIB SANKAR and Talukdar, Partha},
+   TITLE = {AD3: Attentive Deep Document Dater}}
+@INPROCEEDINGS{papers-1037,
+   AUTHOR = {Wang, Su and Holgate, Eric and Durrett, Greg and Erk, Katrin},
+   SORTNAME = {Wang, Su and Holgate, Eric and Durrett, Greg and Erk, Katrin},
+   TITLE = {Picking Apart Story Salads}}
+@INPROCEEDINGS{papers-392,
+   AUTHOR = {Chen, Hong and Fan, Zhenhua and Lu, Hao and Yuille, Alan and Rong, Shu},
+   SORTNAME = {Chen, Hong and Fan, Zhenhua and Lu, Hao and Yuille, Alan and Rong, Shu},
+   TITLE = {PreCo: A Large-scale Dataset in Preschool Vocabulary for Coreference Resolution}}
+@INPROCEEDINGS{papers-968,
+   AUTHOR = {Shen, Xiaoyu and Su, Hui and Li, Wenjie and Klakow, Dietrich},
+   SORTNAME = {Shen, Xiaoyu and Su, Hui and Li, Wenjie and Klakow, Dietrich},
+   TITLE = {Nexus Network: Connecting the Preceding and the Following in Dialogue Generation}}
+@INPROCEEDINGS{papers-1498,
+   AUTHOR = {Kiros, Jamie and Chan, William},
+   SORTNAME = {Kiros, Jamie and Chan, William},
+   TITLE = {Strong Baselines for Learning Generic Sentence Embeddings}}
+@INPROCEEDINGS{papers-366,
+   AUTHOR = {Du, Jiachen and Li, Wenjie and He, Yulan and Xu, Ruifeng and Bing, Lidong and Wang, Xuan},
+   SORTNAME = {Du, Jiachen and Li, Wenjie and He, Yulan and Xu, Ruifeng and Bing, Lidong and Wang, Xuan},
+   TITLE = {Variational Autoregressive Decoder for Neural Response Generation}}
+@INPROCEEDINGS{papers-1465,
+   AUTHOR = {Jamshid Lou, Paria and Anderson, Peter and Johnson, Mark},
+   SORTNAME = {Jamshid Lou, Paria and Anderson, Peter and Johnson, Mark},
+   TITLE = {Disfluency Detection using Auto-Correlational Neural Networks}}
+@INPROCEEDINGS{papers-995,
+   AUTHOR = {Zhang, Yi and Xu, Jingjing and Yang, Pengcheng and SUN, Xu},
+   SORTNAME = {Zhang, Yi and Xu, Jingjing and Yang, Pengcheng and SUN, Xu},
+   TITLE = {Learning Sentiment Memories for Sentiment Modification without Parallel Data}}
+@INPROCEEDINGS{papers-539,
+   AUTHOR = {Pou-Prom, Chloé and Rudzicz, Frank},
+   SORTNAME = {Pou-Prom, Chloe and Rudzicz, Frank},
+   TITLE = {Learning multiview embeddings for assessing dementia}}
+@INPROCEEDINGS{papers-2214,
+   AUTHOR = {Misra, Dipendra and Chang, Ming-Wei and He, Xiaodong and Yih, Wen-tau},
+   SORTNAME = {Misra, Dipendra and Chang, Ming-Wei and He, Xiaodong and Yih, Wen-tau},
+   TITLE = {Policy Shaping and Generalized Update Equations for Semantic Parsing from Denotations}}
+@INPROCEEDINGS{papers-1668,
+   AUTHOR = {Ferguson, James and Christensen, Janara and Li, Edward and Gonzàlez, Edgar},
+   SORTNAME = {Ferguson, James and Christensen, Janara and Li, Edward and Gonzalez, Edgar},
+   TITLE = {Identifying Domain Adjacent Instances for Semantic Parsers}}
+@INPROCEEDINGS{papers-1234,
+   AUTHOR = {Xiong, Wenhan and Yu, Mo and Chang, Shiyu and Guo, Xiaoxiao and Wang, William Yang},
+   SORTNAME = {Xiong, Wenhan and Yu, Mo and Chang, Shiyu and Guo, Xiaoxiao and Wang, William Yang},
+   TITLE = {One-Shot Relational Learning for Knowledge Graphs}}
+@INPROCEEDINGS{papers-1650,
+   AUTHOR = {Lei, Jie and Yu, Licheng and Bansal, Mohit and Berg, Tamara},
+   SORTNAME = {Lei, Jie and Yu, Licheng and Bansal, Mohit and Berg, Tamara},
+   TITLE = {TVQA: Localized, Compositional Video Question Answering}}
+@INPROCEEDINGS{papers-1462,
+   AUTHOR = {Shankar, Shiv and Garg, Siddhant and Sarawagi, Sunita},
+   SORTNAME = {Shankar, Shiv and Garg, Siddhant and Sarawagi, Sunita},
+   TITLE = {Surprisingly Easy Hard-Attention for Sequence to Sequence Learning}}
+@INPROCEEDINGS{papers-501,
+   AUTHOR = {Shi, Chen and Chen, Qi and Sha, Lei and Li, Sujian and Sun, Xu and WANG, Houfeng and Zhang, Lintao},
+   SORTNAME = {Shi, Chen and Chen, Qi and Sha, Lei and Li, Sujian and Sun, Xu and WANG, Houfeng and Zhang, Lintao},
+   TITLE = {Auto-Dialabel: Labeling Dialogue Data with Unsupervised Learning}}
+@INPROCEEDINGS{papers-357,
+   AUTHOR = {Murawaki, Yugo},
+   SORTNAME = {Murawaki, Yugo},
+   TITLE = {Analyzing Correlated Evolution of Multiple Features Using Latent Representations}}
+@INPROCEEDINGS{papers-1039,
+   AUTHOR = {Song, Xingyi and Petrak, Johann and Roberts, Angus},
+   SORTNAME = {Song, Xingyi and Petrak, Johann and Roberts, Angus},
+   TITLE = {A Deep Neural Network Sentence Level Classification Method with Context Information}}
+@INPROCEEDINGS{papers-1099,
+   AUTHOR = {Yao, Yiqun and Xu, Jiaming and Wang, Feng and Xu, Bo},
+   SORTNAME = {Yao, Yiqun and Xu, Jiaming and Wang, Feng and Xu, Bo},
+   TITLE = {Cascaded Mutual Modulation for Visual Reasoning}}
+@INPROCEEDINGS{papers-131,
+   AUTHOR = {Indurthi, Sathish Reddy and Yu, Seunghak and Back, Seohyun and Cuayahuitl, Heriberto},
+   SORTNAME = {Indurthi, Sathish Reddy and Yu, Seunghak and Back, Seohyun and Cuayahuitl, Heriberto},
+   TITLE = {Cut to the Chase: A Context Zoom-in Network for Reading Comprehension}}
+@INPROCEEDINGS{papers-2075,
+   AUTHOR = {Gao, Ge and Choi, Eunsol and Choi, Yejin and Zettlemoyer, Luke},
+   SORTNAME = {Gao, Ge and Choi, Eunsol and Choi, Yejin and Zettlemoyer, Luke},
+   TITLE = {Neural Metaphor Detection in Context}}
+@INPROCEEDINGS{papers-758,
+   AUTHOR = {Wu, Wei and WANG, Houfeng and Liu, Tianyu and Ma, Shuming},
+   SORTNAME = {Wu, Wei and WANG, Houfeng and Liu, Tianyu and Ma, Shuming},
+   TITLE = {Phrase-level Self-Attention Networks for Universal Sentence Encoding}}
+@INPROCEEDINGS{papers-065,
+   AUTHOR = {Freitag, Markus and Roy, Scott},
+   SORTNAME = {Freitag, Markus and Roy, Scott},
+   TITLE = {Unsupervised Natural Language Generation with Denoising Autoencoders}}
+@INPROCEEDINGS{papers-1052,
+   AUTHOR = {Ouchi, Hiroki and Shindo, Hiroyuki and Matsumoto, Yuji},
+   SORTNAME = {Ouchi, Hiroki and Shindo, Hiroyuki and Matsumoto, Yuji},
+   TITLE = {A Span Selection Model for Semantic Role Labeling}}
+@INPROCEEDINGS{papers-1436,
+   AUTHOR = {Hoshen, Yedid and Wolf, Lior},
+   SORTNAME = {Hoshen, Yedid and Wolf, Lior},
+   TITLE = {Non-Adversarial Unsupervised Word Translation}}
+@INPROCEEDINGS{papers-794,
+   AUTHOR = {Hovy, Dirk and Fornaciari, Tommaso},
+   SORTNAME = {Hovy, Dirk and Fornaciari, Tommaso},
+   TITLE = {Improving Author Attribute Prediction by Retrofitting Linguistic Representations with Homophily}}
+@INPROCEEDINGS{papers-136,
+   AUTHOR = {Shen, Chenlin and Sun, Changlong and Wang, Jingjing and Kang, Yangyang and Li, Shoushan and Liu, Xiaozhong and Si, Luo and Zhang, Min and Zhou, Guodong},
+   SORTNAME = {Shen, Chenlin and Sun, Changlong and Wang, Jingjing and Kang, Yangyang and Li, Shoushan and Liu, Xiaozhong and Si, Luo and Zhang, Min and Zhou, Guodong},
+   TITLE = {Sentiment Classification towards Question-Answering with Hierarchical Matching Network}}
+@INPROCEEDINGS{papers-1869,
+   AUTHOR = {Zhang, Minghua and Wu, Yunfang and Li, Weikang and Li, Wei},
+   SORTNAME = {Zhang, Minghua and Wu, Yunfang and Li, Weikang and Li, Wei},
+   TITLE = {Learning Universal Sentence Representations with Mean-Max Attention Autoencoder}}
+@INPROCEEDINGS{papers-1267,
+   AUTHOR = {Läubli, Samuel and Sennrich, Rico and Volk, Martin},
+   SORTNAME = {Laubli, Samuel and Sennrich, Rico and Volk, Martin},
+   TITLE = {Has Neural Machine Translation Achieved Human Parity? A Case for Document-level Evaluation}}
+@INPROCEEDINGS{papers-1293,
+   AUTHOR = {Gao, Yang and Meyer, Christian M. and Gurevych, Iryna},
+   SORTNAME = {Gao, Yang and Meyer, Christian M. and Gurevych, Iryna},
+   TITLE = {APRIL: Interactively Learning to Summarise by Combining Active Preference Learning and Reinforcement Learning}}
+@INPROCEEDINGS{papers-2240,
+   AUTHOR = {Caragea, Cornelia and Dinu, Liviu P. and Dumitru, Bogdan},
+   SORTNAME = {Caragea, Cornelia and Dinu, Liviu P. and Dumitru, Bogdan},
+   TITLE = {Exploring Optimism and Pessimism in Twitter Using Deep Learning}}
+@INPROCEEDINGS{papers-590,
+   AUTHOR = {Shah, Darsh and Lei, Tao and Moschitti, Alessandro and Romeo, Salvatore and Nakov, Preslav},
+   SORTNAME = {Shah, Darsh and Lei, Tao and Moschitti, Alessandro and Romeo, Salvatore and Nakov, Preslav},
+   TITLE = {Adversarial Domain Adaptation for Duplicate Question Detection}}
+@INPROCEEDINGS{papers-1860,
+   AUTHOR = {Chaudhary, Aditi and Zhou, Chunting and Levin, Lori and Neubig, Graham and Mortensen, David R. and Carbonell, Jaime},
+   SORTNAME = {Chaudhary, Aditi and Zhou, Chunting and Levin, Lori and Neubig, Graham and Mortensen, David R. and Carbonell, Jaime},
+   TITLE = {Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations}}
+@INPROCEEDINGS{papers-1894,
+   AUTHOR = {Upadhyay, Shyam and Kodner, Jordan and Roth, Dan},
+   SORTNAME = {Upadhyay, Shyam and Kodner, Jordan and Roth, Dan},
+   TITLE = {Bootstrapping Transliteration with Guided Discovery for Low-Resource Languages}}
+@INPROCEEDINGS{papers-2249,
+   AUTHOR = {Ge, Tao and Dou, Qing and Ji, Heng and Cui, Lei and Chang, Baobao and Sui, Zhifang and Wei, Furu and Zhou, Ming},
+   SORTNAME = {Ge, Tao and Dou, Qing and Ji, Heng and Cui, Lei and Chang, Baobao and Sui, Zhifang and Wei, Furu and Zhou, Ming},
+   TITLE = {Fine-grained Coordinated Cross-lingual Text Stream Alignment for Endless Language Knowledge Acquisition}}
+@INPROCEEDINGS{papers-054,
+   AUTHOR = {Chandrasekaran, Arjun and Prabhu, Viraj and Yadav, Deshraj and Chattopadhyay, Prithvijit and Parikh, Devi},
+   SORTNAME = {Chandrasekaran, Arjun and Prabhu, Viraj and Yadav, Deshraj and Chattopadhyay, Prithvijit and Parikh, Devi},
+   TITLE = {Do explanation modalities make VQA models more predictable to a human?}}
+@INPROCEEDINGS{papers-2282,
+   AUTHOR = {Ball, Kelsey and Garrette, Dan},
+   SORTNAME = {Ball, Kelsey and Garrette, Dan},
+   TITLE = {Part-of-Speech Tagging for Code-Switched, Transliterated Texts without Explicit Language Identification}}
+@INPROCEEDINGS{papers-769,
+   AUTHOR = {Görnerup, Olof and Gillblad, Daniel},
+   SORTNAME = {Gornerup, Olof and Gillblad, Daniel},
+   TITLE = {Streaming word similarity mining on the cheap}}
+@INPROCEEDINGS{papers-335,
+   AUTHOR = {Angelidis, Stefanos and Lapata, Mirella},
+   SORTNAME = {Angelidis, Stefanos and Lapata, Mirella},
+   TITLE = {Summarizing Opinions: Aspect Extraction Meets Sentiment Prediction and They Are Both Weakly Supervised}}
+@INPROCEEDINGS{papers-1090,
+   AUTHOR = {Narayan, Shashi and Cohen, Shay B. and Lapata, Mirella},
+   SORTNAME = {Narayan, Shashi and Cohen, Shay B. and Lapata, Mirella},
+   TITLE = {Don't Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization}}
+@INPROCEEDINGS{papers-2043,
+   AUTHOR = {Sun, Haitian and Dhingra, Bhuwan and Zaheer, Manzil and Mazaitis, Kathryn and Salakhutdinov, Ruslan and Cohen, William},
+   SORTNAME = {Sun, Haitian and Dhingra, Bhuwan and Zaheer, Manzil and Mazaitis, Kathryn and Salakhutdinov, Ruslan and Cohen, William},
+   TITLE = {Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text}}
+@INPROCEEDINGS{papers-053,
+   AUTHOR = {Li, Jingyuan and Sun, Xiao},
+   SORTNAME = {Li, Jingyuan and Sun, Xiao},
+   TITLE = {A Syntactic Constraint Based Bidirectional-Asynchronous Approach for Emotional Conversation Generation}}
+@INPROCEEDINGS{papers-1858,
+   AUTHOR = {Wang, Yizhong and Li, Sujian and Yang, Jingfeng},
+   SORTNAME = {Wang, Yizhong and Li, Sujian and Yang, Jingfeng},
+   TITLE = {Toward Fast and Accurate Neural Discourse Segmentation}}
+@INPROCEEDINGS{papers-1235,
+   AUTHOR = {Lin, Junyang and Su, Qi and Yang, Pengcheng and Ma, Shuming and SUN, Xu},
+   SORTNAME = {Lin, Junyang and Su, Qi and Yang, Pengcheng and Ma, Shuming and SUN, Xu},
+   TITLE = {Semantic-Unit-Based Dilated Convolution for Multi-Label Text Classification}}
+@INPROCEEDINGS{papers-1651,
+   AUTHOR = {Tay, Yi and Luu, Anh Tuan and Hui, Siu Cheung and Su, Jian},
+   SORTNAME = {Tay, Yi and Luu, Anh Tuan and Hui, Siu Cheung and Su, Jian},
+   TITLE = {Attentive Gated Lexicon Reader with Contrastive Contextual Co-Attention for Sentiment Classification}}
+@INPROCEEDINGS{papers-1497,
+   AUTHOR = {Barbieri, Francesco and Espinosa Anke, Luis and Camacho-Collados, Jose and Schockaert, Steven and Saggion, Horacio},
+   SORTNAME = {Barbieri, Francesco and Espinosa Anke, Luis and Camacho-Collados, Jose and Schockaert, Steven and Saggion, Horacio},
+   TITLE = {Interpretable Emoji Prediction via Multi-Attention LSTMs}}
+@INPROCEEDINGS{papers-2020,
+   AUTHOR = {Zellers, Rowan and Bisk, Yonatan and Schwartz, Roy and Choi, Yejin},
+   SORTNAME = {Zellers, Rowan and Bisk, Yonatan and Schwartz, Roy and Choi, Yejin},
+   TITLE = {SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference}}
+@INPROCEEDINGS{papers-190,
+   AUTHOR = {Shen, Dinghan and Zhang, Xinyuan and Henao, Ricardo and Carin, Lawrence},
+   SORTNAME = {Shen, Dinghan and Zhang, Xinyuan and Henao, Ricardo and Carin, Lawrence},
+   TITLE = {Improved Semantic-Aware Network Embedding with Fine-Grained Word Alignment}}
+@INPROCEEDINGS{papers-500,
+   AUTHOR = {Paun, Silviu and Chamberlain, Jon and Kruschwitz, Udo and Yu, Juntao and Poesio, Massimo},
+   SORTNAME = {Paun, Silviu and Chamberlain, Jon and Kruschwitz, Udo and Yu, Juntao and Poesio, Massimo},
+   TITLE = {A Probabilistic Annotation Model for Crowdsourcing Coreference}}
+@INPROCEEDINGS{papers-958,
+   AUTHOR = {Wang, Xinyi and Pham, Hieu and Yin, Pengcheng and Neubig, Graham},
+   SORTNAME = {Wang, Xinyi and Pham, Hieu and Yin, Pengcheng and Neubig, Graham},
+   TITLE = {A Tree-based Decoder for Neural Machine Translation}}
+@INPROCEEDINGS{papers-538,
+   AUTHOR = {Magri, Giorgio},
+   SORTNAME = {Magri, Giorgio},
+   TITLE = {Implicational Universals in Stochastic Constraint-Based Phonology}}
+@INPROCEEDINGS{papers-960,
+   AUTHOR = {Carton, Samuel and Mei, Qiaozhu and Resnick, Paul},
+   SORTNAME = {Carton, Samuel and Mei, Qiaozhu and Resnick, Paul},
+   TITLE = {Extractive Adversarial Networks: High-Recall Explanations for Identifying Personal Attacks in Social Media Posts}}
+@INPROCEEDINGS{papers-1490,
+   AUTHOR = {Libovický, Jindřich and Helcl, Jindřich},
+   SORTNAME = {Libovicky, Jindrich and Helcl, Jindrich},
+   TITLE = {End-to-End Non-Autoregressive Neural Machine Translation with Connectionist Temporal Classification}}
+@INPROCEEDINGS{papers-1000,
+   AUTHOR = {Zhang, Zhao and Zhuang, Fuzhen and Qu, Meng and Lin, Fen and He, Qing},
+   SORTNAME = {Zhang, Zhao and Zhuang, Fuzhen and Qu, Meng and Lin, Fen and He, Qing},
+   TITLE = {Knowledge Graph Embedding with Hierarchical Relation Structure}}
+@INPROCEEDINGS{papers-1232,
+   AUTHOR = {Le, Hoang-Quynh and Can, Duy-Cat and Vu, Sinh T. and Dang, Thanh Hai and Pilehvar, Mohammad Taher and Collier, Nigel},
+   SORTNAME = {Le, Hoang-Quynh and Can, Duy-Cat and Vu, Sinh T. and Dang, Thanh Hai and Pilehvar, Mohammad Taher and Collier, Nigel},
+   TITLE = {Large-scale Exploration of Neural Relation Classification Architectures}}
+@INPROCEEDINGS{papers-1669,
+   AUTHOR = {Tay, Yi and Luu, Anh Tuan and Hui, Siu Cheung},
+   SORTNAME = {Tay, Yi and Luu, Anh Tuan and Hui, Siu Cheung},
+   TITLE = {Compare, Compress and Propagate: Enhancing Neural Architectures with Alignment Factorization for Natural Language Inference}}
+@INPROCEEDINGS{papers-1694,
+   AUTHOR = {Baly, Ramy and Karadzhov, Georgi and Alexandrov, Dimitar and Glass, James and Nakov, Preslav},
+   SORTNAME = {Baly, Ramy and Karadzhov, Georgi and Alexandrov, Dimitar and Glass, James and Nakov, Preslav},
+   TITLE = {Predicting Factuality of Reporting and Bias of News Media Sources}}
+@INPROCEEDINGS{papers-1036,
+   AUTHOR = {Ponti, Edoardo Maria and Vulić, Ivan and Glavaš, Goran and Mrkšić, Nikola and Korhonen, Anna},
+   SORTNAME = {Ponti, Edoardo Maria and Vulic, Ivan and Glavas, Goran and Mrksic, Nikola and Korhonen, Anna},
+   TITLE = {Adversarial Propagation and Zero-Shot Cross-Lingual Transfer of Word Vector Specialization}}
+@INPROCEEDINGS{papers-1009,
+   AUTHOR = {Han, Xu and Yu, Pengfei and Liu, Zhiyuan and Sun, Maosong and Li, Peng},
+   SORTNAME = {Han, Xu and Yu, Pengfei and Liu, Zhiyuan and Sun, Maosong and Li, Peng},
+   TITLE = {Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention}}
+@INPROCEEDINGS{papers-1031,
+   AUTHOR = {Watson, Daniel and Zalmout, Nasser and Habash, Nizar},
+   SORTNAME = {Watson, Daniel and Zalmout, Nasser and Habash, Nizar},
+   TITLE = {Utilizing Character and Word Embeddings for Text Normalization with Sequence-to-Sequence Models}}
+@INPROCEEDINGS{papers-2016,
+   AUTHOR = {Qian, Jing and ElSherief, Mai and Belding, Elizabeth and Wang, William Yang},
+   SORTNAME = {Qian, Jing and ElSherief, Mai and Belding, Elizabeth and Wang, William Yang},
+   TITLE = {Hierarchical CVAE for Fine-Grained Hate Speech Classification}}
+@INPROCEEDINGS{papers-152,
+   AUTHOR = {Lu, Weiyi and Nguyen, Thien Huu},
+   SORTNAME = {Lu, Weiyi and Nguyen, Thien Huu},
+   TITLE = {Similar but not the Same - Word Sense Disambiguation Improves Event Detection via Neural Representation Matching}}
+@INPROCEEDINGS{papers-704,
+   AUTHOR = {Seonwoo, Yeon and Oh, Alice and Park, Sungjoon},
+   SORTNAME = {Seonwoo, Yeon and Oh, Alice and Park, Sungjoon},
+   TITLE = {Hierarchical Dirichlet Gaussian Marked Hawkes Process for Narrative Reconstruction in Continuous Time Domain}}
+@INPROCEEDINGS{papers-1268,
+   AUTHOR = {Cui, Baiyun and Li, Yingming and Chen, Ming and Zhang, Zhongfei},
+   SORTNAME = {Cui, Baiyun and Li, Yingming and Chen, Ming and Zhang, Zhongfei},
+   TITLE = {Deep Attentive Sentence Ordering Network}}
+@INPROCEEDINGS{papers-1257,
+   AUTHOR = {Ailem, Melissa and Zhang, Bowen and Bellet, Aurélien and Denis, Pascal and Sha, Fei},
+   SORTNAME = {Ailem, Melissa and Zhang, Bowen and Bellet, Aurelien and Denis, Pascal and Sha, Fei},
+   TITLE = {A Probabilistic Model for Joint Learning of Word Embeddings from Texts and Images}}
+@INPROCEEDINGS{papers-905,
+   AUTHOR = {Pham, Minh Quang and Crego, Josep and Senellart, Jean and Yvon, François},
+   SORTNAME = {Pham, Minh Quang and Crego, Josep and Senellart, Jean and Yvon, Francois},
+   TITLE = {Fixing Translation Divergences in Parallel Corpora for Neural MT}}
+@INPROCEEDINGS{papers-333,
+   AUTHOR = {Xu, Yang and Hong, Yu and Ruan, Huibin and Yao, Jianmin and Zhang, Min and Zhou, Guodong},
+   SORTNAME = {Xu, Yang and Hong, Yu and Ruan, Huibin and Yao, Jianmin and Zhang, Min and Zhou, Guodong},
+   TITLE = {Using Active Learning to Expand Training Data for Implicit Discourse Relation Recognition}}
+@INPROCEEDINGS{papers-1439,
+   AUTHOR = {Zhang, Yuan and Riesa, Jason and Gillick, Daniel and Bakalov, Anton and Baldridge, Jason and Weiss, David},
+   SORTNAME = {Zhang, Yuan and Riesa, Jason and Gillick, Daniel and Bakalov, Anton and Baldridge, Jason and Weiss, David},
+   TITLE = {A Fast, Compact, Accurate Model for Language Identification of Codemixed Text}}
+@INPROCEEDINGS{papers-2045,
+   AUTHOR = {Huang, Yafang and Zhao, Hai},
+   SORTNAME = {Huang, Yafang and Zhao, Hai},
+   TITLE = {Chinese Pinyin Aided IME, Input What You Have Not Keystroked Yet}}
+@INPROCEEDINGS{papers-768,
+   AUTHOR = {Xu, Ruochen and Yang, Yiming and Otani, Naoki and Wu, Yuexin},
+   SORTNAME = {Xu, Ruochen and Yang, Yiming and Otani, Naoki and Wu, Yuexin},
+   TITLE = {Unsupervised Cross-lingual Transfer of Word Embedding Spaces}}
+@INPROCEEDINGS{papers-1406,
+   AUTHOR = {Alvarez-Melis, David and Jaakkola, Tommi},
+   SORTNAME = {Alvarez-Melis, David and Jaakkola, Tommi},
+   TITLE = {Gromov-Wasserstein Alignment of Word Embedding Spaces}}
+@INPROCEEDINGS{papers-1634,
+   AUTHOR = {Lamm, Matthew and Chaganty, Arun and Manning, Christopher D. and Jurafsky, Dan and Liang, Percy},
+   SORTNAME = {Lamm, Matthew and Chaganty, Arun and Manning, Christopher D. and Jurafsky, Dan and Liang, Percy},
+   TITLE = {Textual Analogy Parsing: What's Shared and What's Compared among Analogous Facts}}
+@INPROCEEDINGS{papers-305,
+   AUTHOR = {Wang, Weikang and Zhang, Jiajun and Zhang, Han and Hwang, Mei-Yuh and Zong, Chengqing and Li, Zhifei},
+   SORTNAME = {Wang, Weikang and Zhang, Jiajun and Zhang, Han and Hwang, Mei-Yuh and Zong, Chengqing and Li, Zhifei},
+   TITLE = {A Teacher-Student Framework for Maintainable Dialog Manager}}
+@INPROCEEDINGS{papers-761,
+   AUTHOR = {Hazarika, Devamanyu and Poria, Soujanya and Mihalcea, Rada and Cambria, Erik and Zimmermann, Roger},
+   SORTNAME = {Hazarika, Devamanyu and Poria, Soujanya and Mihalcea, Rada and Cambria, Erik and Zimmermann, Roger},
+   TITLE = {ICON: Interactive Conversational Memory Network for Multimodal Emotion Detection}}
+@INPROCEEDINGS{papers-553,
+   AUTHOR = {Xu, Kun and Wu, Lingfei and Wang, Zhiguo and Feng, Yansong and Sheinin, Vadim},
+   SORTNAME = {Xu, Kun and Wu, Lingfei and Wang, Zhiguo and Feng, Yansong and Sheinin, Vadim},
+   TITLE = {SQL-to-Text Generation with Graph-to-Sequence Model}}
+@INPROCEEDINGS{papers-2073,
+   AUTHOR = {Guo, Zhijiang and Lu, Wei},
+   SORTNAME = {Guo, Zhijiang and Lu, Wei},
+   TITLE = {Better Transition-Based AMR Parsing with Refined Search Space}}
+@INPROCEEDINGS{papers-2087,
+   AUTHOR = {Wood-Doughty, Zach and Shpitser, Ilya and Dredze, Mark},
+   SORTNAME = {Wood-Doughty, Zach and Shpitser, Ilya and Dredze, Mark},
+   TITLE = {Challenges of Using Text Classifiers for Causal Inference}}
+@INPROCEEDINGS{papers-063,
+   AUTHOR = {Stewart, Ian and Eisenstein, Jacob},
+   SORTNAME = {Stewart, Ian and Eisenstein, Jacob},
+   TITLE = {Making ``fetch'' happen: The influence of social and linguistic context on nonstandard word growth and decline}}
+@INPROCEEDINGS{papers-1098,
+   AUTHOR = {Zhao, Jieyu and ZHOU, YICHAO and Li, Zeyu and Wang, Wei and Chang, Kai-Wei},
+   SORTNAME = {Zhao, Jieyu and ZHOU, YICHAO and Li, Zeyu and Wang, Wei and Chang, Kai-Wei},
+   TITLE = {Learning Gender-Neutral Word Embeddings}}
+@INPROCEEDINGS{papers-766,
+   AUTHOR = {Leeuwenberg, Artuur and Moens, Marie-Francine},
+   SORTNAME = {Leeuwenberg, Artuur and Moens, Marie-Francine},
+   TITLE = {Temporal Information Extraction by Predicting Relative Time-lines}}
+@INPROCEEDINGS{papers-1261,
+   AUTHOR = {Yu, Tao and Yasunaga, Michihiro and Yang, Kai and Zhang, Rui and Wang, Dongxu and Li, Zifan and Radev, Dragomir},
+   SORTNAME = {Yu, Tao and Yasunaga, Michihiro and Yang, Kai and Zhang, Rui and Wang, Dongxu and Li, Zifan and Radev, Dragomir},
+   TITLE = {SyntaxSQLNet: Syntax Tree Networks for Complex and Cross Domain Text-to-SQL Task}}
+@INPROCEEDINGS{papers-1605,
+   AUTHOR = {Conneau, Alexis and Rinott, Ruty and Lample, Guillaume and Williams, Adina and Bowman, Samuel and Schwenk, Holger and Stoyanov, Veselin},
+   SORTNAME = {Conneau, Alexis and Rinott, Ruty and Lample, Guillaume and Williams, Adina and Bowman, Samuel and Schwenk, Holger and Stoyanov, Veselin},
+   TITLE = {XNLI: Cross-lingual Sentence Understanding through Inference}}
+@INPROCEEDINGS{papers-2074,
+   AUTHOR = {Rohrbach, Anna and Hendricks, Lisa Anne and Burns, Kaylee and Darrell, Trevor and Saenko, Kate},
+   SORTNAME = {Rohrbach, Anna and Hendricks, Lisa Anne and Burns, Kaylee and Darrell, Trevor and Saenko, Kate},
+   TITLE = {Object Hallucination in Image Captioning}}
+@INPROCEEDINGS{papers-270,
+   AUTHOR = {Huang, Lifu and Cho, Kyunghyun and Zhang, Boliang and Ji, Heng and Knight, Kevin},
+   SORTNAME = {Huang, Lifu and Cho, Kyunghyun and Zhang, Boliang and Ji, Heng and Knight, Kevin},
+   TITLE = {Multi-lingual Common Semantic Space Construction via Cluster-Consistent Word Embedding}}
+@INPROCEEDINGS{papers-2139,
+   AUTHOR = {Michel, Paul and Neubig, Graham},
+   SORTNAME = {Michel, Paul and Neubig, Graham},
+   TITLE = {MTNT: A Testbed for Machine Translation of Noisy Text}}
+@INPROCEEDINGS{papers-614,
+   AUTHOR = {Currey, Anna and Heafield, Kenneth},
+   SORTNAME = {Currey, Anna and Heafield, Kenneth},
+   TITLE = {Multi-Source Syntactic Neural Machine Translation}}
+@INPROCEEDINGS{papers-1542,
+   AUTHOR = {Edunov, Sergey and Ott, Myle and Auli, Michael and Grangier, David},
+   SORTNAME = {Edunov, Sergey and Ott, Myle and Auli, Michael and Grangier, David},
+   TITLE = {Understanding Back-Translation at Scale}}
+@INPROCEEDINGS{papers-846,
+   AUTHOR = {Yang, Yang and ZHOU, Deyu and He, Yulan},
+   SORTNAME = {Yang, Yang and ZHOU, Deyu and He, Yulan},
+   TITLE = {An Interpretable Neural Network with Topical Information for Relevant Emotion Ranking}}
+@INPROCEEDINGS{papers-1925,
+   AUTHOR = {Cao, Qian and Xiong, Deyi},
+   SORTNAME = {Cao, Qian and Xiong, Deyi},
+   TITLE = {Encoding Gated Translation Memory into Neural Machine Translation}}
+@INPROCEEDINGS{papers-1574,
+   AUTHOR = {Wang, Bailin and Lu, Wei},
+   SORTNAME = {Wang, Bailin and Lu, Wei},
+   TITLE = {Neural Segmental Hypergraphs for Overlapping Mention Recognition}}
+@INPROCEEDINGS{papers-1746,
+   AUTHOR = {Zhao, Sanqiang and Meng, Rui and He, Daqing and Saptono, Andi and Parmanto, Bambang},
+   SORTNAME = {Zhao, Sanqiang and Meng, Rui and He, Daqing and Saptono, Andi and Parmanto, Bambang},
+   TITLE = {Integrating Transformer and Paraphrase Rules for Sentence Simplification}}
+@INPROCEEDINGS{papers-1322,
+   AUTHOR = {Dong, Yue and Shen, Yikang and Crawford, Eric and van Hoof, Herke and Cheung, Jackie Chi Kit},
+   SORTNAME = {Dong, Yue and Shen, Yikang and Crawford, Eric and van Hoof, Herke and Cheung, Jackie Chi Kit},
+   TITLE = {BanditSum: Extractive Summarization as a Contextual Bandit}}
+@INPROCEEDINGS{papers-1110,
+   AUTHOR = {Sun, Mingming and Li, Xu and Li, Ping},
+   SORTNAME = {Sun, Mingming and Li, Xu and Li, Ping},
+   TITLE = {Logician and Orator: Learning from the Duality between Language and Knowledge in Open Domain}}
+@INPROCEEDINGS{papers-1779,
+   AUTHOR = {Rajendran, Janarthanan and Ganhotra, Jatin and Singh, Satinder and Polymenakos, Lazaros},
+   SORTNAME = {Rajendran, Janarthanan and Ganhotra, Jatin and Singh, Satinder and Polymenakos, Lazaros},
+   TITLE = {Learning End-to-End Goal-Oriented Dialog with Multiple Answers}}
+@INPROCEEDINGS{papers-1117,
+   AUTHOR = {Schmitt, Martin and Steinheber, Simon and Schreiber, Konrad and Roth, Benjamin},
+   SORTNAME = {Schmitt, Martin and Steinheber, Simon and Schreiber, Konrad and Roth, Benjamin},
+   TITLE = {Joint Aspect and Polarity Classification for Aspect-based Sentiment Analysis with End-to-End Neural Networks}}
+@INPROCEEDINGS{papers-1741,
+   AUTHOR = {Clark, Kevin and Luong, Minh-Thang and Manning, Christopher D. and Le, Quoc},
+   SORTNAME = {Clark, Kevin and Luong, Minh-Thang and Manning, Christopher D. and Le, Quoc},
+   TITLE = {Semi-Supervised Sequence Modeling with Cross-View Training}}
+@INPROCEEDINGS{papers-622,
+   AUTHOR = {Gui, Tao and Zhang, Qi and Gong, Jingjing and Peng, Minlong and liang, di and Ding, Keyu and Huang, Xuanjing},
+   SORTNAME = {Gui, Tao and Zhang, Qi and Gong, Jingjing and Peng, Minlong and liang, di and Ding, Keyu and Huang, Xuanjing},
+   TITLE = {Part-of-Speech Tagging for Twitter by Different Expression Styles}}
+@INPROCEEDINGS{papers-1128,
+   AUTHOR = {Li, Zuchao and He, Shexia and Cai, Jiaxun and Zhang, Zhuosheng and Zhao, Hai and Liu, Gongshen and Li, Linlin and Si, Luo},
+   SORTNAME = {Li, Zuchao and He, Shexia and Cai, Jiaxun and Zhang, Zhuosheng and Zhao, Hai and Liu, Gongshen and Li, Linlin and Si, Luo},
+   TITLE = {A Unified Syntax-aware Framework for Semantic Role Labeling}}
+@INPROCEEDINGS{papers-212,
+   AUTHOR = {Stab, Christian and Miller, Tristan and Schiller, Benjamin and Rai, Pranav and Gurevych, Iryna},
+   SORTNAME = {Stab, Christian and Miller, Tristan and Schiller, Benjamin and Rai, Pranav and Gurevych, Iryna},
+   TITLE = {Cross-topic Argument Mining from Heterogeneous Sources}}
+@INPROCEEDINGS{papers-1518,
+   AUTHOR = {Wu, Minghao and Liu, Fei and Cohn, Trevor},
+   SORTNAME = {Wu, Minghao and Liu, Fei and Cohn, Trevor},
+   TITLE = {Natural Language Processing Not-At-All from Scratch: Evaluating The Utility of Hand-crafted Features in Deep Learning}}
+@INPROCEEDINGS{papers-682,
+   AUTHOR = {Liu, Lizhen and Hu, Xiao and Song, Wei and Fu, Ruiji and Liu, Ting and Hu, Guoping},
+   SORTNAME = {Liu, Lizhen and Hu, Xiao and Song, Wei and Fu, Ruiji and Liu, Ting and Hu, Guoping},
+   TITLE = {Neural Multitask Learning for Simile Recognition}}
+@INPROCEEDINGS{papers-2164,
+   AUTHOR = {Kedzie, Chris and McKeown, Kathleen and Daume III, Hal},
+   SORTNAME = {Kedzie, Chris and McKeown, Kathleen and Daume III, Hal},
+   TITLE = {Content Selection in Deep Learning Models of Summarization}}
+@INPROCEEDINGS{papers-1527,
+   AUTHOR = {Wang, Xinyi and Pham, Hieu and Dai, Zihang and Neubig, Graham},
+   SORTNAME = {Wang, Xinyi and Pham, Hieu and Dai, Zihang and Neubig, Graham},
+   TITLE = {SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation}}
+@INPROCEEDINGS{papers-2190,
+   AUTHOR = {Han, Xu and Zhu, Hao and Yu, Pengfei and Wang, Ziyun and Yao, Yuan and Liu, Zhiyuan and Sun, Maosong},
+   SORTNAME = {Han, Xu and Zhu, Hao and Yu, Pengfei and Wang, Ziyun and Yao, Yuan and Liu, Zhiyuan and Sun, Maosong},
+   TITLE = {FewRel: A Large-Scale Supervised Few-shot Relation Classification Dataset with State-of-the-Art Evaluation}}
+@INPROCEEDINGS{papers-1947,
+   AUTHOR = {Luan, Yi and He, Luheng and Ostendorf, Mari and Hajishirzi, Hannaneh},
+   SORTNAME = {Luan, Yi and He, Luheng and Ostendorf, Mari and Hajishirzi, Hannaneh},
+   TITLE = {Multi-Task Identification of Entities, Relations, and Coreference for Scientific Knowledge Graph Construction}}
+@INPROCEEDINGS{papers-2197,
+   AUTHOR = {Nicosia, Massimo and Moschitti, Alessandro},
+   SORTNAME = {Nicosia, Massimo and Moschitti, Alessandro},
+   TITLE = {Semantic Linking in Convolutional Neural Networks for Answer Sentence Selection}}
+@INPROCEEDINGS{papers-1376,
+   AUTHOR = {Plank, Barbara and Agić, Željko},
+   SORTNAME = {Plank, Barbara and Agic, Zeljko},
+   TITLE = {Distant Supervision from Disparate Sources for Low-Resource Part-of-Speech Tagging}}
+@INPROCEEDINGS{papers-481,
+   AUTHOR = {Lukasik, Michal and Zens, Richard},
+   SORTNAME = {Lukasik, Michal and Zens, Richard},
+   TITLE = {Content Explorer: Recommending Novel Entities for a Document Writer}}
+@INPROCEEDINGS{papers-647,
+   AUTHOR = {Wen, Weiming and Su, Songwen and Yu, Zhou},
+   SORTNAME = {Wen, Weiming and Su, Songwen and Yu, Zhou},
+   TITLE = {Cross-Lingual Cross-Platform Rumor Verification Pivoting on Multimedia Content}}
+@INPROCEEDINGS{papers-1172,
+   AUTHOR = {Tandon, Niket and Dalvi, Bhavana and Grus, Joel and Yih, Wen-tau and Bosselut, Antoine and Clark, Peter},
+   SORTNAME = {Tandon, Niket and Dalvi, Bhavana and Grus, Joel and Yih, Wen-tau and Bosselut, Antoine and Clark, Peter},
+   TITLE = {Process Paragraph Comprehension using World Knowledge}}
+@INPROCEEDINGS{papers-1340,
+   AUTHOR = {Lebanoff, Logan and Liu, Fei},
+   SORTNAME = {Lebanoff, Logan and Liu, Fei},
+   TITLE = {Automatic Detection of Vague Words and Sentences in Privacy Policies}}
+@INPROCEEDINGS{papers-1516,
+   AUTHOR = {Ford, Nicolas and Duckworth, Daniel and Norouzi, Mohammad and Dahl, George},
+   SORTNAME = {Ford, Nicolas and Duckworth, Daniel and Norouzi, Mohammad and Dahl, George},
+   TITLE = {The Importance of Generation Order in Language Modeling}}
+@INPROCEEDINGS{papers-1186,
+   AUTHOR = {McDonald, Ryan and Brokos, George and Androutsopoulos, Ion},
+   SORTNAME = {McDonald, Ryan and Brokos, George and Androutsopoulos, Ion},
+   TITLE = {Deep Relevance Ranking using Enhanced Document-Query Interactions}}
+@INPROCEEDINGS{papers-224,
+   AUTHOR = {Liu, Zhengzhong and Xiong, Chenyan and Mitamura, Teruko and Hovy, Eduard},
+   SORTNAME = {Liu, Zhengzhong and Xiong, Chenyan and Mitamura, Teruko and Hovy, Eduard},
+   TITLE = {Automatic Event Salience Identification}}
+@INPROCEEDINGS{papers-486,
+   AUTHOR = {Hovy, Dirk and Purschke, Christoph},
+   SORTNAME = {Hovy, Dirk and Purschke, Christoph},
+   TITLE = {Capturing Regional Variation with Distributed Place Representations and Geographic Retrofitting}}
+@INPROCEEDINGS{papers-2199,
+   AUTHOR = {Elgohary, Ahmed and Zhao, Chen and Boyd-Graber, Jordan},
+   SORTNAME = {Elgohary, Ahmed and Zhao, Chen and Boyd-Graber, Jordan},
+   TITLE = {A dataset and baselines for sequential open-domain question answering}}
+@INPROCEEDINGS{papers-1181,
+   AUTHOR = {Gehrmann, Sebastian and Deng, Yuntian and Rush, Alexander},
+   SORTNAME = {Gehrmann, Sebastian and Deng, Yuntian and Rush, Alexander},
+   TITLE = {Bottom-Up Abstractive Summarization}}
+@INPROCEEDINGS{papers-1511,
+   AUTHOR = {Su, Shang-Yu and Li, Xiujun and Gao, Jianfeng and Liu, Jingjing and Chen, Yun-Nung},
+   SORTNAME = {Su, Shang-Yu and Li, Xiujun and Gao, Jianfeng and Liu, Jingjing and Chen, Yun-Nung},
+   TITLE = {Discriminative Deep Dyna-Q: Robust Planning for Dialogue Policy Learning}}
+@INPROCEEDINGS{papers-1175,
+   AUTHOR = {Kiela, Douwe and Wang, Changhan and Cho, Kyunghyun},
+   SORTNAME = {Kiela, Douwe and Wang, Changhan and Cho, Kyunghyun},
+   TITLE = {Context-Attentive Embeddings for Improved Sentence Representations}}
+@INPROCEEDINGS{papers-1324,
+   AUTHOR = {Lebanoff, Logan and Song, Kaiqiang and Liu, Fei},
+   SORTNAME = {Lebanoff, Logan and Song, Kaiqiang and Liu, Fei},
+   TITLE = {Adapting the Neural Encoder-Decoder Framework from Single to Multi-Document Summarization}}
+@INPROCEEDINGS{papers-1116,
+   AUTHOR = {Ruder, Sebastian and Cotterell, Ryan and Kementchedjhieva, Yova and Søgaard, Anders},
+   SORTNAME = {Ruder, Sebastian and Cotterell, Ryan and Kementchedjhieva, Yova and Søgaard, Anders},
+   TITLE = {A Discriminative Latent-Variable Model for Bilingual Lexicon Induction}}
+@INPROCEEDINGS{papers-1572,
+   AUTHOR = {Li, Changliang and Li, Liang and Qi, Ji},
+   SORTNAME = {Li, Changliang and Li, Liang and Qi, Ji},
+   TITLE = {A Self-Attentive Model with Gate Mechanism for Spoken Language Understanding}}
+@INPROCEEDINGS{papers-1740,
+   AUTHOR = {Zhou, Kangyan and Prabhumoye, Shrimai and Black, Alan W},
+   SORTNAME = {Zhou, Kangyan and Prabhumoye, Shrimai and Black, Alan W},
+   TITLE = {A Dataset for Document Grounded Conversations}}
+@INPROCEEDINGS{papers-1586,
+   AUTHOR = {Li, Bo and Cheng, Ping},
+   SORTNAME = {Li, Bo and Cheng, Ping},
+   TITLE = {Learning Neural Embeddings for CLIR with Adversarial Framework}}
+@INPROCEEDINGS{papers-1129,
+   AUTHOR = {Tang, Gongbo and Müller, Mathias and Rios, Annette and Sennrich, Rico},
+   SORTNAME = {Tang, Gongbo and Muller, Mathias and Rios, Annette and Sennrich, Rico},
+   TITLE = {Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures}}
+@INPROCEEDINGS{papers-247,
+   AUTHOR = {Li, Qing and Fu, Jianlong and Yu, Dongfei and Mei, Tao and Luo, Jiebo},
+   SORTNAME = {Li, Qing and Fu, Jianlong and Yu, Dongfei and Mei, Tao and Luo, Jiebo},
+   TITLE = {Tell-and-Answer: Towards Explainable Visual Question Answering using Attributes and Captions}}
+@INPROCEEDINGS{papers-1581,
+   AUTHOR = {Pinter, Yuval and Eisenstein, Jacob},
+   SORTNAME = {Pinter, Yuval and Eisenstein, Jacob},
+   TITLE = {Predicting Semantic Relations using Global Graph Properties}}
+@INPROCEEDINGS{papers-2304,
+   AUTHOR = {Cherry, Colin and Foster, George and Bapna, Ankur and Firat, Orhan and Macherey, Wolfgang},
+   SORTNAME = {Cherry, Colin and Foster, George and Bapna, Ankur and Firat, Orhan and Macherey, Wolfgang},
+   TITLE = {Revisiting Character-Based Neural Machine Translation with Capacity and Compression}}
+@INPROCEEDINGS{papers-1575,
+   AUTHOR = {Hirao, Tsutomu and Kamigaito, Hidetaka and Nagata, Masaaki},
+   SORTNAME = {Hirao, Tsutomu and Kamigaito, Hidetaka and Nagata, Masaaki},
+   TITLE = {Automatic Pyramid Evaluation Exploiting EDU-based Extractive Reference Summaries}}
+@INPROCEEDINGS{papers-1111,
+   AUTHOR = {Yang, Yi},
+   SORTNAME = {Yang, Yi},
+   TITLE = {Convolutional Neural Networks with Recurrent Neural Filters}}
+@INPROCEEDINGS{papers-624,
+   AUTHOR = {Maharjan, Suraj and Montes, Manuel and González, Fabio A. and Solorio, Thamar},
+   SORTNAME = {Maharjan, Suraj and Montes, Manuel and Gonzalez, Fabio A. and Solorio, Thamar},
+   TITLE = {A Genre-Aware Attention Model to Improve Likability Prediction of Books}}
+@INPROCEEDINGS{papers-1778,
+   AUTHOR = {Kryściński, Wojciech and Paulus, Romain and Xiong, Caiming and Socher, Richard},
+   SORTNAME = {Kryscinski, Wojciech and Paulus, Romain and Xiong, Caiming and Socher, Richard},
+   TITLE = {Improving Abstraction in Text Summarization}}
+@INPROCEEDINGS{papers-2100,
+   AUTHOR = {Hu, Huang and Wu, Xianchao and Luo, Bingfeng and Tao, Chongyang and Xu, Can and wu, wei and Chen, Zhan},
+   SORTNAME = {Hu, Huang and Wu, Xianchao and Luo, Bingfeng and Tao, Chongyang and Xu, Can and wu, wei and Chen, Zhan},
+   TITLE = {Playing 20 Question Game with Policy-Based Reinforcement Learning}}
+@INPROCEEDINGS{papers-1127,
+   AUTHOR = {Baheti, Ashutosh and Ritter, Alan and Li, Jiwei and Dolan, Bill},
+   SORTNAME = {Baheti, Ashutosh and Ritter, Alan and Li, Jiwei and Dolan, Bill},
+   TITLE = {Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints}}
+@INPROCEEDINGS{papers-1543,
+   AUTHOR = {Kondratyuk, Daniel and Gavenčiak, Tomáš and Straka, Milan and Hajič, Jan},
+   SORTNAME = {Kondratyuk, Daniel and Gavenciak, Tomas and Straka, Milan and Hajic, Jan},
+   TITLE = {LemmaTag: Jointly Tagging and Lemmatizing for Morphologically Rich Languages with BRNNs}}
+@INPROCEEDINGS{papers-282,
+   AUTHOR = {Padmakumar, Aishwarya and Stone, Peter and Mooney, Raymond},
+   SORTNAME = {Padmakumar, Aishwarya and Stone, Peter and Mooney, Raymond},
+   TITLE = {Learning a Policy for Opportunistic Active Learning}}
+@INPROCEEDINGS{papers-1924,
+   AUTHOR = {Chen, Yubo and Yang, Hang and Liu, Kang and Zhao, Jun and Jia, Yantao},
+   SORTNAME = {Chen, Yubo and Yang, Hang and Liu, Kang and Zhao, Jun and Jia, Yantao},
+   TITLE = {Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms}}
+@INPROCEEDINGS{papers-1544,
+   AUTHOR = {Shapira, Ori and Gabay, David and Ronen, Hadar and Bar-Ilan, Judit and Amsterdamer, Yael and Nenkova, Ani and Dagan, Ido},
+   SORTNAME = {Shapira, Ori and Gabay, David and Ronen, Hadar and Bar-Ilan, Judit and Amsterdamer, Yael and Nenkova, Ani and Dagan, Ido},
+   TITLE = {Evaluating Multiple System Summary Lengths: A Case Study}}
+@INPROCEEDINGS{papers-1776,
+   AUTHOR = {Greenberg, Nathan and Bansal, Trapit and Verga, Patrick and McCallum, Andrew},
+   SORTNAME = {Greenberg, Nathan and Bansal, Trapit and Verga, Patrick and McCallum, Andrew},
+   TITLE = {Marginal Likelihood Training of BiLSTM-CRF for Biomedical Named Entity Recognition from Disjoint Label Sets}}
+@INPROCEEDINGS{papers-1120,
+   AUTHOR = {Sun, Zhiqing and Deng, Zhi-Hong},
+   SORTNAME = {Sun, Zhiqing and Deng, Zhi-Hong},
+   TITLE = {Unsupervised Neural Word Segmentation for Chinese via Segmental Language Modeling}}
+@INPROCEEDINGS{papers-418,
+   AUTHOR = {Lee, Jinhyuk and Yun, Seongjun and Kim, Hyunjae and Ko, Miyoung and Kang, Jaewoo},
+   SORTNAME = {Lee, Jinhyuk and Yun, Seongjun and Kim, Hyunjae and Ko, Miyoung and Kang, Jaewoo},
+   TITLE = {Ranking Paragraphs for Improving Answer Recall in Open-Domain Question Answering}}
+@INPROCEEDINGS{papers-2107,
+   AUTHOR = {Zamani, Mohammadzaman and Schwartz, H. Andrew and Lynn, Veronica and Giorgi, Salvatore and Balasubramanian, Niranjan},
+   SORTNAME = {Zamani, Mohammadzaman and Schwartz, H. Andrew and Lynn, Veronica and Giorgi, Salvatore and Balasubramanian, Niranjan},
+   TITLE = {Residualized Factor Adaptation for Community Social Media Prediction Tasks}}
+@INPROCEEDINGS{papers-2138,
+   AUTHOR = {Wei, Wei and Le, Quoc and Dai, Andrew and Li, Jia},
+   SORTNAME = {Wei, Wei and Le, Quoc and Dai, Andrew and Li, Jia},
+   TITLE = {AirDialogue: An Environment for Goal-Oriented Dialogue Research}}
+@INPROCEEDINGS{papers-615,
+   AUTHOR = {Lin, Bill Yuchen and Lu, Wei},
+   SORTNAME = {Lin, Bill Yuchen and Lu, Wei},
+   TITLE = {Neural Adaptation Layers for Cross-domain Named Entity Recognition}}
+@INPROCEEDINGS{papers-1379,
+   AUTHOR = {Hu, Shengli},
+   SORTNAME = {Hu, Shengli},
+   TITLE = {Somm: Into the Model}}
+@INPROCEEDINGS{papers-2198,
+   AUTHOR = {Field, Anjalie and Kliger, Doron and Wintner, Shuly and Pan, Jennifer and Jurafsky, Dan and Tsvetkov, Yulia},
+   SORTNAME = {Field, Anjalie and Kliger, Doron and Wintner, Shuly and Pan, Jennifer and Jurafsky, Dan and Tsvetkov, Yulia},
+   TITLE = {Framing and Agenda-Setting in Russian News: a Computational Analysis of Intricate Political Strategies}}
+@INPROCEEDINGS{papers-225,
+   AUTHOR = {Shain, Cory and Schuler, William},
+   SORTNAME = {Shain, Cory and Schuler, William},
+   TITLE = {Deconvolutional time series regression: A technique for modeling temporally diffuse effects}}
+@INPROCEEDINGS{papers-473,
+   AUTHOR = {Smith, Aaron and de Lhoneux, Miryam and Stymne, Sara and Nivre, Joakim},
+   SORTNAME = {Smith, Aaron and de Lhoneux, Miryam and Stymne, Sara and Nivre, Joakim},
+   TITLE = {An Investigation of the Interactions Between Pre-Trained Word Embeddings, Character Models and POS Tags in Dependency Parsing}}
+@INPROCEEDINGS{papers-1174,
+   AUTHOR = {Elkahky, Ali and Webster, Kellie and Andor, Daniel and Pitler, Emily},
+   SORTNAME = {Elkahky, Ali and Webster, Kellie and Andor, Daniel and Pitler, Emily},
+   TITLE = {A Challenge Set and Methods for Noun-Verb Ambiguity}}
+@INPROCEEDINGS{papers-1948,
+   AUTHOR = {Nakashole, Ndapa},
+   SORTNAME = {Nakashole, Ndapa},
+   TITLE = {NORMA: Neighborhood Sensitive Maps for Multilingual Word Embeddings}}
+@INPROCEEDINGS{papers-814,
+   AUTHOR = {Kano, Ryuji and Miura, Yasuhide and Taniguchi, Motoki and Chen, Yan-Ying and Chen, Francine and Ohkuma, Tomoko},
+   SORTNAME = {Kano, Ryuji and Miura, Yasuhide and Taniguchi, Motoki and Chen, Yan-Ying and Chen, Francine and Ohkuma, Tomoko},
+   TITLE = {Harnessing Popularity in Social Media for Extractive Summarization of Online Conversations}}
+@INPROCEEDINGS{papers-679,
+   AUTHOR = {Parthasarathi, Prasanna and Pineau, Joelle},
+   SORTNAME = {Parthasarathi, Prasanna and Pineau, Joelle},
+   TITLE = {Extending Neural Generative Conversational Model using External Knowledge Sources}}
+@INPROCEEDINGS{papers-1517,
+   AUTHOR = {Alinejad, Ashkan and Siahbani, Maryam and Sarkar, Anoop},
+   SORTNAME = {Alinejad, Ashkan and Siahbani, Maryam and Sarkar, Anoop},
+   TITLE = {Prediction Improves Simultaneous Neural Machine Translation}}
+@INPROCEEDINGS{papers-670,
+   AUTHOR = {Zhong, Zexuan and Guo, Jiaqi and Yang, Wei and Peng, Jian and Xie, Tao and Lou, Jian-Guang and Liu, Ting and Zhang, Dongmei},
+   SORTNAME = {Zhong, Zexuan and Guo, Jiaqi and Yang, Wei and Peng, Jian and Xie, Tao and Lou, Jian-Guang and Liu, Ting and Zhang, Dongmei},
+   TITLE = {SemRegex: A Semantics-Based Approach for Generating Regular Expressions from Natural Language Specifications}}
+@INPROCEEDINGS{papers-683,
+   AUTHOR = {Platanios, Emmanouil Antonios and Sachan, Mrinmaya and Neubig, Graham and Mitchell, Tom},
+   SORTNAME = {Platanios, Emmanouil Antonios and Sachan, Mrinmaya and Neubig, Graham and Mitchell, Tom},
+   TITLE = {Contextual Parameter Generation for Universal Neural Machine Translation}}
+@INPROCEEDINGS{papers-213,
+   AUTHOR = {Guo, Tszhang and Chang, Shiyu and Yu, Mo and Bai, Kun},
+   SORTNAME = {Guo, Tszhang and Chang, Shiyu and Yu, Mo and Bai, Kun},
+   TITLE = {Improving Reinforcement Learning Based Image Captioning with Natural Language Prior}}
+@INPROCEEDINGS{papers-1714,
+   AUTHOR = {Sun, Xingwu and Liu, Jing and Lyu, Yajuan and He, Wei and Ma, Yanjun and Wang, Shi},
+   SORTNAME = {Sun, Xingwu and Liu, Jing and Lyu, Yajuan and He, Wei and Ma, Yanjun and Wang, Shi},
+   TITLE = {Answer-focused and Position-aware Neural Question Generation}}
+@INPROCEEDINGS{papers-2165,
+   AUTHOR = {Htut, Phu Mon and Cho, Kyunghyun and Bowman, Samuel},
+   SORTNAME = {Htut, Phu Mon and Cho, Kyunghyun and Bowman, Samuel},
+   TITLE = {Grammar Induction with Neural Language Models: Flawed Experiments, Important Results}}
+@INPROCEEDINGS{papers-648,
+   AUTHOR = {Wu, Shijie and Shapiro, Pamela and Cotterell, Ryan},
+   SORTNAME = {Wu, Shijie and Shapiro, Pamela and Cotterell, Ryan},
+   TITLE = {Hard Non-Monotonic Attention for Character-Level Transduction}}
+@INPROCEEDINGS{papers-1504,
+   AUTHOR = {Wang, Hai and Poon, Hoifung},
+   SORTNAME = {Wang, Hai and Poon, Hoifung},
+   TITLE = {Deep Probabilistic Logic: A Unifying Framework for Indirect Supervision}}
+@INPROCEEDINGS{papers-2140,
+   AUTHOR = {Zhang, Richong and Hu, Zhiyuan and GUO, Hongyu and Mao, Yongyi},
+   SORTNAME = {Zhang, Richong and Hu, Zhiyuan and GUO, Hongyu and Mao, Yongyi},
+   TITLE = {Syntax Encoding with Application in Authorship Attribution}}
+@INPROCEEDINGS{papers-1355,
+   AUTHOR = {Wang, Longyue and Tu, Zhaopeng and Way, Andy and Liu, Qun},
+   SORTNAME = {Wang, Longyue and Tu, Zhaopeng and Way, Andy and Liu, Qun},
+   TITLE = {Learning to Jointly Translate and Predict Dropped Pronouns with a Shared Reconstruction Mechanism}}
+@INPROCEEDINGS{papers-1731,
+   AUTHOR = {Siddhant, Aditya and Lipton, Zachary C.},
+   SORTNAME = {Siddhant, Aditya and Lipton, Zachary C.},
+   TITLE = {Deep Bayesian Active Learning for Natural Language Processing: Results of a Large-Scale Empirical Study}}
+@INPROCEEDINGS{papers-652,
+   AUTHOR = {Maddela, Mounica and Xu, Wei},
+   SORTNAME = {Maddela, Mounica and Xu, Wei},
+   TITLE = {A Word-Complexity Lexicon and A Neural Readability Ranking Model for Lexical Simplification}}
+@INPROCEEDINGS{papers-469,
+   AUTHOR = {Wang, Yongzhen and Liu, Xiaozhong and Gao, Zheng},
+   SORTNAME = {Wang, Yongzhen and Liu, Xiaozhong and Gao, Zheng},
+   TITLE = {Neural Related Work Summarization with a Joint Context-driven Attention Mechanism}}
+@INPROCEEDINGS{papers-2149,
+   AUTHOR = {Chirkova, Nadezhda and Lobacheva, Ekaterina and Vetrov, Dmitry},
+   SORTNAME = {Chirkova, Nadezhda and Lobacheva, Ekaterina and Vetrov, Dmitry},
+   TITLE = {Bayesian Compression for Natural Language Processing}}
+@INPROCEEDINGS{papers-1952,
+   AUTHOR = {Geng, Xinwei and Feng, Xiaocheng and Qin, Bing and Liu, Ting},
+   SORTNAME = {Geng, Xinwei and Feng, Xiaocheng and Qin, Bing and Liu, Ting},
+   TITLE = {Adaptive Multi-pass Decoder for Neural Machine Translation with Reinforcement Learning}}
+@INPROCEEDINGS{papers-1738,
+   AUTHOR = {Keith, Katherine and O'Connor, Brendan},
+   SORTNAME = {Keith, Katherine and O'Connor, Brendan},
+   TITLE = {Uncertainty-aware generative models for inferring document class prevalence}}
+@INPROCEEDINGS{papers-1156,
+   AUTHOR = {Hardy, Hardy and Vlachos, Andreas},
+   SORTNAME = {Hardy, Hardy and Vlachos, Andreas},
+   TITLE = {Guided Neural Language Generation for Abstractive Summarization using Abstract Meaning Representation}}
+@INPROCEEDINGS{papers-836,
+   AUTHOR = {Liu, Fenglin and Ren, Xuancheng and LIU, Yuanxin and WANG, Houfeng and SUN, Xu},
+   SORTNAME = {Liu, Fenglin and Ren, Xuancheng and LIU, Yuanxin and WANG, Houfeng and SUN, Xu},
+   TITLE = {simNet: Stepwise Image-Topic Merging Network for Generating Detailed and Comprehensive Image Captions}}
+@INPROCEEDINGS{papers-663,
+   AUTHOR = {Wang, Lei and Wang, Yan and Cai, Deng and Zhang, Dongxiang and Liu, Xiaojiang},
+   SORTNAME = {Wang, Lei and Wang, Yan and Cai, Deng and Zhang, Dongxiang and Liu, Xiaojiang},
+   TITLE = {Translating Math Word Problem to Expression Tree}}
+@INPROCEEDINGS{papers-207,
+   AUTHOR = {Chen, Jun and Zhang, Xiaoming and Wu, Yu and Yan, Zhao and Li, Zhoujun},
+   SORTNAME = {Chen, Jun and Zhang, Xiaoming and Wu, Yu and Yan, Zhao and Li, Zhoujun},
+   TITLE = {Keyphrase Generation with Correlation Constraints}}
+@INPROCEEDINGS{papers-862,
+   AUTHOR = {Goldin, Gili and Rabinovich, Ella and Wintner, Shuly},
+   SORTNAME = {Goldin, Gili and Rabinovich, Ella and Wintner, Shuly},
+   TITLE = {Native Language Identification with User Generated Content}}
+@INPROCEEDINGS{papers-2122,
+   AUTHOR = {Qi, Fanchao and Lin, Yankai and Sun, Maosong and Zhu, Hao and Xie, Ruobing and Liu, Zhiyuan},
+   SORTNAME = {Qi, Fanchao and Lin, Yankai and Sun, Maosong and Zhu, Hao and Xie, Ruobing and Liu, Zhiyuan},
+   TITLE = {Cross-lingual Lexical Sememe Prediction}}
+@INPROCEEDINGS{papers-865,
+   AUTHOR = {Shimura, Kazuya and Li, Jiyi and Fukumoto, Fumiyo},
+   SORTNAME = {Shimura, Kazuya and Li, Jiyi and Fukumoto, Fumiyo},
+   TITLE = {HFT-CNN: Learning Hierarchical Category Structure for Multi-label Short Text Categorization}}
+@INPROCEEDINGS{papers-2326,
+   AUTHOR = {Verma, Rohil and Kim, Samuel and Walter, David},
+   SORTNAME = {Verma, Rohil and Kim, Samuel and Walter, David},
+   TITLE = {Syntactical Analysis of the Weaknesses of Sentiment Analyzers}}
+@INPROCEEDINGS{papers-1791,
+   AUTHOR = {Yavuz, Semih and Gur, Izzeddin and Su, Yu and Yan, Xifeng},
+   SORTNAME = {Yavuz, Semih and Gur, Izzeddin and Su, Yu and Yan, Xifeng},
+   TITLE = {What It Takes to Achieve 100\% Condition Accuracy on WikiSQL}}
+@INPROCEEDINGS{papers-1301,
+   AUTHOR = {Gerz, Daniela and Vulić, Ivan and Ponti, Edoardo Maria and Reichart, Roi and Korhonen, Anna},
+   SORTNAME = {Gerz, Daniela and Vulic, Ivan and Ponti, Edoardo Maria and Reichart, Roi and Korhonen, Anna},
+   TITLE = {On the Relation between Linguistic Typology and (Limitations of) Multilingual Language Modeling}}
+@INPROCEEDINGS{papers-291,
+   AUTHOR = {Yang, Min and Zhao, Wei and Ye, Jianbo and Lei, Zeyang and Zhao, Zhou and Zhang, Soufei},
+   SORTNAME = {Yang, Min and Zhao, Wei and Ye, Jianbo and Lei, Zeyang and Zhao, Zhou and Zhang, Soufei},
+   TITLE = {Investigating Capsule Networks with Dynamic Routing for Text Classification}}
+@INPROCEEDINGS{papers-265,
+   AUTHOR = {Jin, Di and Szolovits, Peter},
+   SORTNAME = {Jin, Di and Szolovits, Peter},
+   TITLE = {Hierarchical Neural Networks for Sequential Sentence Classification in Medical Scientific Abstracts}}
+@INPROCEEDINGS{papers-601,
+   AUTHOR = {Nguyen, Minh and Ngo, Gia H and Chen, Nancy},
+   SORTNAME = {Nguyen, Minh and Ngo, Gia H and Chen, Nancy},
+   TITLE = {Multimodal neural pronunciation modeling for spoken languages with logographic origin}}
+@INPROCEEDINGS{papers-1762,
+   AUTHOR = {Zhang, Shanshan and He, Lihong and Vucetic, Slobodan and Dragut, Eduard},
+   SORTNAME = {Zhang, Shanshan and He, Lihong and Vucetic, Slobodan and Dragut, Eduard},
+   TITLE = {Regular Expression Guided Entity Mention Mining from Noisy Web Data}}
+@INPROCEEDINGS{papers-1134,
+   AUTHOR = {Faruqui, Manaal and Pavlick, Ellie and Tenney, Ian and Das, Dipanjan},
+   SORTNAME = {Faruqui, Manaal and Pavlick, Ellie and Tenney, Ian and Das, Dipanjan},
+   TITLE = {AtomicWikiEdits: A Multilingual Corpus of Wikipedia Edits for Modeling Language and Discourse}}
+@INPROCEEDINGS{papers-1533,
+   AUTHOR = {Godin, Fréderic and Demuynck, Kris and Dambre, Joni and De Neve, Wesley and Demeester, Thomas},
+   SORTNAME = {Godin, Frederic and Demuynck, Kris and Dambre, Joni and De Neve, Wesley and Demeester, Thomas},
+   TITLE = {Explaining Character-Aware Neural Networks for Word-Level Prediction: Do They Discover Linguistic Rules?}}
+@INPROCEEDINGS{papers-206,
+   AUTHOR = {Chen, Jingqiang and Zhuge, Hai},
+   SORTNAME = {Chen, Jingqiang and Zhuge, Hai},
+   TITLE = {Abstractive Text-Image Summarization based on Multi-Modal Attentional Hierarchical RNN}}
+@INPROCEEDINGS{papers-2183,
+   AUTHOR = {Sahin, Gozde Gul and Steedman, Mark},
+   SORTNAME = {Sahin, Gozde Gul and Steedman, Mark},
+   TITLE = {Data Augmentation via Dependency Tree Morphing for Low-Resource Languages}}
+@INPROCEEDINGS{papers-1362,
+   AUTHOR = {Ye, Hai and Wang, Lu},
+   SORTNAME = {Ye, Hai and Wang, Lu},
+   TITLE = {Semi-Supervised Learning for Neural Keyphrase Generation}}
+@INPROCEEDINGS{papers-1150,
+   AUTHOR = {Guillou, Liane and Hardmeier, Christian},
+   SORTNAME = {Guillou, Liane and Hardmeier, Christian},
+   TITLE = {Automatic Reference-Based Evaluation of Pronoun Translation Misses the Point}}
+@INPROCEEDINGS{papers-468,
+   AUTHOR = {Chen, Di and Du, Jiachen and Bing, Lidong and Xu, Ruifeng},
+   SORTNAME = {Chen, Di and Du, Jiachen and Bing, Lidong and Xu, Ruifeng},
+   TITLE = {Hybrid Neural Attention for Agreement/Disagreement Inference in Online Debates}}
+@INPROCEEDINGS{papers-1998,
+   AUTHOR = {Zang, Xiaoxue and Pokle, Ashwini and Vázquez, Marynel and Chen, Kevin and Niebles, Juan Carlos and Soto, Alvaro and Savarese, Silvio},
+   SORTNAME = {Zang, Xiaoxue and Pokle, Ashwini and Vazquez, Marynel and Chen, Kevin and Niebles, Juan Carlos and Soto, Alvaro and Savarese, Silvio},
+   TITLE = {Translating Navigation Instructions in Natural Language to a High-Level Plan for Behavioral Robot Navigation}}
+@INPROCEEDINGS{papers-2177,
+   AUTHOR = {Choi, Eunsol and He, He and Iyyer, Mohit and Yatskar, Mark and Yih, Wen-tau and Choi, Yejin and Liang, Percy and Zettlemoyer, Luke},
+   SORTNAME = {Choi, Eunsol and He, He and Iyyer, Mohit and Yatskar, Mark and Yih, Wen-tau and Choi, Yejin and Liang, Percy and Zettlemoyer, Luke},
+   TITLE = {QuAC: Question Answering in Context}}
+@INPROCEEDINGS{papers-201,
+   AUTHOR = {Wang, Shaonan and Zhang, Jiajun and Zong, Chengqing},
+   SORTNAME = {Wang, Shaonan and Zhang, Jiajun and Zong, Chengqing},
+   TITLE = {Associative Multichannel Autoencoder for Multimodal Word Representation}}
+@INPROCEEDINGS{papers-665,
+   AUTHOR = {Dai, Zeyu and Huang, Ruihong},
+   SORTNAME = {Dai, Zeyu and Huang, Ruihong},
+   TITLE = {Building Context-aware Clause Representations for Situation Entity Type Classification}}
+@INPROCEEDINGS{papers-1502,
+   AUTHOR = {Wang, Weichao and Feng, Shi and Gao, Wei and Wang, Daling and Zhang, Yifei},
+   SORTNAME = {Wang, Weichao and Feng, Shi and Gao, Wei and Wang, Daling and Zhang, Yifei},
+   TITLE = {Personalized Microblog Sentiment Classification via Adversarial Cross-lingual learning}}
+@INPROCEEDINGS{papers-208,
+   AUTHOR = {Bouchacourt, Diane and Baroni, Marco},
+   SORTNAME = {Bouchacourt, Diane and Baroni, Marco},
+   TITLE = {How agents see things: On visual representations in an emergent language game}}
+@INPROCEEDINGS{papers-1192,
+   AUTHOR = {Liu, Yizhu and Luo, Zhiyi and Zhu, Kenny},
+   SORTNAME = {Liu, Yizhu and Luo, Zhiyi and Zhu, Kenny},
+   TITLE = {Controlling Length in Abstractive Summarization Using a Convolutional Neural Network}}
+@INPROCEEDINGS{papers-461,
+   AUTHOR = {Majumder, Navonil and Poria, Soujanya and Gelbukh, Alexander and Akhtar, Md Shad and Cambria, Erik and Ekbal, Asif},
+   SORTNAME = {Majumder, Navonil and Poria, Soujanya and Gelbukh, Alexander and Akhtar, Md Shad and Cambria, Erik and Ekbal, Asif},
+   TITLE = {Modeling Inter-Aspect Relation in Aspect-Based Sentiment Analysis}}
+@INPROCEEDINGS{papers-1195,
+   AUTHOR = {Lample, Guillaume and Ott, Myle and Conneau, Alexis and Denoyer, Ludovic and Ranzato, Marc'Aurelio},
+   SORTNAME = {Lample, Guillaume and Ott, Myle and Conneau, Alexis and Denoyer, Ludovic and Ranzato, Marc'Aurelio},
+   TITLE = {Phrase-Based \& Neural Unsupervised Machine Translation}}
+@INPROCEEDINGS{papers-2146,
+   AUTHOR = {Liu, Shaobo and Cheng, Rui and Yu, Xiaoming and Cheng, Xueqi},
+   SORTNAME = {Liu, Shaobo and Cheng, Rui and Yu, Xiaoming and Cheng, Xueqi},
+   TITLE = {Exploiting Contextual Information via Dynamic Memory Network for Event Detection}}
+@INPROCEEDINGS{papers-1161,
+   AUTHOR = {Makarov, Peter and Clematide, Simon},
+   SORTNAME = {Makarov, Peter and Clematide, Simon},
+   TITLE = {Imitation Learning for Neural Morphological String Transduction}}
+@INPROCEEDINGS{papers-2179,
+   AUTHOR = {Jie, Zhanming and Lu, Wei},
+   SORTNAME = {Jie, Zhanming and Lu, Wei},
+   TITLE = {Dependency-based Hybrid Trees for Semantic Parsing}}
+@INPROCEEDINGS{papers-1398,
+   AUTHOR = {Zhang, Sheng and Ma, Xutai and Rudinger, Rachel and Duh, Kevin and Van Durme, Benjamin},
+   SORTNAME = {Zhang, Sheng and Ma, Xutai and Rudinger, Rachel and Duh, Kevin and Van Durme, Benjamin},
+   TITLE = {Cross-lingual Decompositional Semantic Parsing}}
+@INPROCEEDINGS{papers-1996,
+   AUTHOR = {Vu, Thuy-Trang and Haffari, Gholamreza},
+   SORTNAME = {Vu, Thuy-Trang and Haffari, Gholamreza},
+   TITLE = {Automatic Post-Editing of Machine Translation: A Neural Programmer-Interpreter Approach}}
+@INPROCEEDINGS{papers-654,
+   AUTHOR = {Liu, Changsheng and Hwa, Rebecca},
+   SORTNAME = {Liu, Changsheng and Hwa, Rebecca},
+   TITLE = {Heuristically Informed Unsupervised Idiom Usage Recognition}}
+@INPROCEEDINGS{papers-1962,
+   AUTHOR = {Gu, Yihong and Yan, Jun and Zhu, Hao and Liu, Zhiyuan and Xie, Ruobing and Sun, Maosong and Lin, Fen and Lin, Leyu},
+   SORTNAME = {Gu, Yihong and Yan, Jun and Zhu, Hao and Liu, Zhiyuan and Xie, Ruobing and Sun, Maosong and Lin, Fen and Lin, Leyu},
+   TITLE = {Language Modeling with Sparse Product of Sememe Experts}}
+@INPROCEEDINGS{papers-1708,
+   AUTHOR = {Rudinger, Rachel and Teichert, Adam and Culkin, Ryan and Zhang, Sheng and Van Durme, Benjamin},
+   SORTNAME = {Rudinger, Rachel and Teichert, Adam and Culkin, Ryan and Zhang, Sheng and Van Durme, Benjamin},
+   TITLE = {Neural Davidsonian Semantic Proto-role Labeling}}
+@INPROCEEDINGS{papers-264,
+   AUTHOR = {Guo, Daya and Sun, Yibo and Tang, Duyu and Duan, Nan and Yin, Jian and Chi, Hong and Cao, James and Chen, Peng and Zhou, Ming},
+   SORTNAME = {Guo, Daya and Sun, Yibo and Tang, Duyu and Duan, Nan and Yin, Jian and Chi, Hong and Cao, James and Chen, Peng and Zhou, Ming},
+   TITLE = {Question Generation from SQL Queries Improves Neural Semantic Parsing}}
+@INPROCEEDINGS{papers-855,
+   AUTHOR = {Dai, Hongliang and Song, Yangqiu and Qiu, Liwei and Liu, Rijia},
+   SORTNAME = {Dai, Hongliang and Song, Yangqiu and Qiu, Liwei and Liu, Rijia},
+   TITLE = {Entity Linking within a Social Media Platform: A Case Study on Yelp}}
+@INPROCEEDINGS{papers-1797,
+   AUTHOR = {Kolchinski, Y. Alex and Potts, Christopher},
+   SORTNAME = {Kolchinski, Y. Alex and Potts, Christopher},
+   TITLE = {Representing Social Media Users for Sarcasm Detection}}
+@INPROCEEDINGS{papers-1763,
+   AUTHOR = {Hendricks, Lisa Anne and Wang, Oliver and Shechtman, Eli and Sivic, Josef and Darrell, Trevor and Russell, Bryan},
+   SORTNAME = {Hendricks, Lisa Anne and Wang, Oliver and Shechtman, Eli and Sivic, Josef and Darrell, Trevor and Russell, Bryan},
+   TITLE = {Localizing Moments in Video with Temporal Language}}
+@INPROCEEDINGS{papers-1307,
+   AUTHOR = {van der Goot, Rob and van Noord, Gertjan},
+   SORTNAME = {van der Goot, Rob and van Noord, Gertjan},
+   TITLE = {Modeling Input Uncertainty in Neural Network Dependency Parsing}}
+@INPROCEEDINGS{papers-297,
+   AUTHOR = {Zhang, Yuhao and Qi, Peng and Manning, Christopher D.},
+   SORTNAME = {Zhang, Yuhao and Qi, Peng and Manning, Christopher D.},
+   TITLE = {Graph Convolution over Pruned Dependency Trees Improves Relation Extraction}}
+@INPROCEEDINGS{papers-2115,
+   AUTHOR = {Wang, Zhichun and Lv, Qingsong and Lan, Xiaohan and Zhang, Yu},
+   SORTNAME = {Wang, Zhichun and Lv, Qingsong and Lan, Xiaohan and Zhang, Yu},
+   TITLE = {Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks}}
+@INPROCEEDINGS{papers-1790,
+   AUTHOR = {Gong, Hongyu and Mu, Jiaqi and Bhat, Suma and viswanath, pramod},
+   SORTNAME = {Gong, Hongyu and Mu, Jiaqi and Bhat, Suma and viswanath, pramod},
+   TITLE = {Preposition Sense Disambiguation and Representation}}
+@INPROCEEDINGS{papers-1309,
+   AUTHOR = {Mazare, Pierre-Emmanuel and Humeau, Samuel and Raison, Martin and Bordes, Antoine},
+   SORTNAME = {Mazare, Pierre-Emmanuel and Humeau, Samuel and Raison, Martin and Bordes, Antoine},
+   TITLE = {Training Millions of Personalized Dialogue Agents}}
+@INPROCEEDINGS{papers-1799,
+   AUTHOR = {Marvin, Rebecca and Linzen, Tal},
+   SORTNAME = {Marvin, Rebecca and Linzen, Tal},
+   TITLE = {Targeted Syntactic Evaluation of Language Models}}
+@INPROCEEDINGS{papers-1104,
+   AUTHOR = {Emami, Ali and De La Cruz, Noelia and Trischler, Adam and Suleman, Kaheer and Cheung, Jackie Chi Kit},
+   SORTNAME = {Emami, Ali and De La Cruz, Noelia and Trischler, Adam and Suleman, Kaheer and Cheung, Jackie Chi Kit},
+   TITLE = {A Knowledge Hunting Framework for Common Sense Reasoning}}
+@INPROCEEDINGS{papers-864,
+   AUTHOR = {Zhang, Yiqing and Qi, Jianzhong and Zhang, Rui and Yin, Chuandong},
+   SORTNAME = {Zhang, Yiqing and Qi, Jianzhong and Zhang, Rui and Yin, Chuandong},
+   TITLE = {PubSE: A Hierarchical Model for Publication Extraction from Academic Homepages}}
+@INPROCEEDINGS{papers-1900,
+   AUTHOR = {Jhamtani, Harsh and Berg-Kirkpatrick, Taylor},
+   SORTNAME = {Jhamtani, Harsh and Berg-Kirkpatrick, Taylor},
+   TITLE = {Learning to Describe Differences Between Pairs of Similar Images}}
+@INPROCEEDINGS{papers-1331,
+   AUTHOR = {Pezeshkpour, Pouya and Chen, Liyan and Singh, Sameer},
+   SORTNAME = {Pezeshkpour, Pouya and Chen, Liyan and Singh, Sameer},
+   TITLE = {Embedding Multimodal Relational Data for Knowledge Base Completion}}
+@INPROCEEDINGS{papers-1755,
+   AUTHOR = {Garg, Saurabh and Parekh, Tanmay and Jyothi, Preethi},
+   SORTNAME = {Garg, Saurabh and Parekh, Tanmay and Jyothi, Preethi},
+   TITLE = {Code-switched Language Models Using Dual RNNs and Same-Source Pretraining}}
+@INPROCEEDINGS{papers-1071,
+   AUTHOR = {Chan, Hou Pong and King, Irwin},
+   SORTNAME = {Chan, Hou Pong and King, Irwin},
+   TITLE = {Thread Popularity Prediction and Tracking with a Permutation-invariant Model}}
+@INPROCEEDINGS{papers-1085,
+   AUTHOR = {Mirkin, Shachar and Moshkowich, Guy and Orbach, Matan and Kotlerman, Lili and Kantor, Yoav and Lavee, Tamar and Jacovi, Michal and Bilu, Yonatan and Aharonov, Ranit and Slonim, Noam},
+   SORTNAME = {Mirkin, Shachar and Moshkowich, Guy and Orbach, Matan and Kotlerman, Lili and Kantor, Yoav and Lavee, Tamar and Jacovi, Michal and Bilu, Yonatan and Aharonov, Ranit and Slonim, Noam},
+   TITLE = {Listening Comprehension over Argumentative Content}}
+@INPROCEEDINGS{papers-2264,
+   AUTHOR = {Sohrab, Mohammad Golam and Miwa, Makoto},
+   SORTNAME = {Sohrab, Mohammad Golam and Miwa, Makoto},
+   TITLE = {Deep Exhaustive Model for Nested Named Entity Recognition}}
+@INPROCEEDINGS{papers-2056,
+   AUTHOR = {Zhang, Jiacheng and Luan, Huanbo and Sun, Maosong and Zhai, Feifei and Xu, Jingfang and Zhang, Min and Liu, Yang},
+   SORTNAME = {Zhang, Jiacheng and Luan, Huanbo and Sun, Maosong and Zhai, Feifei and Xu, Jingfang and Zhang, Min and Liu, Yang},
+   TITLE = {Improving the Transformer Translation Model with Document-Level Context}}
+@INPROCEEDINGS{papers-911,
+   AUTHOR = {Liu, Yang and Gardner, Matt and Lapata, Mirella},
+   SORTNAME = {Liu, Yang and Gardner, Matt and Lapata, Mirella},
+   TITLE = {Structured Alignment Networks for Matching Sentences}}
+@INPROCEEDINGS{papers-582,
+   AUTHOR = {Shore, Todd and Skantze, Gabriel},
+   SORTNAME = {Shore, Todd and Skantze, Gabriel},
+   TITLE = {Using lexical alignment and referring ability to address data sparsity in situated dialog reference resolution}}
+@INPROCEEDINGS{papers-744,
+   AUTHOR = {Zhang, Honglun and Xiao, Liqiang and Chen, Wenqing and Wang, Yongkun and Jin, Yaohui},
+   SORTNAME = {Zhang, Honglun and Xiao, Liqiang and Chen, Wenqing and Wang, Yongkun and Jin, Yaohui},
+   TITLE = {Multi-Task Label Embedding for Text Classification}}
+@INPROCEEDINGS{papers-576,
+   AUTHOR = {Pasunuru, Ramakanth and Bansal, Mohit},
+   SORTNAME = {Pasunuru, Ramakanth and Bansal, Mohit},
+   TITLE = {Modeling Game-Based Video-Context Dialogue}}
+@INPROCEEDINGS{papers-2051,
+   AUTHOR = {Feng, Shi and Wallace, Eric and Grissom II, Alvin and Iyyer, Mohit and Rodriguez, Pedro and Boyd-Graber, Jordan},
+   SORTNAME = {Feng, Shi and Wallace, Eric and Grissom II, Alvin and Iyyer, Mohit and Rodriguez, Pedro and Boyd-Graber, Jordan},
+   TITLE = {Pathologies of Neural Models Make Interpretation Difficult}}
+@INPROCEEDINGS{papers-318,
+   AUTHOR = {ShafieiBavani, Elaheh and Ebrahimi, Mohammad and Wong, Raymond and Chen, Fang},
+   SORTNAME = {ShafieiBavani, Elaheh and Ebrahimi, Mohammad and Wong, Raymond and Chen, Fang},
+   TITLE = {A Graph-Theoretic Summary Evaluation for Rouge}}
+@INPROCEEDINGS{papers-585,
+   AUTHOR = {Jiang, Yichen and Bansal, Mohit},
+   SORTNAME = {Jiang, Yichen and Bansal, Mohit},
+   TITLE = {Closed-Book Training to Improve Summarization Encoder Memory}}
+@INPROCEEDINGS{papers-1286,
+   AUTHOR = {Moosavi, Nafise Sadat and Strube, Michael},
+   SORTNAME = {Moosavi, Nafise Sadat and Strube, Michael},
+   TITLE = {Using Linguistic Features to Improve Generalization in Neural Coreference Resolvers}}
+@INPROCEEDINGS{papers-2067,
+   AUTHOR = {Misra, Dipendra and Bennett, Andrew and Blukis, Valts and Niklasson, Eyvind and Shatkhin, Max and Artzi, Yoav},
+   SORTNAME = {Misra, Dipendra and Bennett, Andrew and Blukis, Valts and Niklasson, Eyvind and Shatkhin, Max and Artzi, Yoav},
+   TITLE = {Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction}}
+@INPROCEEDINGS{papers-1611,
+   AUTHOR = {Jin, Lifeng and Doshi-Velez, Finale and Miller, Timothy and Schuler, William and Schwartz, Lane},
+   SORTNAME = {Jin, Lifeng and Doshi-Velez, Finale and Miller, Timothy and Schuler, William and Schwartz, Lane},
+   TITLE = {Depth-bounding is effective: Improvements and Evaluation of Unsupervised PCFG Induction}}
+@INPROCEEDINGS{papers-2060,
+   AUTHOR = {Swayamdipta, Swabha and Thomson, Sam and Lee, Kenton and Zettlemoyer, Luke and Dyer, Chris and Smith, Noah A.},
+   SORTNAME = {Swayamdipta, Swabha and Thomson, Sam and Lee, Kenton and Zettlemoyer, Luke and Dyer, Chris and Smith, Noah A.},
+   TITLE = {Syntactic Scaffolds for Semantic Structures}}
+@INPROCEEDINGS{papers-2299,
+   AUTHOR = {Ghaeini, Reza and Fern, Xiaoli and Tadepalli, Prasad},
+   SORTNAME = {Ghaeini, Reza and Fern, Xiaoli and Tadepalli, Prasad},
+   TITLE = {Toward Understanding and Explaining Complex Deep Models in NLP}}
+@INPROCEEDINGS{papers-342,
+   AUTHOR = {Rios, Anthony and Kavuluru, Ramakanth},
+   SORTNAME = {Rios, Anthony and Kavuluru, Ramakanth},
+   TITLE = {Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces}}
+@INPROCEEDINGS{papers-1221,
+   AUTHOR = {Jain, Sarthak and Banner, Edward and van de Meent, Jan-Willem and Marshall, Iain J and Wallace, Byron C.},
+   SORTNAME = {Jain, Sarthak and Banner, Edward and van de Meent, Jan-Willem and Marshall, Iain J and Wallace, Byron C.},
+   TITLE = {Learning Disentangled Representations of Texts with Application to Biomedical Abstracts}}
+@INPROCEEDINGS{papers-1477,
+   AUTHOR = {Kulkarni, Vivek and Ye, Junting and Skiena, Steve and Wang, William Yang},
+   SORTNAME = {Kulkarni, Vivek and Ye, Junting and Skiena, Steve and Wang, William Yang},
+   TITLE = {Multi-view Models for Political Ideology Detection of News Articles}}
+@INPROCEEDINGS{papers-719,
+   AUTHOR = {Pratapa, Adithya and Choudhury, Monojit and Sitaram, Sunayana},
+   SORTNAME = {Pratapa, Adithya and Choudhury, Monojit and Sitaram, Sunayana},
+   TITLE = {Word Embeddings for Code-Mixed Language Processing}}
+@INPROCEEDINGS{papers-183,
+   AUTHOR = {Miculicich, Lesly and Ram, Dhananjay and Pappas, Nikolaos and Henderson, James},
+   SORTNAME = {Miculicich, Lesly and Ram, Dhananjay and Pappas, Nikolaos and Henderson, James},
+   TITLE = {Towards Document-Level Neural Machine Translation with Hierarchical Attention Networks}}
+@INPROCEEDINGS{papers-2201,
+   AUTHOR = {Lin, Xi Victoria and Socher, Richard and Xiong, Caiming},
+   SORTNAME = {Lin, Xi Victoria and Socher, Richard and Xiong, Caiming},
+   TITLE = {Multi-Hop Knowledge Graph Reasoning with Reward Shaping}}
+@INPROCEEDINGS{papers-1470,
+   AUTHOR = {Fares, Murhaf and Oepen, Stephan and Velldal, Erik},
+   SORTNAME = {Fares, Murhaf and Oepen, Stephan and Velldal, Erik},
+   TITLE = {Transfer and Multi-Task Learning for Noun---Noun Compound Interpretation}}
+@INPROCEEDINGS{papers-1642,
+   AUTHOR = {Luo, Liangchen and Xu, Jingjing and Lin, Junyang and Zeng, Qi and SUN, Xu},
+   SORTNAME = {Luo, Liangchen and Xu, Jingjing and Lin, Junyang and Zeng, Qi and SUN, Xu},
+   TITLE = {An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation}}
+@INPROCEEDINGS{papers-717,
+   AUTHOR = {Lee, Nayeon and Wu, Chien-Sheng and Fung, Pascale},
+   SORTNAME = {Lee, Nayeon and Wu, Chien-Sheng and Fung, Pascale},
+   TITLE = {Improving Large-Scale Fact-Checking using Decomposable Attention Models and Lexical Tagging}}
+@INPROCEEDINGS{papers-525,
+   AUTHOR = {Brunato, Dominique and De Mattei, Lorenzo and Dell'Orletta, Felice and Iavarone, Benedetta and Venturi, Giulia},
+   SORTNAME = {Brunato, Dominique and De Mattei, Lorenzo and Dell'Orletta, Felice and Iavarone, Benedetta and Venturi, Giulia},
+   TITLE = {Is this Sentence Difficult? Do you Agree?}}
+@INPROCEEDINGS{papers-2208,
+   AUTHOR = {Xin, Yingwei and Hart, Ethan and Mahajan, Vibhuti and Ruvini, Jean David},
+   SORTNAME = {Xin, Yingwei and Hart, Ethan and Mahajan, Vibhuti and Ruvini, Jean David},
+   TITLE = {Learning Better Internal Structure of Words for Sequence Labeling}}
+@INPROCEEDINGS{papers-1479,
+   AUTHOR = {Mehta, Sachin and Koncel-Kedziorski, Rik and Rastegari, Mohammad and Hajishirzi, Hannaneh},
+   SORTNAME = {Mehta, Sachin and Koncel-Kedziorski, Rik and Rastegari, Mohammad and Hajishirzi, Hannaneh},
+   TITLE = {Pyramidal Recurrent Unit for Language Modeling}}
+@INPROCEEDINGS{papers-1821,
+   AUTHOR = {Gong, Jingjing and Qiu, Xipeng and Chen, Xinchi and Liang, Dong and Huang, Xuanjing},
+   SORTNAME = {Gong, Jingjing and Qiu, Xipeng and Chen, Xinchi and Liang, Dong and Huang, Xuanjing},
+   TITLE = {Convolutional Interaction Network for Natural Language Inference}}
+@INPROCEEDINGS{papers-2005,
+   AUTHOR = {Moghe, Nikita and Arora, Siddhartha and Banerjee, Suman and Khapra, Mitesh M.},
+   SORTNAME = {Moghe, Nikita and Arora, Siddhartha and Banerjee, Suman and Khapra, Mitesh M.},
+   TITLE = {Towards Exploiting Background Knowledge for Building Conversation Systems}}
+@INPROCEEDINGS{papers-728,
+   AUTHOR = {Masumura, Ryo and Shinohara, Yusuke and Higashinaka, Ryuichiro and Aono, Yushi},
+   SORTNAME = {Masumura, Ryo and Shinohara, Yusuke and Higashinaka, Ryuichiro and Aono, Yushi},
+   TITLE = {Adversarial Training for Multi-task and Multi-lingual Joint Modeling of Utterance Intent Classification}}
+@INPROCEEDINGS{papers-146,
+   AUTHOR = {Bekoulis, Giannis and Deleu, Johannes and Demeester, Thomas and Develder, Chris},
+   SORTNAME = {Bekoulis, Giannis and Deleu, Johannes and Demeester, Thomas and Develder, Chris},
+   TITLE = {Adversarial training for multi-context joint entity and relation extraction}}
+@INPROCEEDINGS{papers-1673,
+   AUTHOR = {Silfverberg, Miikka and Hulden, Mans},
+   SORTNAME = {Silfverberg, Miikka and Hulden, Mans},
+   TITLE = {An Encoder-Decoder Approach to the Paradigm Cell Filling Problem}}
+@INPROCEEDINGS{papers-1441,
+   AUTHOR = {Hua, Yiqing and Danescu-Niculescu-Mizil, Cristian and Taraborelli, Dario and Thain, Nithum and Sorensen, Jeffery and Dixon, Lucas},
+   SORTNAME = {Hua, Yiqing and Danescu-Niculescu-Mizil, Cristian and Taraborelli, Dario and Thain, Nithum and Sorensen, Jeffery and Dixon, Lucas},
+   TITLE = {WikiConv: A Corpus of the Complete Conversational History of a Large Online Collaborative Community}}
+@INPROCEEDINGS{papers-1217,
+   AUTHOR = {Buechel, Sven and Buffone, Anneke and Slaff, Barry and Ungar, Lyle and Sedoc, Joao},
+   SORTNAME = {Buechel, Sven and Buffone, Anneke and Slaff, Barry and Ungar, Lyle and Sedoc, Joao},
+   TITLE = {Modeling Empathy and Distress in Reaction to News Stories}}
+@INPROCEEDINGS{papers-179,
+   AUTHOR = {Pilehvar, Mohammad Taher and Kartsaklis, Dimitri and Prokhorov, Victor and Collier, Nigel},
+   SORTNAME = {Pilehvar, Mohammad Taher and Kartsaklis, Dimitri and Prokhorov, Victor and Collier, Nigel},
+   TITLE = {Card-660: A Reliable Evaluation Framework for Rare Word Representation Models}}
+@INPROCEEDINGS{papers-2230,
+   AUTHOR = {Zheng, Renjie and Ma, Mingbo and Huang, Liang},
+   SORTNAME = {Zheng, Renjie and Ma, Mingbo and Huang, Liang},
+   TITLE = {Multi-Reference Training with Pseudo-Reference Generation for Text Generation}}
+@INPROCEEDINGS{papers-071,
+   AUTHOR = {Budzianowski, Paweł and Wen, Tsung-Hsien and Tseng, Bo-Hsiang and Casanueva, Iñigo and Ultes, Stefan and Ramadan, Osman and Gasic, Milica},
+   SORTNAME = {Budzianowski, Paweł and Wen, Tsung-Hsien and Tseng, Bo-Hsiang and Casanueva, Inigo and Ultes, Stefan and Ramadan, Osman and Gasic, Milica},
+   TITLE = {MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling}}
+@INPROCEEDINGS{papers-1610,
+   AUTHOR = {Han, Rujun and Gill, Michael and Spirling, Arthur and Cho, Kyunghyun},
+   SORTNAME = {Han, Rujun and Gill, Michael and Spirling, Arthur and Cho, Kyunghyun},
+   TITLE = {Conditional Word Embedding and Hypothesis Testing via Bayes-by-Backprop}}
+@INPROCEEDINGS{papers-2298,
+   AUTHOR = {Shillingford, Brendan and Parker Jones, Oiwi},
+   SORTNAME = {Shillingford, Brendan and Parker Jones, Oiwi},
+   TITLE = {Recovering Missing Characters in Old Hawaiian Writing}}
+@INPROCEEDINGS{papers-1845,
+   AUTHOR = {Chen, Jingyuan and Chen, Xinpeng and Ma, Lin and Jie, Zequn and Chua, Tat-Seng},
+   SORTNAME = {Chen, Jingyuan and Chen, Xinpeng and Ma, Lin and Jie, Zequn and Chua, Tat-Seng},
+   TITLE = {Temporally Grounding Natural Sentence in Video}}
+@INPROCEEDINGS{papers-2092,
+   AUTHOR = {Krishna, Kalpesh and Jyothi, Preethi and Iyyer, Mohit},
+   SORTNAME = {Krishna, Kalpesh and Jyothi, Preethi and Iyyer, Mohit},
+   TITLE = {Revisiting the Importance of Encoding Logic Rules in Sentiment Classification}}
+@INPROCEEDINGS{papers-1617,
+   AUTHOR = {Zhang, Xingxing and Lapata, Mirella and Wei, Furu and Zhou, Ming},
+   SORTNAME = {Zhang, Xingxing and Lapata, Mirella and Wei, Furu and Zhou, Ming},
+   TITLE = {Neural Latent Extractive Document Summarization}}
+@INPROCEEDINGS{papers-076,
+   AUTHOR = {Cao, Yixin and Hou, Lei and Li, Juanzi and Liu, Zhiyuan and Li, Chengjiang and Chen, Xu and Dong, Tiansi},
+   SORTNAME = {Cao, Yixin and Hou, Lei and Li, Juanzi and Liu, Zhiyuan and Li, Chengjiang and Chen, Xu and Dong, Tiansi},
+   TITLE = {Joint Representation Learning of Cross-lingual Words and Entities via Attentive Distant Supervision}}
+@INPROCEEDINGS{papers-1041,
+   AUTHOR = {Elliott, Desmond},
+   SORTNAME = {Elliott, Desmond},
+   TITLE = {Adversarial Evaluation of Multimodal Machine Translation}}
+@INPROCEEDINGS{papers-082,
+   AUTHOR = {Kann, Katharina and Schütze, Hinrich},
+   SORTNAME = {Kann, Katharina and Schutze, Hinrich},
+   TITLE = {Neural Transductive Learning and Beyond: Morphological Generation in the Minimal-Resource Setting}}
+@INPROCEEDINGS{papers-2066,
+   AUTHOR = {Yang, Yilin and Huang, Liang and Ma, Mingbo},
+   SORTNAME = {Yang, Yilin and Huang, Liang and Ma, Mingbo},
+   TITLE = {Break the Beam Search Curse: A Study of Score-Revision Methods and Stopping Criteria for Neural Machine Translation}}
+@INPROCEEDINGS{papers-310,
+   AUTHOR = {Chen, Yun and Li, Victor O.K. and Cho, Kyunghyun and Bowman, Samuel},
+   SORTNAME = {Chen, Yun and Li, Victor O.K. and Cho, Kyunghyun and Bowman, Samuel},
+   TITLE = {A Stable and Effective Learning Strategy for Trainable Greedy Decoding}}
+@INPROCEEDINGS{papers-774,
+   AUTHOR = {Dehouck, Mathieu and Denis, Pascal},
+   SORTNAME = {Dehouck, Mathieu and Denis, Pascal},
+   TITLE = {A Framework for Understanding the Role of Morphology in Universal Dependency Parsing}}
+@INPROCEEDINGS{papers-1621,
+   AUTHOR = {Bao, Yujia and Chang, Shiyu and Yu, Mo and Barzilay, Regina},
+   SORTNAME = {Bao, Yujia and Chang, Shiyu and Yu, Mo and Barzilay, Regina},
+   TITLE = {Deriving Machine Attention from Human Rationales}}
+@INPROCEEDINGS{papers-1048,
+   AUTHOR = {Sun, Changzhi and Wu, Yuanbin and Lan, Man and Sun, Shiliang and Wang, Wenting and Lee, Kuang-Chih and Wu, Kewen},
+   SORTNAME = {Sun, Changzhi and Wu, Yuanbin and Lan, Man and Sun, Shiliang and Wang, Wenting and Lee, Kuang-Chih and Wu, Kewen},
+   TITLE = {Extracting Entities and Relations with Joint Minimum Risk Training}}
+@INPROCEEDINGS{papers-1880,
+   AUTHOR = {Upadhyay, Shyam and Gupta, Nitish and Roth, Dan},
+   SORTNAME = {Upadhyay, Shyam and Gupta, Nitish and Roth, Dan},
+   TITLE = {The Importance of Joint Multilingual Supervision for Cross-lingual Entity Linking}}
+@INPROCEEDINGS{papers-928,
+   AUTHOR = {Wang, Dingmin and Song, Yan and Li, Jing and Han, Jialong and Zhang, Haisong},
+   SORTNAME = {Wang, Dingmin and Song, Yan and Li, Jing and Han, Jialong and Zhang, Haisong},
+   TITLE = {A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check}}
+@INPROCEEDINGS{papers-113,
+   AUTHOR = {Wang, Cheng and Niepert, Mathias and Li, Hui},
+   SORTNAME = {Wang, Cheng and Niepert, Mathias and Li, Hui},
+   TITLE = {LRMM: Learning to Recommend with Missing Modality}}
+@INPROCEEDINGS{papers-577,
+   AUTHOR = {Ding, Ran and Nallapati, Ramesh and Xiang, Bing},
+   SORTNAME = {Ding, Ran and Nallapati, Ramesh and Xiang, Bing},
+   TITLE = {Coherence-Aware Neural Topic Modeling}}
+@INPROCEEDINGS{papers-523,
+   AUTHOR = {Coavoux, Maximin and Narayan, Shashi and Cohen, Shay B.},
+   SORTNAME = {Coavoux, Maximin and Narayan, Shashi and Cohen, Shay B.},
+   TITLE = {Privacy-preserving Neural Representations of Text}}
+@INPROCEEDINGS{papers-1229,
+   AUTHOR = {Huang, Jiaji and Li, Yi and Ping, Wei and Huang, Liang},
+   SORTNAME = {Huang, Jiaji and Li, Yi and Ping, Wei and Huang, Liang},
+   TITLE = {Large Margin Neural Language Model}}
+@INPROCEEDINGS{papers-1440,
+   AUTHOR = {Luo, Hongyin and Glass, Jim},
+   SORTNAME = {Luo, Hongyin and Glass, Jim},
+   TITLE = {Learning Word Representations with Cross-Sentence Dependencyfor End-to-End Co-reference Resolution}}
+@INPROCEEDINGS{papers-1818,
+   AUTHOR = {Xu, Jingjing and Ren, Xuancheng and Lin, Junyang and SUN, Xu},
+   SORTNAME = {Xu, Jingjing and Ren, Xuancheng and Lin, Junyang and SUN, Xu},
+   TITLE = {Diversity-Promoting GAN: A Cross-Entropy Based Generative Adversarial Network for Diversified Text Generation}}
+@INPROCEEDINGS{papers-1024,
+   AUTHOR = {Li, Jian and Tu, Zhaopeng and Yang, Baosong and Lyu, Michael R. and Zhang, Tong},
+   SORTNAME = {Li, Jian and Tu, Zhaopeng and Yang, Baosong and Lyu, Michael R. and Zhang, Tong},
+   TITLE = {Multi-Head Attention with Disagreement Regularization}}
+@INPROCEEDINGS{papers-1478,
+   AUTHOR = {Liu, Yijia and Che, Wanxiang and Zheng, Bo and Qin, Bing and Liu, Ting},
+   SORTNAME = {Liu, Yijia and Che, Wanxiang and Zheng, Bo and Qin, Bing and Liu, Ting},
+   TITLE = {An AMR Aligner Tuned by Transition-based Parser}}
+@INPROCEEDINGS{papers-2004,
+   AUTHOR = {Lamprinidis, Sotiris and Hardt, Daniel and Hovy, Dirk},
+   SORTNAME = {Lamprinidis, Sotiris and Hardt, Daniel and Hovy, Dirk},
+   TITLE = {Predicting News Headline Popularity with Syntactic and Semantic Knowledge Using Multi-Task Learning}}
+@INPROCEEDINGS{papers-2236,
+   AUTHOR = {Kim, Joo-Kyung and Kim, Young-Bum},
+   SORTNAME = {Kim, Joo-Kyung and Kim, Young-Bum},
+   TITLE = {Supervised Domain Enablement Attention for Personalized Domain Classification}}
+@INPROCEEDINGS{papers-344,
+   AUTHOR = {Chen, Xilun and Cardie, Claire},
+   SORTNAME = {Chen, Xilun and Cardie, Claire},
+   TITLE = {Unsupervised Multilingual Word Embeddings}}
+@INPROCEEDINGS{papers-1471,
+   AUTHOR = {Khanpour, Hamed and Caragea, Cornelia},
+   SORTNAME = {Khanpour, Hamed and Caragea, Cornelia},
+   TITLE = {Fine-Grained Emotion Detection in Health-Related Online Posts}}
+@INPROCEEDINGS{papers-022,
+   AUTHOR = {Ionescu, Radu Tudor and Butnaru, Andrei M.},
+   SORTNAME = {Ionescu, Radu Tudor and Butnaru, Andrei M.},
+   TITLE = {Improving the results of string kernels by adapting them to your test set}}
+@INPROCEEDINGS{papers-2032,
+   AUTHOR = {Chen, Jing and Chen, Qingcai and Liu, Xin and Yang, Haijun and Lu, Daohe and Tang, Buzhou},
+   SORTNAME = {Chen, Jing and Chen, Qingcai and Liu, Xin and Yang, Haijun and Lu, Daohe and Tang, Buzhou},
+   TITLE = {The BQ Corpus: A Large-scale Domain-specific Chinese Corpus For Sentence Semantic Equivalence Identification}}
+@INPROCEEDINGS{papers-727,
+   AUTHOR = {Li, Wei and Xiao, Xinyan and Lyu, Yajuan and Wang, Yuanzhuo},
+   SORTNAME = {Li, Wei and Xiao, Xinyan and Lyu, Yajuan and Wang, Yuanzhuo},
+   TITLE = {Improving Neural Abstractive Document Summarization with Structural Regularization}}
+@INPROCEEDINGS{papers-171,
+   AUTHOR = {Kartsaklis, Dimitri and Pilehvar, Mohammad Taher and Collier, Nigel},
+   SORTNAME = {Kartsaklis, Dimitri and Pilehvar, Mohammad Taher and Collier, Nigel},
+   TITLE = {Mapping Text to Knowledge Graph Entities by Vector Space Transformation}}
+@INPROCEEDINGS{papers-1482,
+   AUTHOR = {Zhu, Junnan and Li, Haoran and Liu, Tianshang and Zhou, Yu and Zhang, Jiajun and Zong, Chengqing},
+   SORTNAME = {Zhu, Junnan and Li, Haoran and Liu, Tianshang and Zhou, Yu and Zhang, Jiajun and Zong, Chengqing},
+   TITLE = {MSMO: Multimodal Summarization with Multimodal Output}}
+@INPROCEEDINGS{papers-1220,
+   AUTHOR = {Kambhatla, Nishant and Mansouri Bigvand, Anahita and Sarkar, Anoop},
+   SORTNAME = {Kambhatla, Nishant and Mansouri Bigvand, Anahita and Sarkar, Anoop},
+   TITLE = {Decipherment of Substitution Ciphers with Neural Language Models}}
