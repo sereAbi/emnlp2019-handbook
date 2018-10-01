@@ -32,6 +32,7 @@ except:
     pass
 
 paper_ids = [int(n) for n in filter(lambda x: re.match(r'^\d+$', x), os.listdir(fdir))]
+print paper_ids
 BIBFILE   = codecs.open("auto/"+tag+"/papers.bib",'w', encoding='utf-8')
 for n in paper_ids:
     n = int(n)

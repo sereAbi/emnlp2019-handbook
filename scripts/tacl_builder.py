@@ -39,7 +39,7 @@ for paper in yaml.load(open(args.yaml)):
     bibfile.write(bib(paper))
 
     print >> sys.stderr, "Writing abstract auto/abstracts/%s.tex" % (paper['id'])
-    abstract = codecs.open('auto/abstracts/%s.tex' % (paper['id']), 'w', encoding='utf-8')
+    abstract = codecs.open('auto/abstracts/TACL-%s.tex' % (paper['id']), 'w', encoding='utf-8')
     abstract.write(latex_escape(paper['abstract']))
     abstract.close()
 

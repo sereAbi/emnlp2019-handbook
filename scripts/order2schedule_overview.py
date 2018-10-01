@@ -88,6 +88,10 @@ for session in sorted(sessions.keys()):
     schedule[(day, date, year)][timerange].append(sessions[session])
 
 def sort_times(a, b):
+    print a
+    print b
+    print a[0].split('--')
+    print a[0].split('--')[0].split(':')
     ahour, amin = a[0].split('--')[0].split(':')
     bhour, bmin = b[0].split('--')[0].split(':')
     if ahour == bhour:
@@ -117,24 +121,24 @@ for date in dates:
         start, stop = timerange.split('--')
 
         if len(events) >= 3:
-            # Parallel sessions (assume there are at least 3)
+            # Parallel sessions (assume there are at least 4)
             sessions = [x for x in events]
 
             # turn "Session 9A" to "Session 9"
             title = 'Session %s' % (sessions[0].num)
             num_parallel_sessions = len(sessions)
-            if num_parallel_sessions <= 3:
+            if num_parallel_sessions <= 4:
                 rooms = ['\emph{\Track%cLoc}' % (chr(65+x)) for x in range(num_parallel_sessions)]
                 # column width in inches
                 width = 3.7 / num_parallel_sessions
                 print >>out, '  %s & -- & %s &' % (minus12(start), minus12(stop))
                 print >>out, '  \\begin{tabular}{|%s|}' % ('|'.join(['p{%.1fin}' % width for x in range(num_parallel_sessions)]))
                 print >>out, '    \\multicolumn{%d}{l}{{\\bfseries %s}}\\\\\\hline' % (num_parallel_sessions,title)
-                print >>out, ' & '.join([session.desc for session in sessions]), '\\\\'
+                print >>out, ' & '.join([session.desc.replace('#','') for session in sessions]), '\\\\'
                 print >>out, ' & '.join(rooms), '\\\\'
                 print >>out, '  \\hline\\end{tabular} \\\\'
             else:
-                max_cols = 3
+                max_cols = 4
                 rooms = ['\emph{\Track%cLoc}' % (chr(65+x)) for x in range(num_parallel_sessions)]
                 # column width in inches
                 width = 3.7 / max_cols
@@ -144,10 +148,15 @@ for date in dates:
                 for i in range(num_parallel_sessions / max_cols):
                     if i > 0:
                         print >>out, '\\hline'
-                    print >>out, ' & '.join([session.desc for session in sessions[i*max_cols:(i+1)*max_cols]]), '\\\\'
+                    print >>out, ' & '.join([session.desc.replace('#','') for session in sessions[i*max_cols:(i+1)*max_cols]]), '\\\\'
                     print >>out, ' & '.join(rooms[i*max_cols:(i+1)*max_cols]), '\\\\'
                 print >>out, '  \\hline\\end{tabular} \\\\'
-                
+                print >>out, '  %s & -- & %s &' % (minus12(start), minus12(stop))
+                loc = rooms[-1]
+                event = sessions[-1].desc.replace('#','')
+                print >>out, '  {\\bfseries [Posters and Demos]: %s} \\hfill %s' % (event, loc.replace('Mini-break','Coffee'))
+                print >>out, '  \\\\'
+
         else:
 
             for event in events:
@@ -158,9 +167,10 @@ for date in dates:
                     loc = event.split(' ')[0].capitalize()
                 except AttributeError:
                     loc = "TODO Location"
-                print >>out, '  {\\bfseries %s} \\hfill \emph{\\%sLoc}' % (event, loc)
+                print >>out, '  {\\bfseries %s} \\hfill \emph{\\%sLoc}' % (event, loc.replace('Mini-break','Coffee'))
                 print >>out, '  \\\\'
 
     print >>out, '\\end{SingleTrackSchedule}'
+    print >>out, '\\clearpage'
     out.close()
 

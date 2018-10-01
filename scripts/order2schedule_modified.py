@@ -51,18 +51,16 @@ def time_max(a, b):
 
 def print_poster_sessions_overview(sessions):
     if len(sessions) > 0:
-        print >>out, "{\\large {\\bf Poster tracks}} \hfill %s \\\\ \\\\ " % (sessions[0].time)
+        print >>out, "{\\large {\\bf Poster tracks}} \\hfill %s \\\\ \\\\ " % (sessions[0].time)
         #print >>out, '\\vspace{-0.3em} \\\\'
         #print >>out, "Session \\hfill Poster Area \\\\" 
         #print >>out, "\hrulefill \\\\" 
         #print >>out, "\\rule{\\textwidth}{0.5pt} \\\\" 
     for i, ps in enumerate(sessions):    
-        print >>out, '\\vspace{1em}'
-        sess_title = ps.desc if ps.desc else ps.name
-        sess_subid = chr(i + 68)
-        sess_title = sess_title.replace('#','\\#')
+        print >>out, '\\vspace{0.5em}'
+        sess_title = ps.desc.replace('#','') if ps.desc else ps.name.replace('#','')
+        sess_subid = chr(i + 69) # Track E
         print >>out, '{\\bf Track %c}: {\\it %s} \\hfill \\Track%cLoc' % (sess_subid, sess_title, sess_subid)
-        print >>out, '\\\\'
 
 # List of dates
 dates = []
@@ -112,7 +110,12 @@ for file in args.order_files:
             if not sessions.has_key(session_name):
                 sessions[session_name] = Session("= %s %s" % (timerange, session_name), (day, date, year))
 
-            sessions[session_name].add_paper(Paper(line, subconf_name))
+            if id.endswith("-demo"):
+                sessions[session_name].add_paper(Paper(id[:-5] + " " + rest, "demos"))
+            elif id.endswith("-TACL"):
+                sessions[session_name].add_paper(Paper(id[:-5] + " " + rest, "TACL"))
+            else:
+                sessions[session_name].add_paper(Paper(line, subconf_name))
 
 # Take all the sessions and place them at their time
 for session in sorted(sessions.keys()):
@@ -170,10 +173,10 @@ for date in dates:
             print >>out, '\\clearpage'
             print >>out, '\\setheaders{Session %s}{\\daydateyear}' % (session_num)
             #print >>out, "{\\large {\\bf Oral tracks}}\\\\"
-            print >>out, '\\begin{ThreeSessionOverview}{Session %s}{\daydateyear}' % (session_num)
+            print >>out, '\\begin{FourSessionOverview}{Session %s}{\daydateyear}' % (session_num)
             # print the session overview
             for session in parallel_sessions:
-                print >>out, '  {%s}' % (session.desc)
+                print >>out, '  {%s}' % (session.desc.replace('#',''))
                 times = [minus12(p.time.split('--')[0]) for p in parallel_sessions[0].papers]
 
             num_papers = len(parallel_sessions[0].papers)
@@ -185,7 +188,7 @@ for date in dates:
                 print >>out, ' ', ' & '.join(['\\papertableentry{%s}' % (p.id) for p in papers])
                 print >>out, '  \\\\'
 
-            print >>out, '\\end{ThreeSessionOverview}\n'
+            print >>out, '\\end{FourSessionOverview}\n'
 
             print_poster_sessions_overview(poster_sessions)
 
@@ -196,7 +199,7 @@ for date in dates:
             for i, session in enumerate(parallel_sessions):
                 chairs = session.chairs()
                 print session
-                print >>out, '{\\bfseries\\large %s: %s}\\\\' % (session.name.replace('#','\\#'), session.desc.replace('#','\\#'))
+                print >>out, '{\\bfseries\\large %s: %s}\\\\' % (session.name.replace('#',''), session.desc.replace('#',''))
                 if len(chairs) == 1:
                     chair = chairs[0]
                     print >>out, '\\Track%cLoc\\hfill Chair: \\sessionchair{%s}{%s}\\\\' % (chr(i + 65),chair[0],chair[1])
@@ -215,8 +218,8 @@ for date in dates:
             # Include parallel poster sessions in session overview .tex
             for session in poster_sessions:
                 poster_session_path = os.path.join(args.output_dir, '%s-%s.tex' % (day, session.name.replace(' ', '-')))
-                print >>out, "\\input{%s} \\\\" % poster_session_path[:-4]
-                print >>out, "\\clearpage \\\\"
+                print >>out, "\\input{%s} " % poster_session_path[:-4]
+                print >>out, "\\clearpage"
 
             out.close()
 
@@ -228,9 +231,9 @@ for date in dates:
 
             #print >>out, '{\\section{%s}' % (session.name)
             if session.desc:
-                print >>out, '{\\bfseries\\large %s: %s} \\hfill %s \\\\' % (session.name.replace('#','\\#'), session.desc.replace('#','\\#'), session.time)
+                print >>out, '{\\bfseries\\large %s: %s} \\hfill %s \\\\' % (session.name.replace('#',''), session.desc.replace('#',''), session.time)
             else:
-                print >>out, '{\\bfseries\\large %s} \\hfill %s \\\\' % (session.name.replace('#','\\#'), session.time)
+                print >>out, '{\\bfseries\\large %s} \\hfill %s \\\\' % (session.name.replace('#',''), session.time)
                 #print >>out, '{\\setheaders{%s}{\\daydateyear}' % (session.name)
             chairs = session.chairs()
             if len(chairs) == 1:
