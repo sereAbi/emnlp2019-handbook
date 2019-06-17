@@ -254,10 +254,22 @@
   \noindent%
   \begin{minipage}{\linewidth}%
     \label{#1}%
-          {\bfseries\normalsize\papertitle{#1}}\\
-          \normalsize\paperauthor{\citefullauthornames{#1}}
-  \end{minipage}\vspace{1mm}\\\nopagebreak%
-  \noindent{\small\input{auto/abstracts/#1}}\par}
+          {\bfseries\normalsize\papertitle{#1}}\vspace{0.1em}\\
+          \normalsize\paperauthor{\citefullauthornames{#1}} \vspace{0.1em}\\
+  \noindent{\small\input{auto/abstracts/#1}}
+  \end{minipage}\vspace{0.5em}\\%
+  }
+
+\newcommand{\postersubtitle}[1]{%
+   \vspace{0.1em}
+  \noindent%
+  \begin{minipage}{\linewidth}%
+    \label{#1}%
+          {\bfseries\normalsize{#1}}
+  \end{minipage} \vspace{0.1em} \nopagebreak \\\nopagebreak
+  }
+
+
 
 \newcommand{\hhfill}{\mbox{}~\hfill}
 
@@ -272,10 +284,11 @@
   \begin{minipage}{\linewidth}%
     \label{#5}%
       %\rule{\linewidth}{1pt}\linebreak
-          {\bfseries\normalsize\papertitle{#5}} \\
+          {\bfseries\normalsize\papertitle{#5}}\vspace{0.1em} \\
           \hfill\normalsize\paperauthor{\citefullauthornames{#5}}
 %      {\small #1 #2 --- #4}\vspace{.5ex}\\
-          \hfill {\small #2}
+          \hfill {\small #2} \vspace{0.1em}\\ 
+      \noindent{\small\input{auto/abstracts/#5}}
 %    \parbox[t]{.8\linewidth}{\centering
 %      {\bfseries\papertitle{\citetitle{#5}}}\linebreak
 %      \paperauthor{\citefullauthornames{#5}}}%
@@ -287,8 +300,8 @@
   %%   {\bfseries \citetitle{#5}} \vspace{.5em}\linebreak
   %%   {\itshape    \citefullauthornames{#5}}%\vspace{.5em}\linebreak	% Reduce space between header and abstract - B
   %%   %#1 #2 --- #4\linebreak 						% Redundant info? - B
-  \end{minipage}\vspace{1mm}\\\nopagebreak%
-  \noindent{\small\input{auto/abstracts/#5}}\par}
+  \end{minipage}\vspace{0.5em}\\%
+      }
 
 \newcommand{\TutorialCoverPage}[4]{%
 \vspace*{.25in}
@@ -411,7 +424,7 @@ Human Language Technologies}\par
     %%   \ifthenelse{\equal{#2}{0}}{{}}{{\huge{Workshop #2:\\\vspace{.5ex}}}}
     %%   #1\par}
     {\ifthenelse{\equal{#4}{0}}{{}}{{Organizers: \paperauthor{\citefullauthornames{#4}}}\par}}
-    {\large Location: #5 \vspace{2em}}\\
+    %{\large Location: #5 \vspace{2em}}\\
     %% {\huge Workshop Program\vspace{1ex}}
   \end{center}
   \markright{{\bfseries W~#2:} #1}{}%
@@ -443,8 +456,8 @@ Human Language Technologies}\par
       \bfseries \papertitle{#2}\\ \vspace{2em}\par
     \end{Large}
     {\itshape \tutorialauthors{#2}}\vspace{1em}\par
-    #3 \vspace{1em}\\
-    Location: #4
+    #3 \vspace{1em}
+ %   \\ Location: #4
   \end{center}}
 
 \newcounter{TutorialCounter}
@@ -487,14 +500,14 @@ Human Language Technologies}\par
   \begin{center}
     \righthyphenmin2
     \sloppy
-      \vspace{-0.5em}
+      \vspace{-2em}
       \begin{tabular}{>{\RaggedRight}p{1.1in} >{\RaggedRight}p{1.1in} >{\RaggedRight}p{1.1in} >{\RaggedRight}p{1.1in}}
       
           \bf Track A & \bf Track B & \bf Track C & \bf Track D\\
           \it #3 & \it #4 & \it #5 & \it #6\\
           \TrackALoc & \TrackBLoc & \TrackCLoc &\TrackDLoc \\
       \midrule\midrule}
-{\end{tabular}\end{center}}
+{\midrule\midrule\end{tabular}\end{center}}
 
 \newenvironment{ThreeSessionOverview}[5]{
   \section[#1]{#1 Overview -- #2}

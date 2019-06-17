@@ -149,14 +149,12 @@ for date in dates:
                     if i > 0:
                         print >>out, '\\hline'
                     print >>out, ' & '.join([session.desc.replace('#','') for session in sessions[i*max_cols:(i+1)*max_cols]]), '\\\\'
-                    print >>out, ' & '.join(rooms[i*max_cols:(i+1)*max_cols]), '\\\\'
-                print >>out, '  \\hline\\end{tabular} \\\\'
-                print >>out, '  %s & -- & %s &' % (minus12(start), minus12(stop))
+                    print >>out, ' & '.join(rooms[i*max_cols:(i+1)*max_cols]), '\\\\\\hline'
                 loc = rooms[-1]
                 event = sessions[-1].desc.replace('#','')
-                print >>out, '  {\\bfseries [Posters and Demos]: %s} \\hfill %s' % (event, loc.replace('Mini-break','Coffee'))
-                print >>out, '  \\\\'
-
+                print >> out, '\multicolumn{4}{|p{3.7in}|}{{\\bfseries [Posters\\&Demos]:} %s \\hfill %s} \\\\'%(event, loc)
+                #print >> out, '\multicolumn{4}{|l|}{%s} \\\\' % (loc.replace('Mini-break','Coffee'))
+                print >>out, '  \\hline\\end{tabular} \\\\'
         else:
 
             for event in events:

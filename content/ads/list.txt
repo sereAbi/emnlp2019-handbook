@@ -5,21 +5,32 @@ Bronze: quarter page (4.5 x 2)
 Supporters: no ad
 
 ------------
-Platinum
-- Bloomberg
+Platinum/Diamond
+o Bloomberg (Justin)
+- Google (Cat check)
+o Facebook
+o Saleforce  
+o Amazon
+o Baidu
+o Grammarly
+o JD
+o navereuro
 
 Gold
-- Google
-- Goldman Sachs
-- A9
+- Ebay
+o Microsoft
+o NAVER
+o PolyAI
+o CVTE
+o Oracle
 
 Silver
-- SDL
-- Nuance
+o HUAWEI
+o DUOlingo
+o Figure8
+o Nuance
 
 Bronze
-- Yahoo Labs
-
-Supporters
-- UW Computational Linguistics
-- Digital roots
+o NextCanada
+o AI2
+- textIQ

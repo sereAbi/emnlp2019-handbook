@@ -57,7 +57,7 @@ def print_poster_sessions_overview(sessions):
         #print >>out, "\hrulefill \\\\" 
         #print >>out, "\\rule{\\textwidth}{0.5pt} \\\\" 
     for i, ps in enumerate(sessions):    
-        print >>out, '\\vspace{0.5em}'
+        print >>out, '\\vspace{0.3em}'
         sess_title = ps.desc.replace('#','') if ps.desc else ps.name.replace('#','')
         sess_subid = chr(i + 69) # Track E
         print >>out, '{\\bf Track %c}: {\\it %s} \\hfill \\Track%cLoc' % (sess_subid, sess_title, sess_subid)
@@ -74,7 +74,6 @@ for file in args.order_files:
         line = line.rstrip()
 
         # print "LINE", line
-
         if line.startswith('*'):
             # This sets the day
             day, date, year = line[2:].split(', ')
@@ -100,7 +99,7 @@ for file in args.order_files:
                 
                 session_name = title
                 sessions[session_name] = session
-        elif re.match(r'^\d+', line) is not None:
+        elif re.match(r'^\d+', line) is not None or line.startswith('@'):
             id, rest = line.split(' ', 1)
             if re.match(r'^\d+:\d+-+\d+:\d+', rest) is not None:
                 title = rest.split(' ', 1)
@@ -114,9 +113,10 @@ for file in args.order_files:
                 sessions[session_name].add_paper(Paper(id[:-5] + " " + rest, "demos"))
             elif id.endswith("-TACL"):
                 sessions[session_name].add_paper(Paper(id[:-5] + " " + rest, "TACL"))
+            elif id.startswith("@"):
+                sessions[session_name].add_paper(rest)
             else:
                 sessions[session_name].add_paper(Paper(line, subconf_name))
-
 # Take all the sessions and place them at their time
 for session in sorted(sessions.keys()):
     day, date, year = sessions[session].date
@@ -177,6 +177,8 @@ for date in dates:
             # print the session overview
             for session in parallel_sessions:
                 print >>out, '  {%s}' % (session.desc.replace('#',''))
+                print session.desc
+                print [p.time for p in parallel_sessions[0].papers]
                 times = [minus12(p.time.split('--')[0]) for p in parallel_sessions[0].papers]
 
             num_papers = len(parallel_sessions[0].papers)
@@ -202,13 +204,13 @@ for date in dates:
                 print >>out, '{\\bfseries\\large %s: %s}\\\\' % (session.name.replace('#',''), session.desc.replace('#',''))
                 if len(chairs) == 1:
                     chair = chairs[0]
-                    print >>out, '\\Track%cLoc\\hfill Chair: \\sessionchair{%s}{%s}\\\\' % (chr(i + 65),chair[0],chair[1])
+                    print >>out, '\\Track%cLoc\\hfill Chair: \\sessionchair{%s}{%s} \\vspace{1em}\\\\' % (chr(i + 65),chair[0],chair[1])
                 else: 
                     chair = chairs[0]
                     print >>out, '\\Track%cLoc\\hfill Chairs: \\sessionchair{%s}{%s}' % (chr(i + 65),chair[0],chair[1])
                     for chair in chairs[1:]:
                         print >>out, ', \\sessionchair{%s}{%s}' % (chair[0],chair[1])
-                    print >>out, '\\\\'    
+                    print >>out, '\\vspace{1em}\\\\'    
                 for paper in session.papers:
                     print >>out, '\\paperabstract{\\day}{%s}{}{}{%s}' % (paper.time, paper.id)
                 print >>out, '\\clearpage'
@@ -238,13 +240,14 @@ for date in dates:
             chairs = session.chairs()
             if len(chairs) == 1:
                 chair = chairs[0]
-	        print >>out, '\\Track%cLoc\\hfill Chair: \\sessionchair{%s}{%s} \\\\' % (chr(i + 68),chair[0],chair[1])
+	        #print >>out, '\\Track%cLoc\\hfill Chair: \\sessionchair{%s}{%s} \\\\' % (chr(i + 68),chair[0],chair[1])
+	        print >>out, '\\Track%cLoc \\\\'%(chr(i + 69))
 	    elif len(chairs) > 1: 
 	        chair = chairs[0]
 	        print >>out, '\\Track%cLoc\\hfill Chairs: \\sessionchair{%s}{%s}' % (chr(i + 68),chair[0],chair[1])
 	        for chair in chairs[1:]:
 		    print >>out, ', \\sessionchair{%s}{%s}' % (chair[0],chair[1])
-                print >>out, '\\\\'
+                print >>out, '\\\\\\vspace{1em}'
             #if chairs[0][1]:
             #    chair = chairs[0]
             #    print >>out, '\\Track%cLoc\\hfill\\sessionchair{%s}{%s}' % (chr(i + 68),chair[0],chair[1])
@@ -256,7 +259,11 @@ for date in dates:
                 print >>out, '\\Track%cLoc' % (chr(i + 68))
             print >>out, '\\\\'
             for paper in session.papers:
-                print >>out, '\\posterabstract{%s}' % (paper.id)
+                if hasattr(paper,'id'):
+                    print >>out, '\\posterabstract{%s}' % (paper.id)
+                else:
+                    print paper
+                    print >>out, '\\postersubtitle{%s}'%(paper) 
             print >>out
 
             out.close()

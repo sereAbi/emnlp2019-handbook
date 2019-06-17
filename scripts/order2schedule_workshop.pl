@@ -66,6 +66,7 @@ while (my $line = <STDIN>) {
     my $author = (exists $hash->{'%by'} ? " ($hash->{'%by'})" : "");
     #print "$pre\n$post\n$start\n$end\n";
     print"\\vspace{1ex}\n";
+    $post =~ tr/#/ /;
     #$time =~ s/(\d+):(\d+)/minus12($1,$2)/eg;
     print "\\item[$time] {\\bfseries $pre $post$author}\n";
   }
