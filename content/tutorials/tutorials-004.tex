@@ -1,18 +1,10 @@
 \begin{bio}
 
-\textbf{Alexander Sasha Rush} is an assistant professor at Harvard University. His research interest is in ML
-methods for NLP with recent focus on deep learning for text generation including applications in machine
-translation, data and document summarization, and diagram-to-text generation, as well as the development
-of the OpenNMT translation system. His past work focused on structured prediction and combinatorial
-optimization for NLP.
+\textbf{Kai-Wei Chang} TO BE DONE
 
-\textbf{Yoon Kim} is a PhD student at Harvard University. He is interested in deep learning approaches to natural
-language processing, and especially in deep models for text generation. He has done previous work in text
-classification, language modeling, knowledge distillation, and generation.
+\textbf{Margaret Mitchell} TO BE DONE
 
-\textbf{Sam Wiseman} is a PhD student at Harvard University. He is interested in the intersection of deep learning,
-structured prediction, and natural language processing. He has done previous work in coreference
-resolution, structured prediction for NLP, and text generation.
+\textbf{Vicente Ordonez} TO BE DONE
 
 \end{bio}
 
@@ -22,6 +14,17 @@ resolution, structured prediction for NLP, and text generation.
   {\daydateyear, \tutorialmorningtime}
   {\TutLocD}
 
-The proposed tutorial will cover deep latent variable models both in the case where exact inference over the latent variables is tractable and when it is not. The former case includes neural extensions of unsupervised tagging and parsing models. Our discussion of the latter case, where inference cannot be performed tractably, will restrict itself to continuous latent variables. In particular, we will discuss recent developments both in neural variational inference (e.g., relating to Variational Auto-encoders) and in implicit density modeling (e.g., relating to Generative Adversarial Networks). We will highlight the challenges of applying these families of methods to NLP problems, and discuss recent successes and best practices.
+Recent advances in data-driven machine learning techniques (e.g., deep neural networks) have revolutionized many natural language processing applications. These approaches automatically learn how to make decisions based on the statistics and diagnostic information from large amounts of training data. Despite the remarkable accuracy of machine learning in various applications, learning algorithms run the risk of relying on societal biases encoded in the training data to make predictions. This often occurs even when gender and ethnicity information is not explicitly provided to the system because learning algorithms are able to discover implicit associations between individuals and their demographic information based on other variables such as names, titles, home addresses, etc. Therefore, machine learning algorithms risk potentially encouraging unfair and discriminatory decision making and raise serious privacy concerns. Without properly quantifying and reducing the reliance on such correlations, broad adoption of these models might have the undesirable effect of magnifying harmful stereotypes or implicit biases that rely on sensitive demographic attributes.
+
+In this tutorial, we will review the history of bias and fairness studies in machine learning and language processing and present recent community effort in quantifying and mitigating bias in natural language processing models for a wide spectrum of tasks, including word embeddings, co-reference resolution, machine translation, and vision-and-language tasks. In particular, we will focus on the following topics:
+\begin{itemize}
+\item Definitions of fairness and bias.
+
+\item Data, algorithms, and models that propagate and even amplify social bias to NLP applications and metrics to quantify these biases.
+
+\item Algorithmic solutions; learning objective; design principles to prevent social bias in NLP systems and their potential drawbacks.
+\end{itemize}
+
+The tutorial will bring researchers and practitioners to be aware of this issue, and encourage the research community to propose innovative solutions to promote fairness in NLP.
 
 \end{tutorial}
