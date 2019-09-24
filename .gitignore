@@ -1,0 +1,11 @@
+*.aux
+*.toc
+*.bcf
+*.out
+*.lb
+*.log
+*.bbl
+*.blg
+*.ai
+*.ilg
+
