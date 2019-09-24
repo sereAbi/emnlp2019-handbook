@@ -4,7 +4,7 @@ for name in $(cat $1); do
   x=$(echo $name | cut -d\| -f1)
   url=$(echo $name | cut -d\| -f2)
   if test $x = $url; then
-    url="https://www.softconf.com/emnlp2018/$x/manager/aclpub/proceedings.tgz"
+    url="https://www.softconf.com/emnlp2019/$x/manager/aclpub/proceedings.tgz"
   fi
   echo $x $url
   [[ ! -d "data/$x" ]] && mkdir -p data/$x
