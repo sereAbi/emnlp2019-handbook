@@ -6,31 +6,30 @@ Supporters: no ad
 
 ------------
 Platinum/Diamond
-o Bloomberg (Justin)
-- Google (Cat check)
-o Facebook
-o Saleforce  
-o Amazon
-o Baidu
-o Grammarly
-o JD
-o navereuro
+- Amazon OK
+- Apple NO AD
+- Google NO AD
+- futureForce OK
+- deepMind No AD
+- huawei OK
+- baidu OK
 
 Gold
-- Ebay
-o Microsoft
-o NAVER
-o PolyAI
-o CVTE
-o Oracle
+- Verisk OK
+- Xiaomi OK
+- Naver OK
+- PolyAI OK
 
 Silver
-o HUAWEI
-o DUOlingo
-o Figure8
-o Nuance
+- Babelscape OK
+- Cisco OK
+- SAP OK
+- Duolingo OK
 
 Bronze
-o NextCanada
-o AI2
-- textIQ
+- Shannon.AI OK
+- Raytheon OK
+
+====
+
+no more sponsors: GT Research
