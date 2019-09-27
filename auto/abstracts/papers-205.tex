@@ -1,1 +1,7 @@
-This work introduces fact salience: The task of generating a machine-readable representation of the most prominent information in a text document as a set of facts. We also present SalIE, the first fact salience system. SalIE is unsupervised and knowledge agnostic, based on open information extraction to detect facts in natural language text, PageRank to determine their relevance, and clustering to promote diversity. We compare SalIE with several baselines (including positional, standard for saliency tasks), and in an extrinsic evaluation, with state-of-the-art automatic text summarizers. SalIE outperforms baselines and text summarizers showing that facts are an effective way to compress information.
+Treebank translation is a promising method for cross-lingual transfer of syntactic dependency knowledge.
+The basic idea is to map dependency arcs from a source treebank to its target translation according to word alignments.
+This method, however, can suffer from imperfect alignment between source and target words.
+To address this problem, we investigate syntactic transfer by code mixing, translating only confident words in a source treebank.
+Cross-lingual word embeddings are leveraged for transferring syntactic knowledge to the target from the resulting code-mixed treebank.
+Experiments on University Dependency Treebanks show that code-mixed treebanks are more effective than translated treebanks,
+giving highly competitive performances among cross-lingual parsing methods.
