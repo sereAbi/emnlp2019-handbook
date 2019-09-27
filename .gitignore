@@ -8,4 +8,4 @@
 *.blg
 *.ai
 *.ilg
-*.pyc
+scripts/*.pyc
