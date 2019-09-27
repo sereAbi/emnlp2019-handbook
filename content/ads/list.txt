@@ -19,6 +19,8 @@ Gold
 - Xiaomi OK
 - Naver OK
 - PolyAI OK
+- ByteDance NO AD
+- Zhuiyi Company OK
 
 Silver
 - Babelscape OK
