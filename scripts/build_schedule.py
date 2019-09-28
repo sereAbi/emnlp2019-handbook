@@ -20,7 +20,7 @@ pattern_other = re.compile(OTHER_REGEXP)
 
 dates = []
 schedule = defaultdict(defaultdict)
-sessions = {}
+sessions = defaultdict(dict)
 session_times = {}
 
 
@@ -34,33 +34,54 @@ def parse_order_file(orderfile):
         for line in in_:
             if line == '\n':
                 continue
+
             if re.match(pattern_day, line):
                 cleaned = line.replace('#', '').strip()
                 day, date, year = cleaned.split(',')
                 if (day, date, year) not in dates:
                     dates.append((day, date, year))
-                schedule[day] = {'date': ','.join([day, date, year])}
+                schedule[day] = {'date': ','.join([day, date, year]),
+                                 'times': []}
+
             elif re.match(pattern_session, line):
-                print(schedule)
                 cleaned = line.replace('=Session ', '')
                 code, name = cleaned.split(':')
                 session_number = int(code[:-1])
+                if sessions["Session {}".format(session_number)]:
+                    sessions["Session {}".format(session_number)].update({code: name.strip()})
+
                 if re.search('poster', name.lower()):
-                    is_poster = True
-                exit()
+                    sessions["Session {}".format(session_number)].update({'is_poster': True})
+
             elif re.match(pattern_paper, line):
-                print('PAPER', line)
+                pass
+                #print('PAPER', line)
             elif re.match(pattern_poster, line):
-                print('POSTER', line)
+                pass
+                #print('POSTER', line)
             elif re.match(pattern_other, line):
                 cleaned = line.replace('+ ', '')
                 time_range = get_time_range(cleaned)
                 title = cleaned.split(time_range)[1].strip()
-                schedule[day].update({time_range: title})
+                if re.search('Session', title):
+                    sessions[title] = {'time': time_range}
+                schedule[day]['times'].append((time_range, title))
             else:
-                print('NOT FOUND')
-                print(line)
-            # exit()
+                pass
+                #print('NOT FOUND')
+                #print(line)
+
+    # for k, v in sorted(sessions.items()):  # , key=lambda x: int(x[0].strip('Session '))):
+    #     print(k)
+    #     for k1, v1 in sorted(v.items()):
+    #         print(k1, v1)
+    #     print()
+
+    for k, v in schedule.items():
+        print(k)
+        print(v['date'])
+        for a, b in v['times']:
+            print(a, b)
 
 
 if __name__ == "__main__":
