@@ -89,20 +89,26 @@ def parse_order_file(orderfile):
     return schedule
 
 
+def process_time_range(tr):
+    st, end = tr.split('--')
+    return "{} & -- & {} ".format(st, end)
+
+
 def build_overview(schedule, outdir, conf):
     for date, sched in sorted(schedule.items()):
         print('{}/{}-overview.tex'.format(os.path.join(outdir, conf), date.strftime("%A")))
         with open('{}/{}-overview.tex'.format(os.path.join(outdir, conf), date.strftime("%A")), 'w') as out:
-            out.write('\\section*{Overview}')
-            out.write('\\renewcommand{\\arraystretch}{1.2}')
-            out.write('\\begin{SingleTrackSchedule}')
+            out.write('\\section*{Overview}\n')
+            out.write('\\renewcommand{\\arraystretch}{1.2}\n')
+            out.write('\\begin{SingleTrackSchedule}\n')
             for time_range, event in sched:
                 if isinstance(event, str):
-                    out.write("{} & \\bfseries{{ {} }}".format(time_range, event))
+                    out.write("{} & \\bfseries{{ {} }} \\\\".format(process_time_range(time_range), event))
                 elif isinstance(event, utils.Session):
-                    out.write("{}".format(time_range))
+                    out.write("{}".format(process_time_range(time_range)))
                     if event.parallels:
-                        out.write(r"\begin{tabular}{|p{0.9in}|p{0.9in}|p{0.9in}|p{0.9in}|}")
+                        out.write(r" & \begin{tabular}{|p{0.9in}|p{0.9in}|p{0.9in}|p{0.9in}|} ")
+                        out.write()
                         out.write("\multicolumn{{4}}{{l}}{{\\bfseries {}}}\\\\\\hline".format(event))
                         out.write(' & '.join([p.get_desc() for p in event.parallels]) + '\\\\')
                         out.write('  \\hline\\end{tabular} \\\\')
