@@ -110,6 +110,7 @@ def build_overview(schedule, outdir, conf):
                         out.write(" & \\begin{tabular}{|p{0.9in}|p{0.9in}|p{0.9in}|p{0.9in}|} \n")
                         out.write("\multicolumn{{4}}{{l}}{{\\bfseries {}}}\\\\ \n \\hline ".format(event))
                         out.write(' & '.join([p.get_desc() for p in event.parallels]) + '\\\\')
+                        out.write(' & '.join(['\emph{LOCATION}' for _ in event.parallels]) + '\\\\')
                         out.write('  \\hline\\end{tabular} \\\\')
                     else:
                         out.write("{} & \\bfseries{{ {} }} \\\\".format(process_time_range(time_range), event))
