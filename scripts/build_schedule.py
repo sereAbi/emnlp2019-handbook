@@ -96,7 +96,6 @@ def process_time_range(tr):
 
 def build_overview(schedule, outdir, conf):
     for date, sched in sorted(schedule.items()):
-        print('{}/{}-overview.tex'.format(os.path.join(outdir, conf), date.strftime("%A")))
         with open('{}/{}-overview.tex'.format(os.path.join(outdir, conf), date.strftime("%A")), 'w') as out:
             out.write('\\section*{Overview}\n')
             out.write('\\renewcommand{\\arraystretch}{1.2}\n')
@@ -117,18 +116,46 @@ def build_overview(schedule, outdir, conf):
             out.write('\\end{SingleTrackSchedule}')
             out.write('\\clearpage')
 
+        print('Done: {}/{}-overview.tex'.format(os.path.join(outdir, conf), date.strftime("%A")))
 
-        # for time_range, event in sched:
-        #     print(time_range, event)
-        #     if isinstance(event, utils.Session):
-        #         if event.parallels:
-        #             for p in event.parallels:
-        #                 print(p)
-                        # for pp in p.papers:
-                        #     print(pp)
-                # else:  # poster
-                #     for p in event.papers:
-                #         print(p)
+
+def build_session_overview(schedule, outdir, conf):
+    for date, sched in sorted(schedule.items()):
+        for time_range, event in sched:
+            # print(time_range, event)
+            paper_times = {}
+            times = defaultdict(list)
+            if isinstance(event, utils.Session):
+                if not event.is_poster:
+                    with open('{}/{}-parallel-session-{}.tex'.format(os.path.join(outdir, conf), date.strftime("%A"), event.code), 'w') as out:
+                        out.write('\\clearpage\n')
+                        out.write('\\setheaders{{Session {} }}{{\\daydateyear}}\n'.format(event.code))
+                        out.write('\\begin{{FourSessionOverview}}{{Session {}}}{{\daydateyear}}\n'.format(event.code))
+                        for ps in event.parallels:
+                            out.write('{{{}}}\n'.format(ps.name))
+
+                            for paper in ps.papers:
+                                paper_times[paper.id_] = paper.get_start_time()
+                                times[paper.get_start_time()].append(paper.id_)
+
+                        fl = False
+                        for time, list_ in sorted(times.items()):
+
+                            if fl:
+                                out.write('\\midrule\n')
+                            out.write(' \\marginnote{{\\rotatebox{{90}}{{ {} }}[2mm]\n'.format(time))
+                            out.write(' & '.join(['\\papertableentry{{{}-{}}} '.format(conf, id_) for id_ in list_]))
+                            out.write('\\\\\n')
+                            fl = True
+                        out.write('\\end{FourSessionOverview}\n')
+
+                    # for pn in range(num_papers):
+                    #     if pn > 0:
+                    #         out.write(' \\midrule')
+                    #     out.write('  \\marginnote{{\\rotatebox{{90}}{{}}[2mm]'.format(paper_times[pn]))
+
+        # print('{}/{}-parallel-session-{}.tex'.format(os.path.join(outdir, conf), date.strftime("%A")))
+        pass
 
 
 if __name__ == "__main__":
@@ -136,4 +163,18 @@ if __name__ == "__main__":
     if not os.path.exists('data/{}'.format(conf)):
         exit('No such conf like {}'.format(conf))
     schedule = parse_order_file('data/{}/proceedings/order'.format(conf))
-    build_overview(schedule, 'auto', conf)
+    # build_overview(schedule, 'auto', conf)
+    build_session_overview(schedule, 'auto', conf)
+    # for time_range_a, event_list in sorted(schedule.items()):
+    #     print(time_range_a, type(event_list))
+    #     for time_range, event in event_list:
+    #         if isinstance(event, utils.Session):
+    #             print('Session', event.code)
+    #             if event.parallels:
+    #                 for p in event.parallels:
+    #                     print(p.code)
+        #             for pp in p.papers:
+        #                 print(pp)
+        #     else:  # poster
+        #         for p in event.papers:
+        #             print(p)

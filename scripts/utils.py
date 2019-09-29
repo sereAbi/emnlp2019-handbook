@@ -47,6 +47,7 @@ class ParallelSession:
     def get_desc(self):
         return self.name
 
+
 class Paper:
     def __init__(self, title, id_, sessioncode, time_range):
         self.title = title
@@ -56,6 +57,9 @@ class Paper:
 
     def __str__(self):
         return "{} {} {}".format(self.time_range, self.id_, self.title)
+
+    def get_start_time(self):
+        return self.time_range.split('--')[0]
 
 
 class Poster:
