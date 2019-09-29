@@ -1,54 +1,54 @@
 - id: 1732
   title: "[TACL] Insertion-based Decoding with automatically Inferred Generation Order"
-  authors: 
-  abstract: 
+  authors: Jiatao Gu, Qi Liu and Kyunghyun Cho
+  abstract: Conventional neural autoregressive decoding commonly assumes a fixed left-to-right generation order, which may be sub-optimal. In this work, we propose a novel decoding algorithm -- InDIGO -- which supports flexible sequence generation in arbitrary orders through insertion operations. We extend Transformer, a state-of-the-art sequence generation model, to efficiently implement the proposed approach, enabling it to be trained with either a pre-defined generation order or adaptive orders obtained from beam-search. Experiments on four real-world tasks, including word order recovery, machine translation, image caption and code generation, demonstrate that our algorithm can generate sequences following arbitrary orders, while achieving competitive or even better performance compared to the conventional left-to-right generation. The generated sequences show that InDIGO adopts adaptive generation orders based on input information.
 
 - id: 1654
   title: "[TACL] Morphological Analysis Using a Sequence Decoder"
-  authors: 
-  abstract: 
+  authors: Ekin Akyürek, Erenay Dayanık and Deniz Yuret
+  abstract: We introduce Morse, a recurrent encoder-decoder model that produces morphological analyses of each word in a sentence.  The encoder turns the relevant information about the word and its context into a fixed size vector representation and the decoder generates the sequence of characters for the lemma followed by a sequence of individual morphological features. We show that generating morphological features individually rather than as a combined tag allows the model to handle rare or unseen tags and outperform whole-tag models. In addition, generating morphological features as a sequence rather than e.g. an unordered set allows our model to produce an arbitrary number of features that represent multiple inflectional groups in morphologically complex languages. We obtain state-of-the art results in nine languages of different morphological complexity under low-resource, high-resource and transfer learning settings. We also introduce TrMor2018, a new high accuracy Turkish morphology dataset. Our Morse implementation and the TrMor2018 dataset are available online to support future research.
 
 - id: 1677
   title: "[TACL] Enabling Robust Grammatical Error Correction in New Domains: Datasets, Metrics, and Analyses" 
-  authors: 
-  abstract: 
+  authors: Courtney Napoles, Maria Nadejde and Joel Tetreault
+  abstract: Until now, grammatical error correction (GEC) has been primarily evaluated on text written by non-native English speakers, with a focus on student essays. This paper enables GEC development on text written by native speakers by providing a new dataset and metric. We present a multiple-reference test corpus for GEC that includes 4,000 sentences in two new domains (formal and informal writing by native English speakers) and 2,000 sentences from a diverse set of non-native student writing. We also collect human judgments of several GEC systems on this new test set and perform a meta-evaluation, assessing how reliable automatic metrics are across these domains. We find that commonly used GEC metrics have inconsistent performance across domains, and therefore we propose a new ensemble metric that is robust on all three domains of text.
 
 - id: 1676 
   title: "[TACL] Graph Convolutional Network with Sequential Attention for Goal-Oriented Dialogue Systems" 
-  authors: 
-  abstract: 
+  authors: Suman Banerjee and Mitesh M. Khapra
+  abstract: Domain specific goal-oriented dialogue systems typically require modeling three types of inputs, viz., (i) the knowledge-base associated with the domain, (ii) the history of the conversation, which is a sequence of utterances and (iii) the current utterance for which the response needs to be generated. While modeling these inputs, current state-of-the-art models such as Mem2Seq typically ignore the rich structure inherent in the knowledge graph and the sentences in the conversation context. Inspired by the recent success of structure-aware Graph Convolutional Networks (GCNs) for various NLP tasks such as machine translation, semantic role labeling and document dating, we propose a memory augmented GCN for goal-oriented dialogues. Our model exploits (i) the entity relation graph in a knowledge-base and (ii) the dependency graph associated with an utterance to compute richer representations for words and entities. Further, we take cognizance of the fact that in certain situations, such as, when the conversation is in a code-mixed language, dependency parsers may not be available. We show that in such situations we could use the global word co-occurrence graph to enrich the representations of utterances. We experiment with 4 datasets, viz., (i) the modified DSTC2 dataset (ii) recently released code-mixed versions of DSTC2 dataset in four languages (iii) Wizard-of-Oz style CAM676 dataset and (iv) Wizard-of-Oz style MultiWOZ dataset. On all the 4 datasets our method outperforms existing methods, on a wide range of evaluation metrics.
 
 - id: 1710 
   title: "[TACL] Neural Network Acceptability Judgments"
-  authors: 
-  abstract: 
+  authors: Alex Warstadt, Amanpreet Singh and Samuel R. Bowman
+  abstract: This paper investigates the ability of artificial neural networks to judge the grammatical acceptability of a sentence, with the goal of testing their linguistic competence. We introduce the Corpus of Linguistic Acceptability (CoLA), a set of 10,657 English sentences labeled as grammatical or ungrammatical from published linguistics literature. As baselines, we train several recurrent neural network models on acceptability classification, and find that our models outperform unsupervised models by Lau et al. (2016) on CoLA. Error-analysis on specific grammatical phenomena reveals that both Lau et al.’s models and ours learn systematic generalizations like subject-verb-object order. However, all models we test perform far below human level on a wide range of grammatical constructions.
 
 - id: 1742 
   title: "[TACL] Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond" 
-  authors: 
-  abstract: 
+  authors: Mikel Artetxe and Holger Schwenk
+  abstract: We introduce an architecture to learn joint multilingual sentence representations for 93 languages, belonging to more than 30 different families and written in 28 different scripts. Our system uses a single BiLSTM encoder with a shared BPE vocabulary for all languages, which is coupled with an auxiliary decoder and trained on publicly available parallel corpora. This enables us to learn a classifier on top of the resulting embeddings using English annotated data only and transfer it to any of the 93 languages without any modification. Our experiments in cross-lingual natural language inference (XNLI dataset), cross-lingual document classification (MLDoc dataset) and parallel corpus mining (BUCC dataset) show the effectiveness of our approach. We also introduce a new test set of aligned sentences in 112 languages and show that our sentence embeddings obtain strong results in multilingual similarity search even for low-resource languages. Our implementation, the pre-trained encoder and the multilingual test set are available at https://github.com/facebookresearch/LASER.
 
 - id: 1639 
   title: "[TACL] Measuring Online Debaters' Persuasive Skill from Text over Time"
-  authors: 
-  abstract: 
+  authors: Kelvin Luu, Chenhao Tan and Noah A. Smith
+  abstract: Online debates allow people to express their persuasive abilities and provide exciting opportunities for understanding persuasion. Prior studies have focused on studying persuasion in debate content, but without accounting for each debater's history or exploring the progression of a debater's persuasive ability. We study debater skill by modeling how participants progress over time in a collection of debates from Debate.org. We build on a widely-used model of skill in two-player games and augment it with linguistic features of a debater's content. We show that online debaters' skill levels do tend to improve over time. Incorporating linguistic profiles leads to more robust skill estimation than winning records alone. Notably, we find that an interaction feature combining uncertainty cues (hedging) with terms strongly associated with either side of a particular debate (fightin' words) is more predictive than either feature on its own, indicating the importance of fine-grained linguistic features.
 
 - id: 1712 
   title: "[TACL] Weakly Supervised Domain Detection"
-  authors: 
-  abstract: 
+  authors: Yumo Xu and Mirella Lapata
+  abstract: In this paper we introduce domain detection as a new natural language processing task. We argue that the ability to detect textual segments which are domain-heavy, i.e., sentences or phrases which are representative of and provide evidence for a given domain could enhance the robustness and portability of various text classification applications. We propose an encoder-detector framework for domain detection and bootstrap classifiers with multiple instance learning (MIL). The model is hierarchically organized and suited to multilabel classification. We demonstrate that despite learning with minimal supervision, our model can be applied to text spans of different granularities, languages, and genres. We also showcase the potential of domain detection for text summarization.
 
 - id: 1729  
   title: "[TACL] Still a Pain in the Neck: Evaluating Text Representations on Lexical Composition"
-  authors: 
-  abstract: 
+  authors: Vered Shwartz and Ido Dagan
+  abstract: Building meaningful phrase representations is challenging because phrase meanings are not simply the sum of their constituent meanings. Lexical composition can shift the meanings of the constituent words and introduce implicit information. We tested a broad range of textual representations for their capacity to address these issues. We found that, as expected, contextualized word representations perform better than static word embeddings, more so on detecting meaning shift than in recovering implicit information, in which their performance is still far from that of humans. Our evaluation suite, consisting of six tasks related to lexical composition effects, can serve future research aiming to improve representations.
 
 - id: 1648 
   title: "[TACL] Where's My Head? Definition, Dataset and Models for Numeric Fused-Heads Identification and Resolution"
-  authors: 
-  abstract: 
+  authors: Yanai Elazar and Yoav Goldberg
+  abstract: We provide the first computational treatment of fused-heads constructions (FH), focusing on the numeric fused-heads (NFH). FHs constructions are noun phrases (NPs) in which the head noun is missing and is said to be fused with its dependent modifier. This missing information is implicit and is important for sentence understanding. The missing references are easily filled in by humans but pose a challenge for computational models. We formulate the handling of FH as a two stages process: identification of the FH construction and resolution of the missing head. We explore the NFH phenomena in large corpora of English text and create (1) a dataset and a highly accurate method for NFH identification; (2) a 10k examples (1M tokens) crowd-sourced dataset of NFH resolution; and (3) a neural baseline for the NFH resolution task. We release our code and dataset, in hope to foster further research into this challenging problem.
 
 - id: 1582 
   title: "[TACL] A Generative Model for Punctuation in Dependency Trees"
-  authors: 
-  abstract: 
+  authors: Xiang Lisa Li, Dingquan Wang and Jason Eisner
+  abstract: Treebanks traditionally treat punctuation marks as ordinary words, but linguists have suggested that a tree’s “true” punctuation marks are not observed (Nunberg, 1990). These latent “underlying” marks serve to delimit or separate constituents in the syntax tree. When the tree’s yield is rendered as a written sentence, a string rewriting mechanism transduces the underlying marks into “surface” marks, which are part of the observed (surface) string but should not be regarded as part of the tree. We formalize this idea in a generative model of punctuation that admits efficient dynamic programming. We train it without observing the underlying marks, by locally maximizing the incomplete data likelihood (similarly to EM). When we use the trained model to reconstruct the tree’s underlying punctuation, the results appear plausible across 5 languages, and in particular, are consistent with Nunberg’s analysis of English. We show that our generative model can be used to beat baselines on punctuation restoration. Also, our reconstruction of a sentence’s underlying punctuation lets us appropriately render the surface punctuation (via our trained underlying-to-surface mechanism) when we syntactically transform the sentence.
