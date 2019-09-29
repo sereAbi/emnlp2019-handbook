@@ -3,25 +3,21 @@ import re
 
 class Session:
 
-    def __init__(self, code, name, time_range, is_poster):
+    def __init__(self, code, name, time_range):
         self.code = code
         self.name = name.strip()
         self.timerange = time_range
-        self.is_poster = is_poster
-        self.papers = []
         self.parallels = []
+        self.poster_session = None
 
-    def add_poster(self, poster):
-        self.papers.append(poster)
-
-    def add_parallel(self, parallelsession):
+    def add_parallel_session(self, parallelsession):
         self.parallels.append(parallelsession)
 
+    def add_poster_session(self, postersession):
+        self.poster_session = postersession
+
     def __str__(self):
-        if self.is_poster:
-            return "Poster \& Demo session {}: {}".format(self.code, self.name)
-        else:
-            return "Session {}".format(self.code)
+        return "Session {}".format(self.code)
 
 
 class ParallelSession:
@@ -33,6 +29,7 @@ class ParallelSession:
         self.chair = None
         self.papers = []
         self.get_parent()
+
 
     def get_parent(self):
         if re.search('[A-Z]{1}$', self.code):
@@ -46,6 +43,16 @@ class ParallelSession:
 
     def get_desc(self):
         return self.name
+
+
+class PosterSession:
+    def __init__(self, name, time_range):
+        self.name = name
+        self.posters = []
+        self.time_range = time_range
+
+    def add_poster(self, poster):
+        self.posters.append(poster)
 
 
 class Paper:
