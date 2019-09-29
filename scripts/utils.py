@@ -19,7 +19,7 @@ class Session:
 
     def __str__(self):
         if self.is_poster:
-            return "Poster & Demo session {}: {}".format(self.code, self.name)
+            return "Poster \& Demo session {}: {}".format(self.code, self.name)
         else:
             return "Session {}".format(self.code)
 

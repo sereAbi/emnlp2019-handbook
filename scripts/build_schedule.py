@@ -105,13 +105,14 @@ def build_overview(schedule, outdir, conf):
                 if isinstance(event, str):
                     out.write("{} & \\bfseries{{ {} }} \\\\".format(process_time_range(time_range), event))
                 elif isinstance(event, utils.Session):
-                    out.write("{}".format(process_time_range(time_range)))
                     if event.parallels:
-                        out.write(r" & \begin{tabular}{|p{0.9in}|p{0.9in}|p{0.9in}|p{0.9in}|} ")
-                        out.write()
-                        out.write("\multicolumn{{4}}{{l}}{{\\bfseries {}}}\\\\\\hline".format(event))
+                        out.write("{}".format(process_time_range(time_range)))
+                        out.write(" & \\begin{tabular}{|p{0.9in}|p{0.9in}|p{0.9in}|p{0.9in}|} \n")
+                        out.write("\multicolumn{{4}}{{l}}{{\\bfseries {}}}\\\\ \n \\hline ".format(event))
                         out.write(' & '.join([p.get_desc() for p in event.parallels]) + '\\\\')
                         out.write('  \\hline\\end{tabular} \\\\')
+                    else:
+                        out.write("{} & \\bfseries{{ {} }} \\\\".format(process_time_range(time_range), event))
             out.write('\\end{SingleTrackSchedule}')
             out.write('\\clearpage')
 
