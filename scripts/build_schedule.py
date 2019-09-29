@@ -41,7 +41,7 @@ def parse_order_file(orderfile):
             if re.match(pattern_day, line):
                 cleaned = line.replace('#', '').strip()
                 # day, date, year = cleaned.split(',')
-                dobj = datetime.strptime(cleaned, '%A, %B %d, %Y').date()
+                dobj = datetime.strptime(cleaned, '%A, %B %d, %Y')#.date()
                 if dobj not in dates:
                     dates.append(dobj)
                 schedule[dobj] = []
@@ -89,21 +89,43 @@ def parse_order_file(orderfile):
     return schedule
 
 
+def build_overview(schedule, outdir, conf):
+    for date, sched in sorted(schedule.items()):
+        print('{}/{}-overview.tex'.format(os.path.join(outdir, conf), date.strftime("%A")))
+        with open('{}/{}-overview.tex'.format(os.path.join(outdir, conf), date.strftime("%A")), 'w') as out:
+            out.write('\\section*{Overview}')
+            out.write('\\renewcommand{\\arraystretch}{1.2}')
+            out.write('\\begin{SingleTrackSchedule}')
+            for time_range, event in sched:
+                if isinstance(event, str):
+                    out.write("{} & \\bfseries{{ {} }}".format(time_range, event))
+                elif isinstance(event, utils.Session):
+                    out.write("{}".format(time_range))
+                    if event.parallels:
+                        out.write(r"\begin{tabular}{|p{0.9in}|p{0.9in}|p{0.9in}|p{0.9in}|}")
+                        out.write("\multicolumn{{4}}{{l}}{{\\bfseries {}}}\\\\\\hline".format(event))
+                        out.write(' & '.join([p.get_desc() for p in event.parallels]) + '\\\\')
+                        out.write('  \\hline\\end{tabular} \\\\')
+            out.write('\\end{SingleTrackSchedule}')
+            out.write('\\clearpage')
+
+
+        # for time_range, event in sched:
+        #     print(time_range, event)
+        #     if isinstance(event, utils.Session):
+        #         if event.parallels:
+        #             for p in event.parallels:
+        #                 print(p)
+                        # for pp in p.papers:
+                        #     print(pp)
+                # else:  # poster
+                #     for p in event.papers:
+                #         print(p)
+
+
 if __name__ == "__main__":
     conf = sys.argv[1]
     if not os.path.exists('data/{}'.format(conf)):
         exit('No such conf like {}'.format(conf))
     schedule = parse_order_file('data/{}/proceedings/order'.format(conf))
-    for date, sched in sorted(schedule.items()):
-        print(date)
-        for time_range, event in sched:
-            print(time_range, event)
-            if isinstance(event, utils.Session):
-                if event.parallels:
-                    for p in event.parallels:
-                        print(p)
-                        for pp in p.papers:
-                            print(pp)
-                else:  # poster
-                    for p in event.papers:
-                        print(p)
+    build_overview(schedule, 'auto', conf)

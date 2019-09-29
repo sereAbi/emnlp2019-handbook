@@ -44,6 +44,8 @@ class ParallelSession:
     def __str__(self):
         return "Session {}: {}".format(self.code, self.name)
 
+    def get_desc(self):
+        return self.name
 
 class Paper:
     def __init__(self, title, id_, sessioncode, time_range):
