@@ -8,6 +8,7 @@ from datetime import datetime
 DAY_REGEXP = r"^#\ (Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\,\ (November)\ \d{1,2}\, \d{4}"
 SESSION_REGEXP = r"^=Session"
 PAPER_REGEXP = r"^\d{1,4}\ \d{2}\:\d{2}--\d{2}\:\d{2}\ \#\ "
+TACL_PAPER_REGEXP = r"^\d{1,4}/TACL\ \d{2}\:\d{2}--\d{2}\:\d{2}\ \#\ "
 POSTER_REGEXP = r"^\d{1,4}\ \# "
 OTHER_REGEXP = r"^\+\ \d{2}\:\d{2}--\d{2}\:\d{2}"
 
@@ -15,6 +16,7 @@ OTHER_REGEXP = r"^\+\ \d{2}\:\d{2}--\d{2}\:\d{2}"
 pattern_day = re.compile(DAY_REGEXP)
 pattern_session = re.compile(SESSION_REGEXP)
 pattern_paper = re.compile(PAPER_REGEXP)
+pattern_tacl_paper = re.compile(TACL_PAPER_REGEXP)
 pattern_poster = re.compile(POSTER_REGEXP)
 pattern_other = re.compile(OTHER_REGEXP)
 
@@ -57,6 +59,14 @@ def parse_order_file(orderfile):
                 id_time_str, title = line.strip().split(" # ")
                 paper_id, time_range = id_time_str.split()
                 paper_id = int(paper_id)
+                time_range = time_range.strip()
+                paper = utils.Paper(title, paper_id, code, time_range)
+                current_session.add_paper(paper)
+
+            elif re.match(pattern_tacl_paper, line):   # paper
+                id_time_str, title = line.strip().split(" # ")
+                paper_id, time_range = id_time_str.split()
+                paper_id = int(paper_id.replace('/TACL', ''))
                 time_range = time_range.strip()
                 paper = utils.Paper(title, paper_id, code, time_range)
                 current_session.add_paper(paper)
