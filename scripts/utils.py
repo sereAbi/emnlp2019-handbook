@@ -62,6 +62,7 @@ class Paper:
         self.id_ = id_
         self.sessioncode = sessioncode
         self.time_range = time_range
+        self.is_tacl = False
 
     def __str__(self):
         return "{} {} {}".format(self.time_range, self.id_, self.title)

@@ -64,12 +64,13 @@ def parse_order_file(orderfile):
                 paper = utils.Paper(title, paper_id, code, time_range)
                 current_session.add_paper(paper)
 
-            elif re.match(pattern_tacl_paper, line):   # paper
+            elif re.match(pattern_tacl_paper, line):   # paper TACL
                 id_time_str, title = line.strip().split(" # ")
                 paper_id, time_range = id_time_str.split()
                 paper_id = int(paper_id.replace('/TACL', ''))
                 time_range = time_range.strip()
                 paper = utils.Paper(title, paper_id, code, time_range)
+                paper.is_tacl = True
                 current_session.add_paper(paper)
 
             elif re.match(pattern_poster, line):  # poster
@@ -172,7 +173,11 @@ def build_session_overview(schedule, outdir, conf):
                         out.write('{{\\bfseries\\large {}: {}}}\\\\ \n'.format(ps.code, ps.name))
                         out.write('\\Track{}Loc\\hfill Chair: \\sessionchair{{{}}}{{}} \\vspace{{1em}}\\\\ \n'.format(ps. code[-1:], ps.chair))
                         for paper in ps.papers:
-                            out.write('\\paperabstract{{\\day}}{{{}}}{{}}{{}}{{{}}} \n'.format(paper.time_range, '{}-{}'.format(conf, paper.id_)))
+                            if not paper.is_tacl:
+                                out.write('\\paperabstract{{\\day}}{{{}}}{{}}{{}}{{{}}} \n'.format(paper.time_range, '{}-{}'.format(conf, paper.id_)))
+                            else:
+                                out.write('\\paperabstract{{\\day}}{{{}}}{{}}{{}}{{{}}} \n'.format(paper.time_range,
+                                                                                                   'TACL-{}'.format(paper.id_)))
                     out.write('\\clearpage\n')
                     poster_session_path = '{}/{}-Session-{}.tex'.format(os.path.join(outdir, conf), date.strftime("%A"), "{}E".format(event.code))
                     out.write('\\input{{{}}}\n'.format(poster_session_path))
