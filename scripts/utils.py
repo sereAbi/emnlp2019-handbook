@@ -26,7 +26,7 @@ class ParallelSession:
         self.code = code
         self.name = name.strip()
         self.parent = None
-        self.chair = None
+        self.chair = 'chairname'
         self.papers = []
         self.get_parent()
 
@@ -50,6 +50,7 @@ class PosterSession:
         self.name = name
         self.posters = []
         self.time_range = time_range
+        self.chair = 'chairname'
 
     def add_poster(self, poster):
         self.posters.append(poster)
