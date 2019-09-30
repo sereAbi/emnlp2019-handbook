@@ -31,12 +31,12 @@ except FileExistsError:
     
 metadata = []
 
-for fname in os.listdir('accepted'):
+for fname in os.listdir('data/{}/proceedings/accepted'.format(tag)):
     if fname == 'accepted.html':
         continue
     else:
         id_ = int(os.path.splitext(fname)[0])
-        f = 'accepted/{}'.format(fname)
+        f = 'data/{}/proceedings/accepted/{}'.format(tag, fname)
         soup = BeautifulSoup(open(f, 'r'), features='lxml')                 
         title = latex_escape(soup.h2.string)
         authors = latex_escape(soup.h3.string)
@@ -47,12 +47,13 @@ for fname in os.listdir('accepted'):
         mdata += "TITLE = {{ {} }},\n".format(title)
         mdata += "}\n"
         metadata.append(mdata)
-        
-        for text in soup.findAll('h2'):
-            if text.string == 'Abstract':
-                abstract = latex_escape(text.next_sibling.string).strip()
-        with open('auto/abstracts/{}-{}.tex'.format(tag, id_), 'w') as abstract_file:
-            abstract_file.write(abstract)
+
+        if tag == 'papers':
+            for text in soup.findAll('h2'):
+                if text.string == 'Abstract':
+                    abstract = latex_escape(text.next_sibling.string).strip()
+                    with open('auto/abstracts/{}-{}.tex'.format(tag, id_), 'w') as abstract_file:
+                        abstract_file.write(abstract)
             
 with open('auto/{}/papers.bib'.format(tag), 'w', encoding='utf-8') as bibfile:
     for m in metadata:
