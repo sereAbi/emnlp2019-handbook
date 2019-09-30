@@ -42,7 +42,7 @@ for path in ['auto/tacl', 'auto/abstracts']:
         os.makedirs(path)
 
 def bib(paper):
-    str  = '@INPROCEEDINGS{%s,\n' % (paper['id'])
+    str  = '@INPROCEEDINGS{TACL-%s,\n' % (paper['id'])
     str += '  AUTHOR = {%s},\n' % (paper['authors'])
     str += '  TITLE = {%s},\n' % (latex_escape(paper['title']))
     str += '  SORTNAME = {%s}}\n\n' % (paper['title'])
@@ -52,7 +52,7 @@ def bib(paper):
 # print >> sys.stderr, "Write bibtex entries to auto/tacl/papers.bib"
 
 bibfile = codecs.open('auto/tacl/papers.bib', 'w', encoding = 'utf-8')
-for paper in yaml.load(open(args.yaml)):
+for paper in yaml.load(open(args.yaml), Loader=yaml.FullLoader):
     bibfile.write(bib(paper))
 
     # print >> sys.stderr, "Writing abstract auto/abstracts/%s.tex" % (paper['id'])
