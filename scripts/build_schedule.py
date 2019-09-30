@@ -156,7 +156,7 @@ def build_session_overview(schedule, outdir, conf):
                     for time, list_ in sorted(times.items()):
                         if fl:
                             out.write('\\midrule\n')
-                        out.write(' \\marginnote{{\\rotatebox{{90}}{{ {} }}[2mm]\n'.format(time))
+                        out.write(' \\marginnote{{\\rotatebox{{90}}{{ {} }}}}[2mm]\n'.format(time))
                         out.write(' & '.join(['\\papertableentry{{{}-{}}} '.format(conf, id_) for id_ in list_]))
                         out.write('\\\\\n')
                         fl = True
