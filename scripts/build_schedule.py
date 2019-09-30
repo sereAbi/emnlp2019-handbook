@@ -170,7 +170,7 @@ def build_session_overview(schedule, outdir, conf):
                     out.write('\\section*{{Parallel Session {}}}\n'.format(event.code))
                     for i, ps in enumerate(parallel_sessions):
                         out.write('{{\\bfseries\\large {}: {}}}\\\\ \n'.format(ps.code, ps.name))
-                        out.write('\\Track{}Loc\\hfill Chair: \\sessionchair{{{}}}{{}} \\vspace{{1em}}\\\\ \n'.format(ps.code[-1:], ps.chair))
+                        out.write('\\Track{}Loc\\hfill Chair: \\sessionchair{{{}}}{{}} \\vspace{{1em}}\\\\ \n'.format(ps. code[-1:], ps.chair))
                         for paper in ps.papers:
                             out.write('\\paperabstract{{\\day}}{{{}}}{{}}{{}}{{{}}} \n'.format(paper.time_range, '{}-{}'.format(conf, paper.id_)))
                     out.write('\\clearpage\n')
@@ -180,7 +180,7 @@ def build_session_overview(schedule, outdir, conf):
 
                 with open(poster_session_path, 'w') as out:
                     out.write('{{\\bfseries\\large {}:{} }} \\hfill {} \\\\ \n'.format('Session {}E'.format(event.code), event.poster_session.name, event.poster_session.time_range))
-                    out.write('\\TrackELoc\\hfill Chair: \\sessionchair{{{}}}{{}} \\vspace{{1em}}\\\\ \n\\\\ \n'.format(event.poster_session.chair))
+                    out.write('\\TrackDLoc\\hfill Chair: \\sessionchair{{{}}}{{}} \\vspace{{1em}}\\\\ \n\\\\ \n'.format(event.poster_session.chair))
                     for poster in event.poster_session.posters:
                         out.write('\\posterabstract{{{}-{}}}\n'.format(conf, poster.id_))
 
