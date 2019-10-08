@@ -9,3 +9,5 @@
 *.ai
 *.ilg
 scripts/*.pyc
+scripts/.idea/*
+scripts/__pycache__/*
