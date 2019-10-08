@@ -1,4 +1,4 @@
-# Day 1
+# Tuesday, November 5, 2019
 + 08:45--09:00 Opening Remarks
 + 09:00--10:00 Keynote I: Noam Slonim
 + 10:00--10:30 Coffee Break
@@ -331,7 +331,7 @@ DEMO-103 # Gunrock: A Social Bot for Complex and Engaging Long Conversations
 DEMO-115 # HARE: a Flexible Highlighting Annotator for Ranking and Exploration
 
 
-# Day 2
+# Wednesday, November 6, 2019
 + 09:00--10:00 Keynote II: Meeyoung Cha
 + 10:00--10:30 Coffee Break
 + 10:30--12:00 Session 5
@@ -660,7 +660,7 @@ DEMO-54 # UER: An Open-Source Toolkit for Pre-training Models
 DEMO-85 # MedCATTrainer: A Biomedical Free Text Annotation Interface with Active Learning and Research Use Case Specific Customisation
 
 
-# Day 3
+# Thursday, November 7, 2019
 + 09:00--10:00 Keynote III: Kyunghyun Cho
 + 10:00--10:30 Coffee Break
 + 10:30--12:00 Session 9
@@ -918,7 +918,7 @@ TACL-1712 14:42--15:00 # Weakly Supervised Domain Detection
 
 
 =Session 12A: Machine Translation and Multilinguality IV
-3349 16:30--16:48 # The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali–English and Sinhala–English
+3349 16:30--16:48 # The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali-English and Sinhala-English
 1204 16:48--17:06 # Mask-Predict: Parallel Decoding of Conditional Masked Language Models
 777 17:06--17:24 # Learning to Copy for Automatic Post-Editing
 
