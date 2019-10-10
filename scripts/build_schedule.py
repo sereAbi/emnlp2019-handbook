@@ -204,7 +204,11 @@ def build_session_overview(schedule, outdir, conf):
                     out.write('{{\\bfseries\\large {}:{} }} \\hfill {} \\\\ \n'.format('Session {}E'.format(event.code), event.poster_session.name, event.poster_session.time_range))
                     out.write('\\TrackDLoc\\hfill Chair: \\sessionchair{{{}}}{{}} \\vspace{{1em}}\\\\ \n\\\\ \n'.format(event.poster_session.chair))
                     for poster in event.poster_session.posters:
-                        out.write('\\posterabstract{{{}-{}}}\n'.format(conf, poster.id_))
+                        if not poster.is_tacl:
+                            out.write('\\posterabstract{{{}-{}}}\n'.format(conf, poster.id_))
+                        else:
+                            out.write('\\posterabstract{{{}-{}}}\n'.format('TACL', poster.id_))
+
                     if event.poster_session.demos:
                         out.write('\\bfDemos\n')
                         for demo in event.poster_session.demos:
