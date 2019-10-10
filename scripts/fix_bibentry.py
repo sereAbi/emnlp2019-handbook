@@ -1,9 +1,9 @@
 import re
 import sys
+import os
 
 author_ptn = re.compile(r"^AUTHOR")
 sortname_ptn = re.compile(r"^SORTNAME")
-# point_ptn = re.compile(r"\. ")
 
 fname = sys.argv[1]
 
@@ -14,3 +14,5 @@ with open('tempfile.txt', 'w') as outfile:
 
         outfile.write(line)
 
+os.rename('tempfile.txt', fname)
+print('AUTHOR and SORTNAME strings replaced in {}'.format(fname))
