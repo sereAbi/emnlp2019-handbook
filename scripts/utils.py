@@ -49,11 +49,15 @@ class PosterSession:
     def __init__(self, name, time_range):
         self.name = name
         self.posters = []
+        self.demos = []
         self.time_range = time_range
         self.chair = 'chairname'
 
     def add_poster(self, poster):
         self.posters.append(poster)
+
+    def add_demo(self, demo):
+        self.demos.append(demo)
 
 
 class Paper:
@@ -77,6 +81,19 @@ class Poster:
         self.title = title
         self.id_ = id_
         self.sessioncode = sessioncode
+        self.is_tacl = False
+
+    def __str__(self):
+        return "{} {}".format(self.id_, self.title)
+
+
+class Demo:
+
+    def __init__(self, title, id_, sessioncode):
+        self.title = title
+        self.id_ = id_
+        self.sessioncode = sessioncode
+        self.is_tacl = False
 
     def __str__(self):
         return "{} {}".format(self.id_, self.title)
