@@ -210,7 +210,7 @@ def build_session_overview(schedule, outdir, conf):
                             out.write('\\posterabstract{{{}-{}}}\n'.format('TACL', poster.id_))
 
                     if event.poster_session.demos:
-                        out.write('\\bfDemos\n')
+                        out.write('{{\\bf Demos}}\n')
                         for demo in event.poster_session.demos:
                             out.write('\\posterabstract{{{}-{}}}\n'.format('demos', demo.id_))
 
