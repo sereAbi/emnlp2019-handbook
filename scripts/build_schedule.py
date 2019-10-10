@@ -216,8 +216,8 @@ def build_session_overview(schedule, outdir, conf):
                 #         out.write(' \\midrule')
                 #     out.write('  \\marginnote{{\\rotatebox{{90}}{{}}[2mm]'.format(paper_times[pn]))
 
-        # print('{}/{}-parallel-session-{}.tex'.format(os.path.join(outdir, conf), date.strftime("%A")))
-        pass
+        print('Done', date.strftime("%A"))
+    
 
 
 def printout_summary(schedule):
