@@ -11,13 +11,16 @@ PAPER_REGEXP = r"^\d{1,4}\ \d{2}\:\d{2}--\d{2}\:\d{2}\ \#\ "
 TACL_PAPER_REGEXP = r"^\d{1,4}/TACL\ \d{2}\:\d{2}--\d{2}\:\d{2}\ \#\ "
 POSTER_REGEXP = r"^\d{1,4}\ \# "
 OTHER_REGEXP = r"^\+\ \d{2}\:\d{2}--\d{2}\:\d{2}"
-
+TACL_POSTER_REGEXP = r"^\d{1,4}/TACL\ \#\ "
+DEMO_REGEXP = r"^DEMO\-\d{1,4}\ \#\ "
 
 pattern_day = re.compile(DAY_REGEXP)
 pattern_session = re.compile(SESSION_REGEXP)
 pattern_paper = re.compile(PAPER_REGEXP)
 pattern_tacl_paper = re.compile(TACL_PAPER_REGEXP)
+pattern_tacl_poster = re.compile(TACL_POSTER_REGEXP)
 pattern_poster = re.compile(POSTER_REGEXP)
+pattern_demo = re.compile(DEMO_REGEXP)
 pattern_other = re.compile(OTHER_REGEXP)
 
 
@@ -41,7 +44,7 @@ def parse_order_file(orderfile):
             if line == '\n':
                 continue
 
-            if re.match(pattern_day, line):
+            elif re.match(pattern_day, line):
                 cleaned = line.replace('#', '').strip()
                 # day, date, year = cleaned.split(',')
                 dobj = datetime.strptime(cleaned, '%A, %B %d, %Y')#.date()
@@ -73,11 +76,24 @@ def parse_order_file(orderfile):
                 paper.is_tacl = True
                 current_session.add_paper(paper)
 
+            elif re.match(pattern_tacl_poster, line):   # poster TACL
+                paper_id, title = line.strip().split(" # ")
+                paper_id = int(paper_id.replace('/TACL', ''))
+                paper = utils.Poster(title, paper_id, code)
+                paper.is_tacl = True
+                current_session.add_poster(paper)
+
             elif re.match(pattern_poster, line):  # poster
                 paper_id, title = line.strip().split(" # ")
                 paper_id = int(paper_id)
                 paper = utils.Poster(title, paper_id, code)
                 current_session.add_poster(paper)
+
+            elif re.match(pattern_demo, line):  # demo
+                paper_id, title = line.strip().split(" # ")
+                paper_id = int(paper_id.replace('DEMO-', ''))
+                demo = utils.Demo(title, paper_id, code)
+                current_session.add_demo(demo)
 
             elif re.match(pattern_other, line):  # session and others
                 cleaned = line.replace('+ ', '')
@@ -96,9 +112,10 @@ def parse_order_file(orderfile):
                     s = title
                 schedule[dobj].append((time_range, s))
             else:
+                print(line)
                 pass
-                #print('NOT FOUND')
-                #print(line)
+
+
     return schedule
 
 
@@ -188,6 +205,11 @@ def build_session_overview(schedule, outdir, conf):
                     out.write('\\TrackDLoc\\hfill Chair: \\sessionchair{{{}}}{{}} \\vspace{{1em}}\\\\ \n\\\\ \n'.format(event.poster_session.chair))
                     for poster in event.poster_session.posters:
                         out.write('\\posterabstract{{{}-{}}}\n'.format(conf, poster.id_))
+                    if event.poster_session.demos:
+                        out.write('\\bfDemos\n')
+                        for demo in event.poster_session.demos:
+                            out.write('\\posterabstract{{{}-{}}}\n'.format(conf, demo.id_))
+
 
                 # for pn in range(num_papers):
                 #     if pn > 0:
@@ -198,26 +220,33 @@ def build_session_overview(schedule, outdir, conf):
         pass
 
 
-if __name__ == "__main__":
-    conf = sys.argv[1]
-    if not os.path.exists('data/{}'.format(conf)):
-        exit('No such conf like {}'.format(conf))
-    schedule = parse_order_file('data/{}/proceedings/order'.format(conf))
-    # build_overview(schedule, 'auto', conf)
-    build_session_overview(schedule, 'auto', conf)
-    # for time_range_a, event_list in sorted(schedule.items()):
-    #     print(time_range_a, type(event_list))
-    #     for time_range, event in event_list:
-    #         if isinstance(event, utils.Session):
-    #             print('Session', event.code)
-    #             if event.parallels:
-    #                 for p in event.parallels:
-    #                     print(p.code, p.papers)
-    #             if event.poster_session:
-    #                 print("{}E".format(event.code), event.poster_session.posters)
+def printout_summary(schedule):
+    for time_range_a, event_list in sorted(schedule.items()):
+        print(time_range_a, type(event_list))
+        for time_range, event in event_list:
+            if isinstance(event, utils.Session):
+                print('Session', event.code)
+                if event.parallels:
+                    for p in event.parallels:
+                        print(p.code, p.papers)
+                if event.poster_session:
+                    print("{}E".format(event.code), event.poster_session.posters)
+                    if event.poster_session.demos:
+                        print("{}E".format(event.code), event.poster_session.demos)
 
-        #             for pp in p.papers:
-        #                 print(pp)
-        #     else:  # poster
-        #         for p in event.papers:
-        #             print(p)
+
+if __name__ == "__main__":
+    # conf = sys.argv[1]
+    # orderfile = 'data/{}/proceedings/order'.format(conf)
+    # if not os.path.exists('data/{}'.format(conf)):
+    #     exit('No such conf like {}'.format(conf))
+
+    orderfile = 'input/final_conference_program.txt'
+    schedule = parse_order_file(orderfile)
+
+    printout_summary(schedule)
+
+    # build_overview(schedule, 'auto', conf)
+    # build_session_overview(schedule, 'auto', conf)
+
+
