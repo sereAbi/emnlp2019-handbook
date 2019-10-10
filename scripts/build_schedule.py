@@ -208,7 +208,7 @@ def build_session_overview(schedule, outdir, conf):
                     if event.poster_session.demos:
                         out.write('\\bfDemos\n')
                         for demo in event.poster_session.demos:
-                            out.write('\\posterabstract{{{}-{}}}\n'.format(conf, demo.id_))
+                            out.write('\\posterabstract{{{}-{}}}\n'.format('demos', demo.id_))
 
 
                 # for pn in range(num_papers):
