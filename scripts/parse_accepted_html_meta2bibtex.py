@@ -54,7 +54,15 @@ for fname in os.listdir('data/{}/proceedings/accepted'.format(tag)):
                     abstract = latex_escape(text.next_sibling.string).strip()
                     with open('auto/abstracts/{}-{}.tex'.format(tag, id_), 'w') as abstract_file:
                         abstract_file.write(abstract)
-            
+
+        if tag == 'demos':
+            for text in soup.findAll('h2'):
+                if text.string == 'Abstract':
+                    abstract = latex_escape(text.next_sibling.string).strip()
+                    with open('auto/abstracts/{}-{}.tex'.format(tag, id_), 'w') as abstract_file:
+                        abstract_file.write(abstract)
+
+
 with open('auto/{}/papers.bib'.format(tag), 'w', encoding='utf-8') as bibfile:
     for m in metadata:
         bibfile.write(m)
