@@ -236,17 +236,17 @@ def printout_summary(schedule):
 
 
 if __name__ == "__main__":
-    # conf = sys.argv[1]
-    # orderfile = 'data/{}/proceedings/order'.format(conf)
-    # if not os.path.exists('data/{}'.format(conf)):
-    #     exit('No such conf like {}'.format(conf))
+    conf = sys.argv[1]
+    orderfile = 'data/{}/proceedings/order'.format(conf)
+    if not os.path.exists('data/{}'.format(conf)):
+        exit('No such conf like {}'.format(conf))
 
-    orderfile = 'input/final_conference_program.txt'
+    # orderfile = 'input/final_conference_program.txt'
     schedule = parse_order_file(orderfile)
 
-    printout_summary(schedule)
+    # printout_summary(schedule)
 
-    # build_overview(schedule, 'auto', conf)
-    # build_session_overview(schedule, 'auto', conf)
+    build_overview(schedule, 'auto', conf)
+    build_session_overview(schedule, 'auto', conf)
 
 
