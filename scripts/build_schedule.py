@@ -168,14 +168,34 @@ def build_session_overview(schedule, outdir, conf):
 
                         for paper in ps.papers:
                             paper_times[paper.id_] = paper.get_start_time()
-                            times[paper.get_start_time()].append(paper.id_)
+                            times[paper.get_start_time()].append((paper.id_, paper.is_tacl))
 
                     fl = False
                     for time, list_ in sorted(times.items()):
+                        p_ids = [x[0] for x in list_ if not x[1]]   # regular
+                        t_ids = [x[0] for x in list_ if x[1]]  # TACL
                         if fl:
                             out.write('\\midrule\n')
                         out.write(' \\marginnote{{\\rotatebox{{90}}{{ {} }}}}[2mm]\n'.format(time))
-                        out.write(' & '.join(['\\papertableentry{{{}-{}}} '.format(conf, id_) for id_ in list_]))
+
+                        if len(p_ids) == len(list_):
+                            # all regular
+                            out.write(' & '.join(['\\papertableentry{{{}-{}}} '.format(conf, id_) for id_, _ in list_]))
+                        else:
+                            # mixed regular and tacl
+                            count = 0
+                            row = ''
+                            s = '\\papertableentry{{{}-{}}} '
+                            for id_, _ in list_:
+                                if id_ in p_ids:
+                                    row += s.format(conf, id_)
+                                else:
+                                    row += s.format('TACL', id_)
+                                if count < len(list_) - 1:
+                                    row += ' & '
+                                    count += 1
+                            out.write(row)
+
                         out.write('\\\\\n')
                         fl = True
                     out.write('\\end{FourSessionOverview}\n')
@@ -210,7 +230,7 @@ def build_session_overview(schedule, outdir, conf):
                             out.write('\\posterabstract{{{}-{}}}\n'.format('TACL', poster.id_))
 
                     if event.poster_session.demos:
-                        out.write('{{\\bf Demos}}\n')
+                        out.write('{{\\bf Demos}}\\\\ \n')
                         for demo in event.poster_session.demos:
                             out.write('\\posterabstract{{{}-{}}}\n'.format('demos', demo.id_))
 
@@ -232,11 +252,13 @@ def printout_summary(schedule):
                 print('Session', event.code)
                 if event.parallels:
                     for p in event.parallels:
-                        print(p.code, p.papers)
-                if event.poster_session:
-                    print("{}E".format(event.code), event.poster_session.posters)
-                    if event.poster_session.demos:
-                        print("{}E".format(event.code), event.poster_session.demos)
+                        print(p.code)
+                        for paper in p.papers:
+                            print(paper.id_, paper.is_tacl)
+                # if event.poster_session:
+                #     print("{}E".format(event.code), event.poster_session.posters)
+                #     if event.poster_session.demos:
+                #         print("{}E".format(event.code), event.poster_session.demos)
 
 
 if __name__ == "__main__":
