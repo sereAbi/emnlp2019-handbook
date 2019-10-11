@@ -1,0 +1,71 @@
+* Monday, November, 4, 2019
+= 9:00--9:05 Opening # 
+= 9:05--9:50 Invited Talk: Isabelle Augenstein
+= 9:50--10:35 Oral Session I
+11 9:50--10:05  # Weakly Supervised Attention Networks for Fine-Grained Opinion Mining and Public Health
+78 10:05--10:20  # Formality Style Transfer for Noisy, User-generated Conversations: Extracting Labeled, Parallel Data from Unlabeled Corpora
+23 10:20--10:35  # Multilingual Whispers: Generating Paraphrases with Translation
+= 10:35--11:00 Coffee Break
+= 11:00--12:15 Oral Session II
+76 11:00--11:15  # Personalizing Grammatical Error Correction: Adaptation to Proficiency Level and L1
+98 11:15--11:30  # Exploiting BERT for End-to-End Aspect-based Sentiment Analysis
+49 11:30--11:45  # Training on Synthetic Noise Improves Robustness to Natural Noise in Machine Translation
+72 11:45--12:00  # Character-Based Models for Adversarial Phone Extraction: Preventing Human Sex Trafficking
+81 12:00--12:15  # Tkol, Httt, and r/radiohead: High Affinity Terms in Reddit Communities
+= 12:30--2:00 Lunch
+= 2:00--3:00 Lightning Talks
+3   # Large Scale Question Paraphrase Retrieval with Smoothed Deep Metric Learning
+4   # Hey Siri. Ok Google. Alexa: A topic modeling of user reviews for smart speakers
+5   # Predicting Algorithm Classes for Programming Word Problems
+8   # Automatic identification of writers___ intentions: Comparing different methods for predicting relationship goals in online dating profile texts
+9   # Contextualized Word Representations from Distant Supervision with and for NER
+10   # Extract, Transform and Filling: A Pipeline Model for Question Paraphrasing based on Template
+12   # An In-depth Analysis of the Effect of Lexical Normalization on the Dependency Parsing of Social Media
+13   # Who wrote this book? A challenge for e-commerce
+14   # Mining Tweets that refer to TV programs with Deep Neural Networks
+15   # Normalising Non-standardised Orthography in Algerian Code-switched User-generated Data
+18   # Dialect Text Normalization to Normative Standard Finnish
+19   # A Cross-Topic Method for Supervised Relevance Classification
+21   # Exploring Multilingual Syntactic Sentence Representations
+22   # FASPell: A Fast, Adaptable, Simple, Powerful Chinese Spell Checker Based On DAE-Decoder Paradigm
+25   # Latent semantic network induction in the context of linked example senses
+28   # SmokEng: Towards Fine-grained Classification of Tobacco-related Social Media Text
+31   # Modelling Uncertainty in Collaborative Document Quality Assessment
+34   # Conceptualisation and Annotation of Drug Nonadherence Information for Knowledge Extraction from Patient-Generated Texts
+36   # Dataset Analysis and Augmentation for Emoji-Sensitive Irony Detection
+37   # Geolocation with Attention-Based Multitask Learning Models
+38   # Dense Node Representation for Geolocation
+39   # Identifying Linguistic Areas for Geolocation
+42   # Robustness to Capitalization Errors in Named Entity Recognition
+46   # Extending Event Detection to New Types with Learning from Keywords
+48   # Distant Supervised Relation Extraction with Separate Head-Tail CNN
+51   # Discovering the Functions of Language in Online Forums
+55   # Incremental processing of noisy user utterances in the spoken language understanding task
+57   # Benefits of Data Augmentation for NMT-based Text Normalization of User-Generated Content
+58   # Contextual Text Denoising with Masked Language Model
+60   # Towards Automated Semantic Role Labelling of Hindi-English Code-Mixed Tweets
+61   # Enhancing BERT for Lexical Normalization
+62   # No, you___re not alone: A better way to find people with similar experiences on Reddit
+63   # Improving Multi-label Emotion Classification by Integrating both General and Domain-specific Knowledge
+64   # Adapting Deep Learning Methods for Mental Health Prediction on Social Media
+67   # Improving Neural Machine Translation Robustness via Data Augmentation: Beyond Back-Translation
+68   # An Ensemble of Humour, Sarcasm, and Hate Speechfor Sentiment Classification in Online Reviews
+69   # Grammatical Error Correction in Low-Resource Scenarios
+70   # Minimally-Augmented Grammatical Error Correction
+74   # A Social Opinion Gold Standard for the Malta Government Budget 2018
+79   # The Fallacy of Echo Chambers: Analyzing the Political Slants of User-Generated News Comments in Korean Media
+80   # Y___all should read this! Identifying Plurality in Second-Person Personal Pronouns in English Texts
+83   # An Edit-centric Approach for Wikipedia Article Quality Assessment
+85   # Additive Compositionality of Word Vectors
+89   # Contextualized context2vec
+90   # Phonetic Normalization for Machine Translation of User Generated Content
+93   # Normalization of Indonesian-English Code-Mixed Twitter Data
+97   # Unsupervised Neologism Normalization Using Embedding Space Mapping
+99   # Lexical Features Are More Vulnerable, Syntactic Features Have More Predictive Power
+16   # Simple Discovery of Aliases from User Comments
+44   # Towards Actual (Not Operational) Textual Style Transfer Auto-Evaluation
+47   # CodeSwitch-Reddit: Exploration of Written Multilingual Discourse in Online Discussion Forums
+= 3:00--4:30 Poster Session (all papers above)
+= 4:30--4:55 Coffee Break
+= 5:00--5:45 Invited Talk: Jing Jiang
+= 5:45--6:00 Closing and Best Paper Awards

@@ -1,0 +1,36 @@
++ 9:00--9:15 Opening Remarks
+= TextGraphs Session I
+11 9:15--9:35 # Transfer in Deep Reinforcement Learning using Knowledge Graphs
+12 9:35--9:50 # Relation Prediction for Unseen-Entities Using Entity-Word Graphs
+8 9:50--10:10 # Scalable graph-based method for individual named entity identification
+17 10:10--10:25 # Neural Speech Translation using Lattice Transformations and Graph Networks
++ 10:25--11:00 Coffee Break
+= TextGraphs Session II
+24 11:00--11:20 # Using Graphs for word embedding with enhanced semantic relations
+19 11:20--11:40 # Relevant Facts Identification for Multi-hop Question Answering Using Structured Text Representation
+20 11:40--11:55 # Essentia: Mining Domain-specific Paraphrases with Word-Alignment Graphs
+18 11:55--12:10 # Layerwise Relevance Visualization in Graph Convolutional Networks
++ 12:10--14:00 Lunch Break
+= TextGraphs Session III
++ 14:00--15:00 Invited Talk: Graph Embedding and Reasoning (by Jie Tang)
+37 15:00--15:30 # TextGraphs 2019 Shared Task on Multi-Hop Inference for Explanation Regeneration
++ 15:30--16:00 Coffee Break
+= Shared Task Poster Session
++ 16:00--17:20 Shared Task Poster Session
+22 16:00--17:20 # ASU at TextGraphs 2019 Shared Task: Explanation ReGeneration using Language Models and Iterative Re-Ranking
+32 16:00--17:20 # Red Dragon AI at TextGraphs 2019 Shared Task: Language Model Assisted Explanation Generation
+34 16:00--17:20 # Team SVMrank: Leveraging Feature-rich Support Vector Machines for Ranking Explanations to Elementary Science Questions
+35 16:00--17:20 # Chains-of-Reasoning at TextGraphs 2019 Shared Task: Reasoning over Chains of Facts for Explainable Multi-hop Inference
+= TextGraphs Poster Session
++ 16:00--17:20 TextGraphs Poster Session
+1 16:00--17:20 # Joint Semantic and Distributional Word Representations with Multi-Graph Embeddings
+3 16:00--17:20 # Evaluation Methods for Research Paper Novelty Detection Models
+5 16:00--17:20 # Do Sentence Interactions Matter? Leveraging Sentence Level Representations for Fake News Classification
+9 16:00--17:20 # Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method
+14 16:00--17:20 # Graph-Based Semi-Supervised Learning for Natural Language Understanding
+21 16:00--17:20 # Graph Enhanced Cross-Domain Text-to-SQL Generation
+25 16:00--17:20 # Reasoning Over Paths via Knowledge Base Completion
+26 16:00--17:20 # Node Embeddings for Graph Merging: Case of Knowledge Graph Construction
+27 16:00--17:20 # DBee: A Database for Creating and Managing Knowledge Graphs and Embeddings
+31 16:00--17:20 # A Simple and Strong Baseline for Scientific Relation Extraction using Constituency-based Text Network
++ 17:20--17:30 Closing Remarks
