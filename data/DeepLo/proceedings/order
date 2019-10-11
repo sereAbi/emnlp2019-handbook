@@ -1,55 +1,55 @@
 + 7:30--8:50 Breakfast
 + 8:50--9:00 Opening Remarks
 + 9:00--9:45 Invited Talk 1: Heng Ji
-= 9:45--10:30 Poster Session 1
-45   # A Closer Look At Feature Space Data Augmentation For Few-Shot Intent Classification
-77   # A Comparative Analysis of Unsupervised Language Adaptation Methods
-7   # A logical-based corpus for cross-lingual evaluation
-49   # Adaptively Scheduled Multitask Learning: The Case of Low-Resource Neural Machine Translation
-46   # Bad Form: Comparing Context-Based and Form-Based Few-Shot Learning in Distributional Semantic Models
-62   # Bag-of-Words Transfer: Non-Contextual Techniques for Multi-Task Learning
-79   # BERT is Not an Interlingua and the Bias of Tokenization
-54   # Building Bilingual Pre-trained Models In A Day
-17   # Byte-Pair encoding for text-to-SQL generation
-12   # Cross-lingual Joint Entity and Word Embedding to Improve Entity Linking and Parallel Sentence Mining
-9   # Deep Bidirectional Transformers for Relation Extraction without Supervision
-26   # Domain Adaptation with BERT-based Domain Classification and Data Selection
-48   # Empirical Evaluation of Active Learning Techniques for Neural MT
-64   # Fast Domain Adaptation of Semantic Parsers via Paraphrase Attention
-10   # Few-Shot and Zero-Shot Learning for Historical Text Normalization
-32   # From Monolingual to Multilingual FAQ Assistant using Multilingual Co-training
-66   # Generation-Distillation for Efficient Natural Language Understanding in Low-Data Settings
-13   # H-FND: Hierarchical False-Negative Denoising for Robust Distantly-Supervised Relation Extraction
++ 9:45--10:30 Poster Session 1
+45 # A Closer Look At Feature Space Data Augmentation For Few-Shot Intent Classification
+77 # A Comparative Analysis of Unsupervised Language Adaptation Methods
+7 # A logical-based corpus for cross-lingual evaluation
+49 # Adaptively Scheduled Multitask Learning: The Case of Low-Resource Neural Machine Translation
+46 # Bad Form: Comparing Context-Based and Form-Based Few-Shot Learning in Distributional Semantic Models
+62 # Bag-of-Words Transfer: Non-Contextual Techniques for Multi-Task Learning
+79 # BERT is Not an Interlingua and the Bias of Tokenization
+54 # Building Bilingual Pre-trained Models In A Day
+17 # Byte-Pair encoding for text-to-SQL generation
+12 # Cross-lingual Joint Entity and Word Embedding to Improve Entity Linking and Parallel Sentence Mining
+9 # Deep Bidirectional Transformers for Relation Extraction without Supervision
+26 # Domain Adaptation with BERT-based Domain Classification and Data Selection
+48 # Empirical Evaluation of Active Learning Techniques for Neural MT
+64 # Fast Domain Adaptation of Semantic Parsers via Paraphrase Attention
+10 # Few-Shot and Zero-Shot Learning for Historical Text Normalization
+32 # From Monolingual to Multilingual FAQ Assistant using Multilingual Co-training
+66 # Generation-Distillation for Efficient Natural Language Understanding in Low-Data Settings
+13 # H-FND: Hierarchical False-Negative Denoising for Robust Distantly-Supervised Relation Extraction
 + 10:30--11:00 Break
 + 11:00--11:45 Invited Talk 2: Barbara Plank
-= 11:45--12:30 Contributed Talks
+=Contributed Talks
 25 11:45--12:00  # Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual
 63 12:00--12:15  # Metric Learning for Low Resource Dynamic Text Classification
 28 12:15--12:30  # Evaluating Sparse Networks Under Distributional Shifts
 + 12:30--14:00 Lunch Break
 + 14:00--14:45 Invited Talk 3: Dan Roth
-= 14:45--15:30 Poster Session 2
-60   # Improving? Annotation Projection with Polyglot Training
-#28  # NOTE: PAPER PRESENT MORE THAN ONCE IN THE SCHEDULE  # Evaluating Sparse Networks Under Distributional Shifts
-67   # Inject Rubrics into Short Answer Grading System
-14   # Instance-based Inductive Deep Transfer Learning by Cross-DatasetQuerying with Locality Sensitive Hashing
-#63  # NOTE: PAPER PRESENT MORE THAN ONCE IN THE SCHEDULE  # Metric Learning for Low Resource Dynamic Text Classification
-53   # Multimodal, Multilingual Grapheme-to-Phoneme Conversion for Low-Resource Languages
-52   # Natural Language Generation for Effective Knowledge Distillation
-34   # Neural Rule Grounding for Low-Resource Relation Extraction
-42   # Neural Unsupervised Parsing Beyond English
-59   # Pseudolikelihood Reranking with Masked Language Models
-19   # Reevaluating Argument Component Extraction in Low Resource Settings
-41   # Reinforcement-based denoising of distantly supervised NER with partial annotation
-39   # Samvaadhana : A Telugu Dialogue System in Hospital Domain
-50   # Towards Zero-resource Cross-lingual Entity Linking
-8   # Transductive Auxiliary Task Self-Training for Neural Multi-Task Models
-#25  # NOTE: PAPER PRESENT MORE THAN ONCE IN THE SCHEDULE  # Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual
-35   # Weakly Supervised Attentional Model for Low Resource Ad-hoc Cross-lingual Information Retrieval
-38   # X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension
-55   # XLDA: Cross-Lingual Data Augmentation for Natural Language Inference and Question Answering
-4   # Zero-Shot Cross-lingual Name Retrieval for Low-Resource Languages
-51   # Zero-shot Dependency Parsing with Pre-trained Multilingual Sentence Representations
++ 14:45--15:30 Poster Session 2
+60 # Improving? Annotation Projection with Polyglot Training
+28 # Evaluating Sparse Networks Under Distributional Shifts
+67 # Inject Rubrics into Short Answer Grading System
+14 # Instance-based Inductive Deep Transfer Learning by Cross-DatasetQuerying with Locality Sensitive Hashing
+63 # Metric Learning for Low Resource Dynamic Text Classification
+53 # Multimodal, Multilingual Grapheme-to-Phoneme Conversion for Low-Resource Languages
+52 # Natural Language Generation for Effective Knowledge Distillation
+34 # Neural Rule Grounding for Low-Resource Relation Extraction
+42 # Neural Unsupervised Parsing Beyond English
+59 # Pseudolikelihood Reranking with Masked Language Models
+19 # Reevaluating Argument Component Extraction in Low Resource Settings
+41 # Reinforcement-based denoising of distantly supervised NER with partial annotation
+39 # Samvaadhana : A Telugu Dialogue System in Hospital Domain
+50 # Towards Zero-resource Cross-lingual Entity Linking
+8 # Transductive Auxiliary Task Self-Training for Neural Multi-Task Models
+25 # Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual
+35 # Weakly Supervised Attentional Model for Low Resource Ad-hoc Cross-lingual Information Retrieval
+38 # X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension
+55 # XLDA: Cross-Lingual Data Augmentation for Natural Language Inference and Question Answering
+4 # Zero-Shot Cross-lingual Name Retrieval for Low-Resource Languages
+51 # Zero-shot Dependency Parsing with Pre-trained Multilingual Sentence Representations
 + 15:30--16:00 Break
 + 16:00--16:45 Invited Talk 4: Kristina Toutanova
 + 16:45--17:30 Invited Talk 5: Luke Zettlemoyer

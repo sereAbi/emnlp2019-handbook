@@ -1,22 +1,22 @@
-+ 09:00 - 09:10 Opening
-+ 10:30 - 11:00 Coffee Break
-+ 12:30 - 14:00 Lunch Break
-+ 15:30 - 16:00 Coffee Break
-+ 17:20 - 17:40 Discussion
-= Poster Presentations
++ 09:00--09:10 Opening
++ 10:30--11:00 Coffee Break
++ 12:30--14:00 Lunch Break
++ 15:30--16:00 Coffee Break
++ 17:20--17:40 Discussion
+=Poster Presentations
 9  12:20--14:00 # RACAI’s System at PharmaCoNER 2019
 34 12:20--14:00 # Transfer Learning in Biomedical Named Entity Recognition: An Evaluation of BERT in the PharmaCoNER task
 22 12:20--14:00 # A Multi-Task Learning Framework for Extracting Bacteria Biotope Information
 20 12:20--14:00 # YNU-junyi in BioNLP-OST 2019 Using CNN-LSTM model and kinds of Embeddings for SeeDev Binary Event Extraction
 1  12:20--14:00 # Using Snomed to recognize and index chemical and drug mentions
-= Session 1: PharmCoNER
+=Session 1: PharmCoNER
 38 09:10--09:30 # PharmaCoNER: Pharmacological Substances, Compounds and proteins Named Entity Recognition track
 2  09:30--09:40 # When Specialization Helps: Using Pooled Contextualized Embeddings to Detect Chemical and Biomedical Entities in Spanish
 3  09:40--09:50 # VSP at PharmaCoNER 2019: Recognition of Pharmacological Substances, Compounds and Proteins with Recurrent Neural Networks in Spanish Clinical Cases
 4  09:50--10:00 # IxaMed at PharmacoNER Challenge 2019
 5  10:00--10:10 # NLNDE: Enhancing Neural Sequence Taggers with Attention and Noisy Channel for Robust Pharmacological Entity Detection
 7  10:10--10:20 # A Deep Learning-Based System for PharmaCoNER
-= Session 2: PharmCoNER and AGAC
+=Session 2: PharmCoNER and AGAC
 6  11:00--11:10 # Deep neural model with enhanced embeddings for pharmaceutical and chemical entities recognition in Spanish clinical text
 31 11:10--11:20 # A Pipeline Modeling of Contextual Deep Exhaustive Approach for Entity Recognition and Concept Indexing
 23 11:20--11:30 # Biomedical Named Entity Recognition with Multilingual BERT
@@ -24,14 +24,14 @@
 15 11:50--12:00 # Trigger Word Detection and Thematic Role Identification via BERT and Multitask Learning
 29 12:00--12:10 # DeepGeneMD: A Joint Deep Learning Model for Extracting Gene Mutation-Disease Knowledge from PubMed Literature
 13 12:10--12:20 # Biomedical relation extraction with pre-trained language representations and minimal task-specific architecture
-= Session 3: BB and SeeDev
+=Session 3: BB and SeeDev
 17 14:00--14:20 # Bacteria Biotope at BioNLP Open Shared Tasks 2019
 35 14:20--14:40 # Linguistically Informed Relation Extraction and Neural Architectures for Nested Named Entity Recognition in BioNLP-OST 2019
 12 14:40--14:50 # An ensemble CNN method for biomedical entity normalization
 37 14:50--15:00 # BOUN-ISIK Participation: An Unsupervised Approach for the Named Entity Normalization and Relation Extraction of Bacteria Biotopes
 28 15:00--15:10 # Bacteria Biotope Relation Extraction via Lexical Chains and Dependency Graphs
 33 15:10--15:20 # Integration of Deep Learning and Traditional Machine Learning for Knowledge Extraction from Biomedical Literature
-= Session 4: CRAFT and RDoC
+=Session 4: CRAFT and RDoC
 30 16:00--16:20 # CRAFT Shared Tasks 2019 Overview --- Integrated Structure, Semantics, and Coreference
 26 16:20--16:30 # UZH@CRAFT-ST: a Sequence-labeling Approach to Concept Recognition
 27 16:30--16:40 # Coreference Resolution in Full Text Articles with BERT and Syntax-based Mention Filtering

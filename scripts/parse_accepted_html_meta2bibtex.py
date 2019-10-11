@@ -24,10 +24,11 @@ try:
 except FileExistsError:
     pass
 
-try:
-    os.makedirs('auto/abstracts')
-except FileExistsError:
-    pass
+if tag == 'papers' or tag == 'demos':
+    try:
+        os.makedirs('auto/abstracts')
+    except FileExistsError:
+        pass
     
 metadata = []
 
