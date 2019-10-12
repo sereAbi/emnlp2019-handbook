@@ -1,52 +1,39 @@
-NLP4IF 2019, November 4, 2019
-*******************************************************
-+ 9:00-9:10 Opening
-+ 9:10-10:40 Presentations
-+ 10:30-11:00 Coffee Break
-+ 11:00-12:40 Presentations
-+ 12:40-14:00 Lunch
-+ 14:00-15:00 Invited Talk
-+ 15:00-15:30 Coffee Break
-+ 15:30-17:00 Poster Presentations
-********************************************************
-	9:00-9:10 	    Opening
-#4 	9:10-9:30 		# Assessing Post Deletion in Sina Weibo: Multi-modal Classification of Hot Topics 
-#12	9:30-9:50 		# Calls to Action on Social Media: Detection, Social Impact, and Censorship Potential 
-#11 	9:50-10:10 		# Identifying Nuances in Fake News vs. Satire: Using Semantic and Linguistic Cues 
-#13	10:10-10:30  		# Identifying Perspectives in Online News using Weakly Supervised Generative Models
-	10:30-11:00       Coffee Break
-#16	11:00-11:20   		# Generating Sentential Arguments from Diverse Perspectives on Controversial Topic 
-#18 	11:20-11:40		# Unraveling the Search Space of Abusive Language in Wikipedia with Dynamic Lexicon Acquisition 
-	11:40-12:00   		# Findings of the NLP4IF-2019 Shared Task On Fine-grained Propaganda Detection (Shared Task Organizers)
-#25 	12:00-12:20  		# Divisive Language and Propaganda Detection using Multi-head Attention Transformers with Deep Learning 
-			  	  BERT-based Language Models for Binary Classification
-#20 	12:20-12:40		# Fine-Grained Propaganda Detection with Fine-Tuned BERT
-	12:40-14:00 	   Lunch Break
-	14:00-15:00 	   Invited Talk: Elissa Redmiles (Princeton University/Microsoft) Title: TBA
-	15:00-15:30   	   Coffee  Break
-	15:30-17:00   Poster  Presentations:
+# Monday, November 4th, 2019
++ 9:00--9:10 Opening
+=Presentations
+4 9:10--9:30  # Assessing Post Deletion in Sina Weibo: Multi-modal Classification of Hot Topics 
+12 9:30--9:50  # Calls to Action on Social Media: Detection, Social Impact, and Censorship Potential 
+11 9:50--10:10  # Identifying Nuances in Fake News vs. Satire: Using Semantic and Linguistic Cues 
+13 10:10--10:30  # Identifying Perspectives in Online News using Weakly Supervised Generative Models
++ 10:30--11:00 Coffee Break
+=Presentations
+16 11:00--11:20 # Generating Sentential Arguments from Diverse Perspectives on Controversial Topic 
+18 11:20--11:40 # Unraveling the Search Space of Abusive Language in Wikipedia with Dynamic Lexicon Acquisition 
++ 11:40--12:00 # Findings of the NLP4IF-2019 Shared Task On Fine-grained Propaganda Detection (Shared Task Organizers)
+25 12:00--12:20 # Divisive Language and Propaganda Detection using Multi-head Attention Transformers with Deep Learning BERT-based Language Models for Binary Classification
+20 12:20--12:40 # Fine-Grained Propaganda Detection with Fine-Tuned BERT
 
-					#7 Detecting context abusiveness using hierarchical deep learning
-					#8 How Many Users Are Enough? Exploring Semi-Supervision and Stylometric Features to 
-				       Uncover a Russian Troll Farm 
-					#14 Mapping (Dis-)Information Flow about the MH17 Plane Crash 
-					#15 Towards Healthy Social Media Conversation in Low-Resource Languages 
-					#17 Rumor Detection on Social Media: Datasets, Methods and Opportunities 
-					#19 CAUnLP at NLP4IF 2019 Shared Task: Context-Dependent BERT for Sentence-Level 
-				        Propaganda Detection 
-					#21 Neural Architectures for Fine-Grained Propaganda Detection in News 
-					#22 Fine-Tuned Neural Models for Propaganda Detection at the Sentence and Fragment levels
-					#26 On Sentence Representations for Propaganda Detection: From Handcrafted Features to 
-				        Word Embeddings 
-					#27 JUSTDeep at NLP4IF 2019 Task 1: Propaganda Detection using Ensemble Deep Learning Models 
-					#28 Detection of Propaganda Using Logistic Regression 
-					#29 Cost-Sensitive BERT for Generalisable Sentence Classification on Imbalanced Data 
-					#30 Understanding BERT performance in propaganda analysis
-					#31 Pretrained Ensemble Learning for Fine-Grained Propaganda Detection
-					#32 NSIT@NLP4IF-2019: Propaganda Detection from News Articles using Transfer Learning 
-					#33 Sentence-Level Propaganda Detection in News Articles with Transfer Learning and 
-				        BERT-BiLSTM-Capsule Model 
-					#34 Synthetic Propaganda Embeddings To Train A Linear Projection 
++ 12:40--14:00 Lunch
++ 14:00--15:00 Invited Talk: Elissa Redmiles (Princeton University/Microsoft)
++ 15:00--15:30 Coffee Break
++ 15:30--17:00 Poster Presentations
+7 # Detecting context abusiveness using hierarchical deep learning
+8 # How Many Users Are Enough? Exploring Semi-Supervision and Stylometric Features to Uncover a Russian Troll Farm 
+14 # Mapping (Dis-)Information Flow about the MH17 Plane Crash 
+15 # Towards Healthy Social Media Conversation in Low-Resource Languages 
+17 # Rumor Detection on Social Media: Datasets, Methods and Opportunities 
+19 # CAUnLP at NLP4IF 2019 Shared Task: Context-Dependent BERT for Sentence-Level Propaganda Detection 
+21 # Neural Architectures for Fine-Grained Propaganda Detection in News 
+22 # Fine-Tuned Neural Models for Propaganda Detection at the Sentence and Fragment levels
+26 # On Sentence Representations for Propaganda Detection: From Handcrafted Features to Word Embeddings 
+27 # JUSTDeep at NLP4IF 2019 Task 1: Propaganda Detection using Ensemble Deep Learning Models 
+28 # Detection of Propaganda Using Logistic Regression 
+29 # Cost-Sensitive BERT for Generalisable Sentence Classification on Imbalanced Data 
+30 # Understanding BERT performance in propaganda analysis
+31 # Pretrained Ensemble Learning for Fine-Grained Propaganda Detection
+32 # NSIT@NLP4IF-2019: Propaganda Detection from News Articles using Transfer Learning 
+33 # Sentence-Level Propaganda Detection in News Articles with Transfer Learning and BERT-BiLSTM-Capsule Model 
+34 # Synthetic Propaganda Embeddings To Train A Linear Projection 
 
 
 

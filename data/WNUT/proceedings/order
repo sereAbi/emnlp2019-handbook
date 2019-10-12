@@ -1,19 +1,19 @@
-* Monday, November, 4, 2019
-= 9:00--9:05 Opening # 
-= 9:05--9:50 Invited Talk: Isabelle Augenstein
-= 9:50--10:35 Oral Session I
+# Monday, November 4th, 2019
++ 9:00--9:05 Opening  
++ 9:05--9:50 Invited Talk: Isabelle Augenstein
+=Oral Session I
 11 9:50--10:05  # Weakly Supervised Attention Networks for Fine-Grained Opinion Mining and Public Health
 78 10:05--10:20  # Formality Style Transfer for Noisy, User-generated Conversations: Extracting Labeled, Parallel Data from Unlabeled Corpora
 23 10:20--10:35  # Multilingual Whispers: Generating Paraphrases with Translation
-= 10:35--11:00 Coffee Break
-= 11:00--12:15 Oral Session II
++ 10:35--11:00 Coffee Break
+=Oral Session II
 76 11:00--11:15  # Personalizing Grammatical Error Correction: Adaptation to Proficiency Level and L1
 98 11:15--11:30  # Exploiting BERT for End-to-End Aspect-based Sentiment Analysis
 49 11:30--11:45  # Training on Synthetic Noise Improves Robustness to Natural Noise in Machine Translation
 72 11:45--12:00  # Character-Based Models for Adversarial Phone Extraction: Preventing Human Sex Trafficking
 81 12:00--12:15  # Tkol, Httt, and r/radiohead: High Affinity Terms in Reddit Communities
-= 12:30--2:00 Lunch
-= 2:00--3:00 Lightning Talks
++ 12:30--14:00 Lunch
++ 14:00--15:00 Lightning Talks
 3   # Large Scale Question Paraphrase Retrieval with Smoothed Deep Metric Learning
 4   # Hey Siri. Ok Google. Alexa: A topic modeling of user reviews for smart speakers
 5   # Predicting Algorithm Classes for Programming Word Problems
@@ -65,7 +65,7 @@
 16   # Simple Discovery of Aliases from User Comments
 44   # Towards Actual (Not Operational) Textual Style Transfer Auto-Evaluation
 47   # CodeSwitch-Reddit: Exploration of Written Multilingual Discourse in Online Discussion Forums
-= 3:00--4:30 Poster Session (all papers above)
-= 4:30--4:55 Coffee Break
-= 5:00--5:45 Invited Talk: Jing Jiang
-= 5:45--6:00 Closing and Best Paper Awards
++ 15:00--16:30 Poster Session (all papers above)
++ 16:30--16:55 Coffee Break
++ 17:00--17:45 Invited Talk: Jing Jiang
++ 17:45--18:00 Closing and Best Paper Awards

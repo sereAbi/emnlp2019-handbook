@@ -1,18 +1,18 @@
 + 9:00--9:35 Invited talk I: Antoine Bordes
 + 9:35--10:10 Invited talk II: Matt Gardner
-= Best paper session I
+=Best paper session I
 44 10:10--10:30 # Multi-step Entity-centric Information Retrieval for Multi-Hop Question Answering
 + 10:30--11:00 Coffee break
 + 11:00--11:35 Invited talk III: Jordan Boyd-Graber
 + 11:35--12:10 Shared task overview
-= Shared task best system session
+=Shared task best system session
 64 12:10--12:30 # D-NET: A Pre-Training and Fine-Tuning Framework for Improving the Generalization of Machine Reading Comprehension
 + 12:30--14:00 Lunch break
-= Best paper session II
-45 14:00-14:20 # Evaluating Question Answering Evaluation
+=Best paper session II
+45 14:00--14:20 # Evaluating Question Answering Evaluation
 + 14:20--14:55 Invited talk IV: Mohit Bansal
 + 14:55--15:30 Poster lightning talks
-= Poster session
+=Poster session
 3 15:30--16:30 # Inspecting Unification of Encoding and Matching with Transformer: A Case Study of Machine Reading Comprehension
 6 15:30--16:30 # CALOR-QUEST : generating a training corpus for Machine Reading Comprehension models from shallow semantic annotations
 14 15:30--16:30 # Improving Subject-Area Question Answering with External Knowledge

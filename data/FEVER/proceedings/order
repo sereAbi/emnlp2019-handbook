@@ -1,21 +1,21 @@
-* 3rd November
-! 0900--0915 Opening Remarks %by FEVER Organizers
-! 0915--1000 Invited Talk %by Sameer Singh
-= 1000--1030 Research Talks
-13 1000--1015  # Fact Checking or Psycholinguistics: How to Distinguish Fake and True Claims?
-26 1015--1030  # Neural Multi-Task Learning for Stance Prediction
-+ 1030--1100 Coffee Break
-! 1100--1145 Invited Talk %by Emine Yilmaz
-= 1145--1200 Research Talks
-9 1145--1200  # Towards a Positive Feedback between the Wikimedia Ecosystem and Machine Learning Fact Verification
-= 1200--1230 FEVER2.0 Shared Task
-27 1200--1210  # The FEVER2.0 Shared Task
-24 1210--1220  # GEM: Generative Enhanced Model for adversarial attacks
-21 1220--1230  # Cure My FEVER : Building, Breaking and Fixing Models for Fact-Checking
-+ 1230--1400 Lunch Break
-! 1400--1445 Invited Talk %by William Wang
-! 1445--1530 Invited Talk %by David Corney
-= 1530--1630 Research Poster Session + Coffee
+# Sunday, November 3rd, 2019
++ 09:00--09:15 Opening Remarks %by FEVER Organizers
++ 09:15--10:00 Invited Talk %by Sameer Singh
+=Research Talks
+13 10:00--10:15  # Fact Checking or Psycholinguistics: How to Distinguish Fake and True Claims?
+26 10:15--10:30  # Neural Multi-Task Learning for Stance Prediction
++ 10:30--11:00 Coffee Break
++ 11:00--11:45 Invited Talk %by Emine Yilmaz
+=Research Talks
+9 11:45--12:00  # Towards a Positive Feedback between the Wikimedia Ecosystem and Machine Learning Fact Verification
+=FEVER2.0 Shared Task
+27 12:00--12:10  # The FEVER2.0 Shared Task
+24 12:10--12:20  # GEM: Generative Enhanced Model for adversarial attacks
+21 12:20--12:30  # Cure My FEVER : Building, Breaking and Fixing Models for Fact-Checking
++ 12:30--14:00 Lunch Break
++ 14:00--14:45 Invited Talk %by William Wang
++ 14:45--15:30 Invited Talk %by David Corney
++ 15:30--16:30 Research Poster Session + Coffee
 4   # Aligning Multilingual Word Embeddings for Cross-Modal Retrieval Task
 5   # Unsupervised Natural Question Answering with a Small Model
 6   # Scalable Knowledge Graph Construction from Text Collections
@@ -26,9 +26,9 @@
 16   # Extract and Aggregate: A Novel Domain-Independent Approach to Factual Data Verification
 23   # Interactive Evidence Detection: train state-of-the-art model out-of-domain or simple model interactively?
 28   # Veritas Annotator: Discovering the Origin of a Rumour
-= 1530--1630 Shared Task Poster Session + Coffee
++ 15:30--16:30 Shared Task Poster Session + Coffee
 19   # FEVER Breaker___s Run of Team NbAuzDrLqg
 25   # Team DOMLIN: Exploiting Evidence Enhancement for the FEVER Shared Task
 29   # Team GPLSI. Approach for automated fact checking
-! 1630--1715 Invited Talk %by Hoifung Poon
-! 1715--1730 Closing Remarks %by FEVER Organizers
++ 16:30--17:15 Invited Talk %by Hoifung Poon
++ 17:15--17:30 Closing Remarks %by FEVER Organizers

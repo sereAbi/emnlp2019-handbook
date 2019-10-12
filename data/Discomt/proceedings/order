@@ -1,14 +1,14 @@
-* Sunday, November 3, 2019
+# Sunday, November 3, 2019
 + 9:00--9:05 Welcome
-= 9:05--9:50 Session 1: Keynote Talk 1 # %room Room 202
+=Session 1: Keynote Talk 1 # %room Room 202
 ! 9:05--9:50 Document-level Machine Translation: the Current State and the Challenges %by Professor Qun Liu, Noah's Ark Lab, Huawei
-= 9:50--10:30 Session 2: Poster Spotlights # %room Room 202
+=Session 2: Poster Spotlights # %room Room 202
 + 10:30--11:00 Coffee Break
-= 11:00--12:30 Session 3: Posters # %room Hall 2A
-5   # Analysing Coreference in Transformer Outputs
-6   # Context-Aware Neural Machine Translation Decoding
-8   # When and Why is Document-level Context Useful in Neural Machine Translation?
-12   # Data augmentation using back-translation for context-aware neural machine translation
-13   # Context-aware Neural Machine Translation with Coreference Information
-15   # Analysing concatenation approaches to document-level NMT in two different domains
-+  Additional invited posters from the main conference
++ 11:00--12:30 Poster Session / Additional invited posters from the main conference# %room Hall 2A
+5 # Analysing Coreference in Transformer Outputs
+6 # Context-Aware Neural Machine Translation Decoding
+8 # When and Why is Document-level Context Useful in Neural Machine Translation?
+12 # Data augmentation using back-translation for context-aware neural machine translation
+13 # Context-aware Neural Machine Translation with Coreference Information
+15 # Analysing concatenation approaches to document-level NMT in two different domains
+
