@@ -1,25 +1,24 @@
-* Sunday, November 3, 2019
-! 8:45--9:00 Opening session %by Aline Villavicencio and Mohit Bansal
-= 9:00--10:30 Session 1
+# Sunday, November 3rd, 2019
++ 8:45--9:00 Opening session %by Aline Villavicencio and Mohit Bansal
+=Session 1
 347 9:00--9:15  # Analysing Neural Language Models: Contextual Decomposition Reveals Default Reasoning in Number and Gender Assignment
 305 9:15--9:30  # Deconstructing Supertagging into Multi-task Sequence Prediction
 256 9:30--9:45  # Multilingual Model Using Cross-task Embedding Projection
 378 9:45--10:00  # Investigating Cross-lingual Alignment Methods for Contextualized Embeddings with Token-level Evaluation
 341 10:00--10:15  # Large-scale, Diverse, Paraphrastic Bitexts via Sampling and Clustering
 296 10:15--10:30  # Large-scale Representation Learning from Visually Grounded Untranscribed Speech
-= 10:30--11:00 Coffee Break
-= 11:00--12:00 Invited Speaker
-! 11:00--12:00 Invited Talk %by Gabriella Vigliocco
-= 12:00--12:30 Session 2
++ 10:30--11:00 Coffee Break
++ 11:00--12:00 11:00--12:00 Invited Talk %by Gabriella Vigliocco
+=Session 2
 285 12:00--12:15  # Using Priming to Uncover the Organization of Syntactic Representations in Neural Language Models
 283 12:15--12:30  # Say Anything: Automatic Semantic Infelicity Detection in L2 English Indefinite Pronouns
-= 12:30--14:00 Lunch
-= 14:00--15:30 CoNLL 2019 Shared Task: Cross-Framework Meaning Representation Parsing (MRP 2019)
-= 15:30--16:00 Coffee Break
-= 16:00--16:30 Session 3
++ 12:30--14:00 Lunch
++ 14:00--15:30 CoNLL 2019 Shared Task: Cross-Framework Meaning Representation Parsing (MRP 2019)
++ 15:30--16:00 Coffee Break
+=Session 3
 308 16:00--16:15  # Compositional Generalization in Image Captioning
 37 16:15--16:30  # Representing Movie Characters in Dialogues
-= 16:30--18:00 Poster Session 1
++ 16:30--18:00 Poster Session 1
 88 16:30--18:00  # Cross-lingual Word Embeddings and the Structure of the Human Bilingual Lexicon
 169 16:30--18:00  # Federated Learning of N-gram Language Models
 307 16:30--18:00  # Learning Conceptual Spaces with Disentangled Facets
@@ -44,9 +43,9 @@
 119 16:30--18:00  # Word Recognition, Competition, and Activation in a Model of Visually Grounded Speech
 381 16:30--18:00  # EQUATE : A Benchmark Evaluation Framework for Quantitative Reasoning in Natural Language Inference
 368 16:30--18:00  # Linguistic Analysis Improves Neural Metaphor Detection
-= 18:00--18:30 Reception
-* Monday, November 4, 2019
-= 8:45--10:30 Session 4
++ 18:00--18:30 Reception
+# Monday, November 4, 2019
+=Session 4
 366 8:45--9:00  # Cross-lingual Dependency Parsing with Unlabeled Auxiliary Languages
 413 9:00--9:15  # A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification
 359 9:15--9:30  # Mimic and Rephrase: Reflective Listening in Open-ended Dialogue
@@ -54,25 +53,24 @@
 102 9:45--10:00  # A Case Study on Combining ASR and Visual Features for Generating Instructional Video Captions
 301 10:00--10:15  # Leveraging past References for Robust Language Grounding
 48 10:15--10:30  # Procedural Reasoning Networks for Understanding Multimodal Procedures
-= 10:30--11:00 Coffee Break
-= 11:00--12:00 Invited Speaker
-! 11:00--12:00 Invited Talk %by Chris Manning
-= 12:00--12:30 Session 5
++ 10:30--11:00 Coffee Break
++ 11:00--12:00 Invited Talk %by Chris Manning
+=Session 5
 411 12:00--12:15  # On the Limits of Learning to Actively Learn Semantic Representations
 171 12:15--12:30  # How Does Grammatical Gender Affect Noun Representations in Gender-Marking Languages?
-= 12:30--14:00 Best Paper Awards and Community Business Meeting
-= 14:00--15:30 Session 6
++ 12:30--14:00 Best Paper Awards and Community Business Meeting
+=Session 6
 172 14:00--14:15  # Active Learning via Membership Query Synthesis for Semi-supervised Sentence Classification
 233 14:15--14:30  # A General-Purpose Algorithm for Constrained Sequential Inference
 124 14:30--14:45  # A Richly Annotated Corpus for Different Tasks in Automated Fact-Checking
 327 14:45--15:00  # Detecting Frames in News Headlines and Its Application to Analyzing News Framing Trends Surrounding U.S. Gun Violence
 45 15:00--15:15  # Learning a Unified Named Entity Tagger from Multiple Partially Annotated Corpora for Efficient Adaptation
 376 15:15--15:30  # Learning Dense Representations for Entity Retrieval
-= 15:30--16:00 Coffee Break
-= 16:00--16:30 Session 7
++ 15:30--16:00 Coffee Break
+=Session 7
 138 16:00--16:15  # CogniVal: A Framework for Cognitive Word Embedding Evaluation
 97 16:15--16:30  # KnowSemLM: A Knowledge Infused Semantic Language Model
-= 16:00--18:00 Poster Session 2
++ 16:00--18:00 Poster Session 2
 19 16:00--18:00  # Neural Attentive Bag-of-Entities Model for Text Classification
 131 16:00--18:00  # Roll Call Vote Prediction with Knowledge Augmented Models
 142 16:00--18:00  # BeamSeg: A Joint Model for Multi-Document Segmentation and Topic Identification
