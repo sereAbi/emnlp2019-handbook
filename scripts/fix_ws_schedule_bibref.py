@@ -12,7 +12,7 @@ for root, subd, files in os.walk('auto'):
                         if re.search('wspaperentry', line):
                             name = line.split('wspaperentry')[1]
                             ws, id_ = name.replace('{', '').replace('}', '').split('-')
-                            newname = '{{ {}-{} }}'.format(ws, int(id_))
+                            newname = '{{{}-{}}}'.format(ws.strip(), int(id_))
                             out.write(line.replace(name, newname) + '\n')
                         else:
                             out.write(line)
