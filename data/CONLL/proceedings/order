@@ -1,0 +1,121 @@
+* Sunday, November 3, 2019
+! 8:45--9:00 Opening session %by Aline Villavicencio and Mohit Bansal
+= 9:00--10:30 Session 1
+347 9:00--9:15  # Analysing Neural Language Models: Contextual Decomposition Reveals Default Reasoning in Number and Gender Assignment
+305 9:15--9:30  # Deconstructing Supertagging into Multi-task Sequence Prediction
+256 9:30--9:45  # Multilingual Model Using Cross-task Embedding Projection
+378 9:45--10:00  # Investigating Cross-lingual Alignment Methods for Contextualized Embeddings with Token-level Evaluation
+341 10:00--10:15  # Large-scale, Diverse, Paraphrastic Bitexts via Sampling and Clustering
+296 10:15--10:30  # Large-scale Representation Learning from Visually Grounded Untranscribed Speech
+= 10:30--11:00 Coffee Break
+= 11:00--12:00 Invited Speaker
+! 11:00--12:00 Invited Talk %by Gabriella Vigliocco
+= 12:00--12:30 Session 2
+285 12:00--12:15  # Using Priming to Uncover the Organization of Syntactic Representations in Neural Language Models
+283 12:15--12:30  # Say Anything: Automatic Semantic Infelicity Detection in L2 English Indefinite Pronouns
+= 12:30--14:00 Lunch
+= 14:00--15:30 CoNLL 2019 Shared Task: Cross-Framework Meaning Representation Parsing (MRP 2019)
+= 15:30--16:00 Coffee Break
+= 16:00--16:30 Session 3
+308 16:00--16:15  # Compositional Generalization in Image Captioning
+37 16:15--16:30  # Representing Movie Characters in Dialogues
+= 16:30--18:00 Poster Session 1
+88 16:30--18:00  # Cross-lingual Word Embeddings and the Structure of the Human Bilingual Lexicon
+169 16:30--18:00  # Federated Learning of N-gram Language Models
+307 16:30--18:00  # Learning Conceptual Spaces with Disentangled Facets
+489 16:30--18:00  # A Linguist Reads the Output of the CoNLL-SIGMORPHON 2017 Shared Task
+69 16:30--18:00  # Learning to Represent Bilingual Dictionaries
+114 16:30--18:00  # Improving Natural Language Understanding by Reverse Mapping Bytepair Encoding
+122 16:30--18:00  # Made for Each Other: Broad-coverage Semantic Structures Meet Preposition Supersenses
+290 16:30--18:00  # Generating Timelines by Modeling Semantic Change
+324 16:30--18:00  # Diversify Your Datasets: Analyzing Generalization via Controlled Variance in Adversarial Datasets
+342 16:30--18:00  # Fully Unsupervised Crosslingual Semantic Textual Similarity Metric Based on BERT for Identifying Parallel Data
+132 16:30--18:00  # On the Importance of Subword Information for Morphological Tasks in Truly Low-Resource Languages
+361 16:30--18:00  # Comparing Top-down and Bottom-up Neural Generative Dependency Models
+447 16:30--18:00  # Representation Learning and Dynamic Programming for Arc-Hybrid Parsing
+280 16:30--18:00  # Policy Preference Detection in Parliamentary Debate Motions
+41 16:30--18:00  # Improving Neural Machine Translation by Achieving Knowledge Transfer with Sentence Alignment Learning
+82 16:30--18:00  # Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences
+186 16:30--18:00  # Unsupervised Neural Machine Translation with Future Rewarding
+187 16:30--18:00  # Automatically Extracting Challenge Sets for Non-local Phenomena in Neural Machine Translation
+197 16:30--18:00  # Low-Resource Parsing with Crosslingual Contextualized Representations
+10 16:30--18:00  # Improving Pre-Trained Multilingual Model with Vocabulary Expansion
+454 16:30--18:00  # On the Relation between Position Information and Sentence Length in Neural Machine Translation
+119 16:30--18:00  # Word Recognition, Competition, and Activation in a Model of Visually Grounded Speech
+381 16:30--18:00  # EQUATE : A Benchmark Evaluation Framework for Quantitative Reasoning in Natural Language Inference
+368 16:30--18:00  # Linguistic Analysis Improves Neural Metaphor Detection
+= 18:00--18:30 Reception
+* Monday, November 4, 2019
+= 8:45--10:30 Session 4
+366 8:45--9:00  # Cross-lingual Dependency Parsing with Unlabeled Auxiliary Languages
+413 9:00--9:15  # A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification
+359 9:15--9:30  # Mimic and Rephrase: Reflective Listening in Open-ended Dialogue
+328 9:30--9:45  # Automated Pyramid Summarization Evaluation
+102 9:45--10:00  # A Case Study on Combining ASR and Visual Features for Generating Instructional Video Captions
+301 10:00--10:15  # Leveraging past References for Robust Language Grounding
+48 10:15--10:30  # Procedural Reasoning Networks for Understanding Multimodal Procedures
+= 10:30--11:00 Coffee Break
+= 11:00--12:00 Invited Speaker
+! 11:00--12:00 Invited Talk %by Chris Manning
+= 12:00--12:30 Session 5
+411 12:00--12:15  # On the Limits of Learning to Actively Learn Semantic Representations
+171 12:15--12:30  # How Does Grammatical Gender Affect Noun Representations in Gender-Marking Languages?
+= 12:30--14:00 Best Paper Awards and Community Business Meeting
+= 14:00--15:30 Session 6
+172 14:00--14:15  # Active Learning via Membership Query Synthesis for Semi-supervised Sentence Classification
+233 14:15--14:30  # A General-Purpose Algorithm for Constrained Sequential Inference
+124 14:30--14:45  # A Richly Annotated Corpus for Different Tasks in Automated Fact-Checking
+327 14:45--15:00  # Detecting Frames in News Headlines and Its Application to Analyzing News Framing Trends Surrounding U.S. Gun Violence
+45 15:00--15:15  # Learning a Unified Named Entity Tagger from Multiple Partially Annotated Corpora for Efficient Adaptation
+376 15:15--15:30  # Learning Dense Representations for Entity Retrieval
+= 15:30--16:00 Coffee Break
+= 16:00--16:30 Session 7
+138 16:00--16:15  # CogniVal: A Framework for Cognitive Word Embedding Evaluation
+97 16:15--16:30  # KnowSemLM: A Knowledge Infused Semantic Language Model
+= 16:00--18:00 Poster Session 2
+19 16:00--18:00  # Neural Attentive Bag-of-Entities Model for Text Classification
+131 16:00--18:00  # Roll Call Vote Prediction with Knowledge Augmented Models
+142 16:00--18:00  # BeamSeg: A Joint Model for Multi-Document Segmentation and Topic Identification
+182 16:00--18:00  # MrMep: Joint Extraction of Multiple Relations and Multiple Entity Pairs Based on Triplet Attention
+185 16:00--18:00  # Effective Attention Modeling for Neural Relation Extraction
+215 16:00--18:00  # Exploiting the Entity Type Sequence to Benefit Event Detection
+255 16:00--18:00  # Named Entity Recognition - Is There a Glass Ceiling?
+282 16:00--18:00  # Low-rank Approximations of Second-order Document Representations
+319 16:00--18:00  # Named Entity Recognition with Partially Annotated Training Data
+338 16:00--18:00  # Contextualized Cross-Lingual Event Trigger Extraction with Minimal Resources
+416 16:00--18:00  # Deep Structured Neural Network for Event Temporal Relation Extraction
+463 16:00--18:00  # Investigating Entity Knowledge in BERT with Simple NeuralEnd-To-End Entity Linking
+279 16:00--18:00  # Unsupervised Adversarial Domain Adaptation for Implicit Discourse Relation Classification
+12 16:00--18:00  # Evidence Sentence Extraction for Machine Reading Comprehension
+35 16:00--18:00  # Similarity-based Vectors for Utterance Representation in Conversational AI Systems
+62 16:00--18:00  # Incorporating Interlocutor-Aware Context into Response Generation on Multi-Party Chatbots
+130 16:00--18:00  # Walk the Memory: Memory Graph Networks for Explainable Memory-grounded Question Answering
+200 16:00--18:00  # TripleNet: Triple Attention Network for Multi-Turn Response Selection in Retrieval-based Chatbots
+316 16:00--18:00  # Relation Module for Non-answerable Predictions on Reading Comprehension
+369 16:00--18:00  # Slot Tagging for Task Oriented Spoken Language Understanding in Human-to-human Conversation Scenarios
+461 16:00--18:00  # Window-Based Neural Tagging for Shallow Discourse Argument Labeling
+32 16:00--18:00  # Neural Language Models with Evolving Topical Influence
+83 16:00--18:00  # Pretraining-Based Natural Language Generation for Text Summarization
+154 16:00--18:00  # Goal-Embedded Dual Hierarchical Model for Task-Oriented Dialogue Generation
+167 16:00--18:00  # Putting the Horse before the Cart: A Generator-Evaluator Framework for Question Generation from Text
+170 16:00--18:00  # In Conclusion Not Repetition: Comprehensive Abstractive Summarization with Diversified Attention Based on Determinantal Point Processes
+206 16:00--18:00  # Generating Formality-tuned Summaries Using Input-dependent Rewards
+262 16:00--18:00  # Do Massively Pretrained Language Models Make Better Storytellers?
+43 16:00--18:00  # Self-Adaptive Scaling for Learnable Residual Structure
+63 16:00--18:00  # BIOfid Dataset: Publishing a German Gold Standard for Named Entity Recognition in Historical Biodiversity Literature
+81 16:00--18:00  # Slang Detection and Identification
+129 16:00--18:00  # Alleviating Sequence Information Loss with Data Overlapping and Prime Batch Sizes
+257 16:00--18:00  # Global Autoregressive Models for Data-Efficient Sequence Learning
+300 16:00--18:00  # Learning Analogy-Preserving Sentence Embeddings for Answer Selection
+402 16:00--18:00  # A Simple and Effective Method for Injecting Word-level Information into Character-aware Neural Language Models
+407 16:00--18:00  # On Model Stability as a Function of Random Seed
+473 16:00--18:00  # Studying Generalisability across Abusive Language Detection Datasets
+31 16:00--18:00  # Reduce & Attribute: Two-Step Authorship Attribution for Large-Scale Problems
+42 16:00--18:00  # Variational Semi-supervised Aspect-term Sentiment Analysis via Transformer
+181 16:00--18:00  # Learning to Detect Opinion Snippet for Aspect-Based Sentiment Analysis
+190 16:00--18:00  # Multi-Level Sentiment Analysis of PolEmo 2.0: Extended Corpus of Multi-Domain Consumer Reviews
+219 16:00--18:00  # A Personalized Sentiment Model with Textual and Contextual Information
+224 16:00--18:00  # Cluster-gated Convolutional Neural Network for Short Text Classification
+337 16:00--18:00  # Coherence-based Modeling of Clinical Concepts Inferred from Heterogeneous Clinical Notes for ICU Patient Risk Stratification
+401 16:00--18:00  # Understanding the Role of Political Trolls in Social Media
+464 16:00--18:00  # Towards a Unified End-to-End Approach for Fully Unsupervised Cross-lingual Sentiment Analysis
