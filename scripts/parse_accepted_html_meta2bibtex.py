@@ -33,7 +33,7 @@ if tag == 'papers' or tag == 'demos':
 metadata = []
 
 for fname in os.listdir('data/{}/proceedings/accepted'.format(tag)):
-    if fname == 'accepted.html':
+    if fname == 'accepted.html' or fname == 'data':
         continue
     else:
         id_ = int(os.path.splitext(fname)[0])
