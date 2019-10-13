@@ -1,0 +1,54 @@
++ 09:00--09:10	Welcome and Opening Remarks. Findings of the Third Workshop on Neural Generation and Translation.
++ 09:10--10:00	Keynote 1: Michael Auli
++ 10:00--10:30	Shared Task Overview
++ 10:30--10:40	Shared Task Oral Presentation
+= Poster Session (10:40--11:40)
+1 # Hello, It's GPT-2 - How Can I Help You? Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems
+6 # Recycling a Pre-trained BERT Encoder for Neural Machine Translation
+8 # Generating a Common Question from Multiple Documents using Multi-source Encoder-Decoder Models
+9 # Positional Encoding to Control Output Sequence Length
+10 # Attending to Future Tokens for Bidirectional Sequence Generation
+12 # Generating Diverse Story Continuations with Controllable Semantics
+13 # Domain Differential Adaptation for Neural Machine Translation
+14 # Transformer-based Model for Single Documents Neural Summarization
+15 # Making Asynchronous Stochastic Gradient Descent Work for Transformers
+16 # Controlled Text Generation for Data Augmentation in Intelligent Artificial Agents
+17 # Zero-Resource Neural Machine Translation with Monolingual Pivot Data
+19 # Two Birds, One Stone: A Simple, Unified Model for Text Generation from Structured and Unstructured Data
+21 # On the use of BERT for Neural Machine Translation
+23 # On the Importance of the Kullback-Leibler Divergence Term in Variational Autoencoders for Text Generation
+24 # Decomposing Textual Information For Style Transfer
+27 # Unsupervised Evaluation Metrics and Learning Criteria for Non-Parallel Textual Transfer
+29 # Enhanced Transformer Model for Data-to-Text Generation
+30 # Generalization in Generation: A closer look at Exposure Bias
+31 # Machine Translation of Restaurant Reviews: New Corpus for Domain Adaptation and Robustness
+40 # Improved Variational Neural Machine Translation via Promoting Mutual Information
+41 # Adaptively Scheduled Multitask Learning: The Case of Low-Resource Neural Machine Translation
+45 # Latent Relation Language Models
+46 # On the Importance of Word Boundaries in Character-level Neural Machine Translation
+48 # Big Bidirectional Insertion Representations for Documents
+49 # The Daunting Task of Actual (Not Operational) Textual Style Transfer Auto-Evaluation
+51 # A Margin-based Loss with Synthetic Negative Samples for Continuous-output Machine Translation
+52 # Context-Aware Learning for Neural Machine Translation
+54 # Mixed Multi-Head Self-Attention for Neural Machine Translation
+55 # Paraphrasing with Large Language Models
+57 # Interrogating the Explanatory Power of Attention in Neural Machine Translation
+59 # Insertion-Deletion Transformer
+60 # Auto-Sizing the Transformer Network: Improving Speed, Efficiency, and Performance for Low-Resource Machine Translation
+61 # Learning to Generate Word- and Phrase-Embeddings for Efficient Phrase-Based Neural Machine Translation
+62 # Transformer and seq2seq model for Paraphrase Generation
+63 # Multilingual KERMIT: It's Not Easy Being Generative
+69 # Monash University's Submissions to the WNGT 2019 Document Translation Task
+70 # SYSTRAN @ WNGT 2019: DGT Task
+71 # University of Edinburgh's submission to the Document-level Generation and Translation Shared Task
+72 # Naver Labs Europe's Systems for the Document-Level Generation and Translation Task at WNGT 2019
+73 # From Research to Production and Back: Ludicrously Fast Neural Machine Translation
+74 # Selecting, Planning, and Rewriting: A Modular Approach for Data-to-Document Generation and Translation
+75 # Efficiency through Auto-Sizing:Notre Dame NLP's Submission to the WNGT 2019 Efficiency Task
++ 11:40--12:30	Keynote 2: Mohit Bansal
++ 12:30--13:30	Lunch Break
++ 13:30--14:20	Keynote 3: Nanyun Peng
++ 14:20--15:10	Best Paper Session
++ 15:10--15:40	Coffee Break
++ 15:40--16:30	Keynote 4: Jason Weston
++ 16:30--17:00	Closing Remarks
