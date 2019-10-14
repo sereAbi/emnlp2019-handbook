@@ -8,6 +8,8 @@
 *.blg
 *.ai
 *.ilg
+*.idx
+*.xml
 scripts/*.pyc
 scripts/.idea/*
 scripts/__pycache__/*
