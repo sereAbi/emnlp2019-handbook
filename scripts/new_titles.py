@@ -41,16 +41,19 @@ with open(bib, 'r') as infile:
     except TypeError:
         pass # end
 
-u = 0
 c = 0
 for k, v in orderdic.items():
     try:
         if v == bibdic[k]:
-            u += 1
+            pass
         else:
             c += 1
+            print(k, v)
+            # if "'" in bibdic[k]:
+            #     print(k, v)
+            # print("sed -i 's/{}/{}/g' {}".format(bibdic[k], v, bib))
+
     except KeyError:
         print('{} not in bib'.format(k))
 
-print('uguali', u)
-print('diversi', c)
+print(c)
